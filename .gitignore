@@ -1,0 +1,25 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.chroma/
+chroma_db/
+*.log
+.pytest_cache/
+
+# Generated audio and local user data
+cache/audio/*
+!cache/audio/.gitkeep
+user_data/*
+!user_data/.gitkeep
+
+# Backup files
+*.backup
+*.before-laila-final
+*.final-backup
+
+# Editor settings
+.vscode/

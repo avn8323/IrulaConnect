@@ -1,0 +1,5066 @@
+{
+  "meta": {
+    "language": "Irula",
+    "iso_639_3": "iru",
+    "script": "Tamil",
+    "region": "Thiruvallur / Kanchipuram / Chengalpattu, Tamil Nadu",
+    "unesco_status": "Vulnerable",
+    "sources": [
+      "Zvelebil, K. (1973). The Irula Language. Harrassowitz.",
+      "Perialwar, R. (1979). Phonology of Irula with Vocabulary. Annamalai University.",
+      "ASJP Database (Wichmann et al.) - Wordlist: Irula. asjp.clld.org/languages/IRULA (CC BY 4.0)",
+      "Darwin, L. (2007). Language of Irulas: A Linguistic Study. PhD thesis, University of Kerala.",
+      "DEDR (Dravidian Etymological Dictionary), searched via kolichala.com/DEDR"
+    ]
+  },
+  "vocabulary": [
+   {
+      "id": "v001",
+      "category": "Pronouns",
+      "irula": "nānu",
+      "english": "I / Me",
+      "tamil": "நான் (Naan)",
+      "hindi": "मैं (Main)",
+      "telugu": "నేను (Nenu)"
+    },
+    {
+      "id": "v002",
+      "category": "Pronouns",
+      "irula": "nī",
+      "english": "You (Singular)",
+      "tamil": "நீ (Nee)",
+      "hindi": "तुम (Tum)",
+      "telugu": "నువ్వు (Nuvvu)"
+    },
+    {
+      "id": "v003",
+      "category": "Pronouns",
+      "irula": "avan",
+      "english": "He",
+      "tamil": "அவன் (Avan)",
+      "hindi": "वह (लड़का) (Vah)",
+      "telugu": "అతను (Atanu)"
+    },
+    {
+      "id": "v004",
+      "category": "Pronouns",
+      "irula": "ava",
+      "english": "She",
+      "tamil": "அவள் (Aval)",
+      "hindi": "वह (लड़की) (Vah)",
+      "telugu": "ఆమె (Aame)"
+    },
+    {
+      "id": "v005",
+      "category": "Pronouns",
+      "irula": "adu",
+      "english": "It / That",
+      "tamil": "அது (Athu)",
+      "hindi": "वह (निर्जीव/जानवर) (Vah)",
+      "telugu": "అది (Adi)"
+    },
+    {
+      "id": "v006",
+      "category": "Pronouns",
+      "irula": "idu",
+      "english": "This",
+      "tamil": "இது (Ithu)",
+      "hindi": "यह (Yah)",
+      "telugu": "ఇది (Idi)"
+    },
+    {
+      "id": "v007",
+      "category": "Pronouns",
+      "irula": "nāmbu",
+      "english": "We",
+      "tamil": "நாம் / நாங்கள் (Naam / Naangal)",
+      "hindi": "हम (Hum)",
+      "telugu": "మేము (Memu)"
+    },
+    {
+      "id": "v008",
+      "category": "Pronouns",
+      "irula": "nīnga",
+      "english": "You (Plural / Respectful)",
+      "tamil": "நீங்கள் (Neengal)",
+      "hindi": "आप (Aap)",
+      "telugu": "మీరు (Meeru)"
+    },
+    {
+      "id": "v009",
+      "category": "Pronouns",
+      "irula": "avanga",
+      "english": "They",
+      "tamil": "அவர்கள் (Avargal)",
+      "hindi": "वे (Ve)",
+      "telugu": "వారు (Vaaru)"
+    },
+    {
+      "id": "v010",
+      "category": "People",
+      "irula": "ālu",
+      "english": "Person / People",
+      "tamil": "ஆள் (Aal)",
+      "hindi": "व्यक्ति (Vyakti)",
+      "telugu": "మనిషి (Manishi)"
+    },
+    {
+      "id": "v011",
+      "category": "People",
+      "irula": "āmbale",
+      "english": "Man / Male",
+      "tamil": "ஆம்பளை (Aambalai)",
+      "hindi": "आदमी (Aadmi)",
+      "telugu": "మగాడు (Magaadu)"
+    },
+    {
+      "id": "v012",
+      "category": "People",
+      "irula": "pombale",
+      "english": "Woman / Female",
+      "tamil": "பொம்பளை (Pombalai)",
+      "hindi": "औरत (Aurat)",
+      "telugu": "మహిళ / ఆడది (Mahila / Aadadi)"
+    },
+    {
+      "id": "v013",
+      "category": "People",
+      "irula": "pulla",
+      "english": "Child",
+      "tamil": "பிள்ளை (Pillai)",
+      "hindi": "बच्चा (Bachcha)",
+      "telugu": "బిడ్డ (Bidda)"
+    },
+    {
+      "id": "v014",
+      "category": "People",
+      "irula": "payan",
+      "english": "Boy",
+      "tamil": "பையன் (Paiyan)",
+      "hindi": "लड़का (Ladka)",
+      "telugu": "అబ్బాయి (Abbayi)"
+    },
+    {
+      "id": "v015",
+      "category": "People",
+      "irula": "ponnu",
+      "english": "Girl",
+      "tamil": "பொண்ணு (Ponnu)",
+      "hindi": "लड़की (Ladki)",
+      "telugu": "అమ్మాయి (Ammayi)"
+    },
+    {
+      "id": "v016",
+      "category": "Family",
+      "irula": "appa",
+      "english": "Father",
+      "tamil": "அப்பா (Appaa)",
+      "hindi": "पिता (Pita)",
+      "telugu": "నాన్న (Naanna)"
+    },
+    {
+      "id": "v017",
+      "category": "Family",
+      "irula": "tayi",
+      "english": "Mother",
+      "tamil": "தாய் (Thaai)",
+      "hindi": "माँ (Maa)",
+      "telugu": "తల్లి / అమ్మ (Talli / Amma)"
+    },
+    {
+      "id": "v018",
+      "category": "Family",
+      "irula": "tāttā",
+      "english": "Grandfather",
+      "tamil": "தாத்தா (Thaathaa)",
+      "hindi": "दादा (Daada)",
+      "telugu": "తాత (Taata)"
+    },
+    {
+      "id": "v019",
+      "category": "Family",
+      "irula": "pātti",
+      "english": "Grandmother",
+      "tamil": "பாட்டி (Paatti)",
+      "hindi": "दादी (Daadi)",
+      "telugu": "నానమ్మ (Naanamma)"
+    },
+    {
+      "id": "v020",
+      "category": "Family",
+      "irula": "aṇṇa",
+      "english": "Elder Brother",
+      "tamil": "அண்ணா (Annaa)",
+      "hindi": "बड़ा भाई (Bada bhai)",
+      "telugu": "అన్నయ్య (Annayya)"
+    },
+    {
+      "id": "v021",
+      "category": "Family",
+      "irula": "tambi",
+      "english": "Younger Brother",
+      "tamil": "தம்பி (Thambi)",
+      "hindi": "छोटा भाई (Chhota bhai)",
+      "telugu": "తమ్ముడు (Tammudu)"
+    },
+    {
+      "id": "v022",
+      "category": "Family",
+      "irula": "akkā",
+      "english": "Elder Sister",
+      "tamil": "அக்கா (Akkaa)",
+      "hindi": "बड़ी बहन (Badi bahan)",
+      "telugu": "అక్క (Akka)"
+    },
+    {
+      "id": "v023",
+      "category": "Family",
+      "irula": "taṅgachi",
+      "english": "Younger Sister",
+      "tamil": "தங்கச்சி (Thangachi)",
+      "hindi": "छोटी बहन (Chhoti bahan)",
+      "telugu": "చెల్లెలు (Chellelu)"
+    },
+    {
+      "id": "v024",
+      "category": "Family",
+      "irula": "purusan",
+      "english": "Husband",
+      "tamil": "புருஷன் (Purushan)",
+      "hindi": "पति (Pati)",
+      "telugu": "భర్త (Bharta)"
+    },
+    {
+      "id": "v025",
+      "category": "Family",
+      "irula": "pondaṭṭi",
+      "english": "Wife",
+      "tamil": "பொண்டாட்டி (Pondaatti)",
+      "hindi": "पत्नी (Patni)",
+      "telugu": "భార్య (Bharya)"
+    },
+    {
+      "id": "v026",
+      "category": "Numbers",
+      "irula": "onnu",
+      "english": "One",
+      "tamil": "ஒன்னு (Onnu)",
+      "hindi": "एक (Ek)",
+      "telugu": "ఒకటి (Okati)"
+    },
+    {
+      "id": "v027",
+      "category": "Numbers",
+      "irula": "rendu",
+      "english": "Two",
+      "tamil": "ரெண்டு (Rendu)",
+      "hindi": "दो (Do)",
+      "telugu": "రెండు (Rendu)"
+    },
+    {
+      "id": "v028",
+      "category": "Numbers",
+      "irula": "mūnu",
+      "english": "Three",
+      "tamil": "மூனு (Moonu)",
+      "hindi": "तीन (Teen)",
+      "telugu": "మూడు (Moodu)"
+    },
+    {
+      "id": "v029",
+      "category": "Numbers",
+      "irula": "nālu",
+      "english": "Four",
+      "tamil": "நாலு (Naalu)",
+      "hindi": "चार (Chaar)",
+      "telugu": "నాలుగు (Naalugu)"
+    },
+    {
+      "id": "v030",
+      "category": "Numbers",
+      "irula": "añju",
+      "english": "Five",
+      "tamil": "அஞ்சு (Anju)",
+      "hindi": "पांच (Paanch)",
+      "telugu": "ఐదు (Aidu)"
+    },
+    {
+      "id": "v031",
+      "category": "Numbers",
+      "irula": "āru",
+      "english": "Six",
+      "tamil": "ஆறு (Aaru)",
+      "hindi": "छह (Chhah)",
+      "telugu": "ఆరు (Aaru)"
+    },
+    {
+      "id": "v032",
+      "category": "Numbers",
+      "irula": "ēlu",
+      "english": "Seven",
+      "tamil": "ஏழு (Aelu)",
+      "hindi": "सात (Saat)",
+      "telugu": "ఏడు (Aedu)"
+    },
+    {
+      "id": "v033",
+      "category": "Numbers",
+      "irula": "ettu",
+      "english": "Eight",
+      "tamil": "எட்டு (Ettu)",
+      "hindi": "आठ (Aath)",
+      "telugu": "ఎనిమిది (Enimidi)"
+    },
+    {
+      "id": "v034",
+      "category": "Numbers",
+      "irula": "ombadu",
+      "english": "Nine",
+      "tamil": "ஒம்பது (Ombathu)",
+      "hindi": "नौ (Nau)",
+      "telugu": "తొమ్మిది (Tommidi)"
+    },
+    {
+      "id": "v035",
+      "category": "Numbers",
+      "irula": "pattu",
+      "english": "Ten",
+      "tamil": "பத்து (Pathu)",
+      "hindi": "दस (Das)",
+      "telugu": "పది (Padi)"
+    },
+    {
+      "id": "v036",
+      "category": "Time Words",
+      "irula": "innekki",
+      "english": "Today",
+      "tamil": "இன்னைக்கு (Innaikku)",
+      "hindi": "आज (Aaj)",
+      "telugu": "ఈ రోజు (Ee roju)"
+    },
+    {
+      "id": "v037",
+      "category": "Time Words",
+      "irula": "nālekki",
+      "english": "Tomorrow",
+      "tamil": "நாளைக்கு (Naalaikku)",
+      "hindi": "कल (आने वाला) (Kal - future)",
+      "telugu": "రేపు (Repu)"
+    },
+    {
+      "id": "v038",
+      "category": "Time Words",
+      "irula": "nēttu",
+      "english": "Yesterday",
+      "tamil": "நேத்து (Nethu)",
+      "hindi": "कल (बीता हुआ) (Kal - past)",
+      "telugu": "నిన్న (Ninna)"
+    },
+    {
+      "id": "v039",
+      "category": "Time Words",
+      "irula": "pagal",
+      "english": "Day / Daytime",
+      "tamil": "பகல் (Pagal)",
+      "hindi": "दिन (Din)",
+      "telugu": "పగలు (Pagalu)"
+    },
+    {
+      "id": "v040",
+      "category": "Time Words",
+      "irula": "rāttiri",
+      "english": "Night",
+      "tamil": "ராத்திரி (Raathiri)",
+      "hindi": "रात (Raat)",
+      "telugu": "రాత్రి (Raatri)"
+    },
+    {
+      "id": "v041",
+      "category": "Time Words",
+      "irula": "kāle",
+      "english": "Morning",
+      "tamil": "காலை (Kaalai)",
+      "hindi": "सुबह (Subah)",
+      "telugu": "ఉదయం (Udayam)"
+    },
+    {
+      "id": "v042",
+      "category": "Time Words",
+      "irula": "sāyandaram",
+      "english": "Evening",
+      "tamil": "சாயந்தரம் (Saayantharam)",
+      "hindi": "शाम (Shaam)",
+      "telugu": "సాయంత్రం (Saayantram)"
+    },
+    {
+      "id": "v043",
+      "category": "Time Words",
+      "irula": "ippo",
+      "english": "Now",
+      "tamil": "இப்போ (Ippo)",
+      "hindi": "अभी (Abhi)",
+      "telugu": "ఇప్పుడు (Ippudu)"
+    },
+    {
+      "id": "v044",
+      "category": "Time Words",
+      "irula": "appo",
+      "english": "Then",
+      "tamil": "அப்போ (Appo)",
+      "hindi": "तब (Tab)",
+      "telugu": "అప్పుడు (Appudu)"
+    },
+    {
+      "id": "v045",
+      "category": "Time Words",
+      "irula": "eppo",
+      "english": "When?",
+      "tamil": "எப்போ (Eppo)",
+      "hindi": "कब? (Kab?)",
+      "telugu": "ఎప్పుడు? (Eppudu?)"
+    },
+    {
+      "id": "v046",
+      "category": "Nature",
+      "irula": "kādu",
+      "english": "Forest",
+      "tamil": "காடு (Kaadu)",
+      "hindi": "जंगल (Jangal)",
+      "telugu": "అడవి (Adavi)"
+    },
+    {
+      "id": "v047",
+      "category": "Nature",
+      "irula": "maram",
+      "english": "Tree",
+      "tamil": "மரம் (Maram)",
+      "hindi": "पेड़ (Ped)",
+      "telugu": "చెట్టు (Chettu)"
+    },
+    {
+      "id": "v048",
+      "category": "Nature",
+      "irula": "tanni",
+      "english": "Water",
+      "tamil": "தண்ணீர் (Thanneer)",
+      "hindi": "पानी (Paani)",
+      "telugu": "నీరు (Neeru)"
+    },
+    {
+      "id": "v049",
+      "category": "Nature",
+      "irula": "male",
+      "english": "Mountain / Hill",
+      "tamil": "மலை (Malai)",
+      "hindi": "पहाड़ (Pahad)",
+      "telugu": "కొండ (Konda)"
+    },
+    {
+      "id": "v050",
+      "category": "Nature",
+      "irula": "mannu",
+      "english": "Soil / Earth",
+      "tamil": "மண் (Man)",
+      "hindi": "मिट्टी (Mitti)",
+      "telugu": "మట్టి (Matti)"
+    },
+    {
+      "id": "v051",
+      "category": "Body Parts",
+      "irula": "tale",
+      "english": "Head",
+      "tamil": "தலை (Thalai)",
+      "hindi": "सिर (Sir)",
+      "telugu": "తల (Tala)"
+    },
+    {
+      "id": "v052",
+      "category": "Body Parts",
+      "irula": "kannu",
+      "english": "Eye",
+      "tamil": "கண் (Kan)",
+      "hindi": "आँख (Aankh)",
+      "telugu": "కన్ను (Kannu)"
+    },
+    {
+      "id": "v053",
+      "category": "Body Parts",
+      "irula": "kādu",
+      "english": "Ear",
+      "tamil": "காது (Kaadhu)",
+      "hindi": "कान (Kaan)",
+      "telugu": "చెవి (Chevi)"
+    },
+    {
+      "id": "v054",
+      "category": "Body Parts",
+      "irula": "mūkku",
+      "english": "Nose",
+      "tamil": "மூக்கு (Mookku)",
+      "hindi": "नाक (Naak)",
+      "telugu": "ముక్కు (Mukku)"
+    },
+    {
+      "id": "v055",
+      "category": "Body Parts",
+      "irula": "vāy",
+      "english": "Mouth",
+      "tamil": "வாய் (Vaay)",
+      "hindi": "मुंह (Munh)",
+      "telugu": "నోరు (Noru)"
+    },
+    {
+      "id": "v056",
+      "category": "Body Parts",
+      "irula": "pallu",
+      "english": "Tooth",
+      "tamil": "பல் (Pal)",
+      "hindi": "दांत (Daant)",
+      "telugu": "పన్ను (Pannu)"
+    },
+    {
+      "id": "v057",
+      "category": "Body Parts",
+      "irula": "kayi",
+      "english": "Hand",
+      "tamil": "கை (Kai)",
+      "hindi": "हाथ (Haath)",
+      "telugu": "చేయి (Cheyi)"
+    },
+    {
+      "id": "v058",
+      "category": "Body Parts",
+      "irula": "kālu",
+      "english": "Leg",
+      "tamil": "கால் (Kaal)",
+      "hindi": "पैर (Pair)",
+      "telugu": "కాలు (Kaalu)"
+    },
+    {
+      "id": "v059",
+      "category": "Body Parts",
+      "irula": "vāyaru",
+      "english": "Stomach",
+      "tamil": "வயிறு (Vayiru)",
+      "hindi": "पेट (Pet)",
+      "telugu": "కడుపు (Kadupu)"
+    },
+    {
+      "id": "v060",
+      "category": "Body Parts",
+      "irula": "mudi",
+      "english": "Hair",
+      "tamil": "முடி (Mudi)",
+      "hindi": "बाल (Baal)",
+      "telugu": "జుట్టు (Juttu)"
+    },
+    {
+      "id": "v061",
+      "category": "Body Parts",
+      "irula": "rattam",
+      "english": "Blood",
+      "tamil": "ரத்தம் (Ratham)",
+      "hindi": "खून (Khoon)",
+      "telugu": "రక్తం (Raktam)"
+    },
+    {
+      "id": "v062",
+      "category": "Body Parts",
+      "irula": "elumbu",
+      "english": "Bone",
+      "tamil": "எலும்பு (Elumbu)",
+      "hindi": "हड्डी (Haddi)",
+      "telugu": "ఎముక (Emuka)"
+    },
+    {
+      "id": "v063",
+      "category": "Food",
+      "irula": "sōru",
+      "english": "Cooked Rice / Food",
+      "tamil": "சோறு (Soru)",
+      "hindi": "चावल / खाना (Chaawal / Khaana)",
+      "telugu": "అన్నం (Annam)"
+    },
+    {
+      "id": "v064",
+      "category": "Food",
+      "irula": "kari",
+      "english": "Meat",
+      "tamil": "கறி (Kari)",
+      "hindi": "मांस (Maans)",
+      "telugu": "మాంసం (Maamsam)"
+    },
+    {
+      "id": "v065",
+      "category": "Food",
+      "irula": "mīnu",
+      "english": "Fish",
+      "tamil": "மீன் (Meen)",
+      "hindi": "मछली (Machhli)",
+      "telugu": "చేప (Chepa)"
+    },
+    {
+      "id": "v066",
+      "category": "Food",
+      "irula": "kāy",
+      "english": "Vegetable",
+      "tamil": "காய் (Kaay)",
+      "hindi": "सब्ज़ी (Sabzi)",
+      "telugu": "కూరగాయ (Kooragaaya)"
+    },
+    {
+      "id": "v067",
+      "category": "Food",
+      "irula": "palam",
+      "english": "Fruit",
+      "tamil": "பழம் (Pazham)",
+      "hindi": "फल (Phal)",
+      "telugu": "పండు (Pandu)"
+    },
+    {
+      "id": "v068",
+      "category": "Food",
+      "irula": "pālu",
+      "english": "Milk",
+      "tamil": "பால் (Paal)",
+      "hindi": "दूध (Doodh)",
+      "telugu": "పాలు (Paalu)"
+    },
+    {
+      "id": "v069",
+      "category": "Food",
+      "irula": "mutte",
+      "english": "Egg",
+      "tamil": "முட்டை (Muttai)",
+      "hindi": "अंडा (Anda)",
+      "telugu": "గుడ్డు (Guddu)"
+    },
+    {
+      "id": "v070",
+      "category": "Food",
+      "irula": "uppu",
+      "english": "Salt",
+      "tamil": "உப்பு (Uppu)",
+      "hindi": "नमक (Namak)",
+      "telugu": "ఉప్పు (Uppu)"
+    },
+    {
+      "id": "v071",
+      "category": "Food",
+      "irula": "inippu",
+      "english": "Sweet",
+      "tamil": "இனிப்பு (Inippu)",
+      "hindi": "मीठा (Meetha)",
+      "telugu": "తీపి (Teepi)"
+    },
+    {
+      "id": "v072",
+      "category": "Food",
+      "irula": "tēnu",
+      "english": "Honey",
+      "tamil": "தேன் (Thaen)",
+      "hindi": "शहद (Shahad)",
+      "telugu": "తేనె (Teene)"
+    },
+    {
+      "id": "v073",
+      "category": "Food",
+      "irula": "kelañgu",
+      "english": "Tuber / Root",
+      "tamil": "கிழங்கு (Kizhangu)",
+      "hindi": "कंद / जड़ (Kand / Jad)",
+      "telugu": "దుంప (Dumpa)"
+    },
+    {
+      "id": "v074",
+      "category": "Food",
+      "irula": "arisi",
+      "english": "Uncooked Rice",
+      "tamil": "அரிசி (Arisi)",
+      "hindi": "कच्चे चावल (Kachche chaawal)",
+      "telugu": "బియ్యం (Biyyam)"
+    },
+    {
+      "id": "v075",
+      "category": "Food",
+      "irula": "neruppu",
+      "english": "Fire",
+      "tamil": "நெருப்பு (Neruppu)",
+      "hindi": "आग (Aag)",
+      "telugu": "నిప్పు (Nippu)"
+    },
+    {
+      "id": "v076",
+      "category": "Animals",
+      "irula": "nāy",
+      "english": "Dog",
+      "tamil": "நாய் (Naay)",
+      "hindi": "कुत्ता (Kutta)",
+      "telugu": "కుక్క (Kukka)"
+    },
+    {
+      "id": "v077",
+      "category": "Animals",
+      "irula": "pūne",
+      "english": "Cat",
+      "tamil": "பூனை (Poonai)",
+      "hindi": "बिल्ली (Billi)",
+      "telugu": "పిల్లి (Pilli)"
+    },
+    {
+      "id": "v078",
+      "category": "Animals",
+      "irula": "mādu",
+      "english": "Cow / Cattle",
+      "tamil": "மாடு (Maadu)",
+      "hindi": "गाय (Gaay)",
+      "telugu": "ఆవు (Aavu)"
+    },
+    {
+      "id": "v079",
+      "category": "Animals",
+      "irula": "yāne",
+      "english": "Elephant",
+      "tamil": "யானை (Yaanai)",
+      "hindi": "हाथी (Haathi)",
+      "telugu": "ఏనుగు (Aenugu)"
+    },
+    {
+      "id": "v080",
+      "category": "Animals",
+      "irula": "pāmbu",
+      "english": "Snake",
+      "tamil": "பாம்பு (Paambu)",
+      "hindi": "सांप (Saanp)",
+      "telugu": "పాము (Paamu)"
+    },
+    {
+      "id": "v081",
+      "category": "Animals",
+      "irula": "kuruvi",
+      "english": "Bird",
+      "tamil": "குருவி (Kuruvi)",
+      "hindi": "पक्षी / चिड़िया (Pakshi / Chidiya)",
+      "telugu": "పక్షి (Pakshi)"
+    },
+    {
+      "id": "v082",
+      "category": "Animals",
+      "irula": "puli",
+      "english": "Tiger",
+      "tamil": "புலி (Puli)",
+      "hindi": "बाघ (Baagh)",
+      "telugu": "పులి (Puli)"
+    },
+    {
+      "id": "v083",
+      "category": "Animals",
+      "irula": "karadi",
+      "english": "Bear",
+      "tamil": "கரடி (Karadi)",
+      "hindi": "भालू (Bhalu)",
+      "telugu": "ఎలుగుబంటి (Elugubanti)"
+    },
+    {
+      "id": "v084",
+      "category": "Animals",
+      "irula": "korangu",
+      "english": "Monkey",
+      "tamil": "குரங்கு (Korangu)",
+      "hindi": "बंदर (Bandar)",
+      "telugu": "కోతి (Koti)"
+    },
+    {
+      "id": "v085",
+      "category": "Animals",
+      "irula": "panni",
+      "english": "Pig",
+      "tamil": "பன்றி (Panri)",
+      "hindi": "सुअर (Suar)",
+      "telugu": "పంది (Pandi)"
+    },
+    {
+      "id": "v086",
+      "category": "Colors",
+      "irula": "karuppu",
+      "english": "Black",
+      "tamil": "கருப்பு (Karuppu)",
+      "hindi": "काला (Kaala)",
+      "telugu": "నలుపు (Nalupu)"
+    },
+    {
+      "id": "v087",
+      "category": "Colors",
+      "irula": "velle",
+      "english": "White",
+      "tamil": "வெள்ளை (Vellai)",
+      "hindi": "सफेद (Safed)",
+      "telugu": "తెలుపు (Telupu)"
+    },
+    {
+      "id": "v088",
+      "category": "Colors",
+      "irula": "seveppu",
+      "english": "Red",
+      "tamil": "சிகப்பு (Sigappu)",
+      "hindi": "लाल (Laal)",
+      "telugu": "ఎరుపు (Erupu)"
+    },
+    {
+      "id": "v089",
+      "category": "Colors",
+      "irula": "pacha",
+      "english": "Green",
+      "tamil": "பச்சை (Pachai)",
+      "hindi": "हरा (Hara)",
+      "telugu": "ఆకుపచ్చ (Aakupachcha)"
+    },
+    {
+      "id": "v090",
+      "category": "Colors",
+      "irula": "mañja",
+      "english": "Yellow",
+      "tamil": "மஞ்சள் (Manjal)",
+      "hindi": "पीला (Peela)",
+      "telugu": "పసుపు (Pasupu)"
+    },
+    {
+      "id": "v091",
+      "category": "Adjectives",
+      "irula": "perusu",
+      "english": "Big",
+      "tamil": "பெரிசு (Perisu)",
+      "hindi": "बड़ा (Bada)",
+      "telugu": "పెద్ద (Pedda)"
+    },
+    {
+      "id": "v092",
+      "category": "Adjectives",
+      "irula": "sinnasu",
+      "english": "Small",
+      "tamil": "சின்னுசு (Sinnusu)",
+      "hindi": "छोटा (Chhota)",
+      "telugu": "చిన్న (Chinna)"
+    },
+    {
+      "id": "v093",
+      "category": "Adjectives",
+      "irula": "nalladu",
+      "english": "Good",
+      "tamil": "நல்லது (Nallathu)",
+      "hindi": "अच्छा (Achchha)",
+      "telugu": "మంచి (Manchi)"
+    },
+    {
+      "id": "v094",
+      "category": "Adjectives",
+      "irula": "keṭṭadu",
+      "english": "Bad",
+      "tamil": "கெட்டது (Kettathu)",
+      "hindi": "बुरा (Bura)",
+      "telugu": "చెడు (Chedu)"
+    },
+    {
+      "id": "v095",
+      "category": "Adjectives",
+      "irula": "sūdu",
+      "english": "Hot",
+      "tamil": "சூடு (Soodu)",
+      "hindi": "गरम (Garam)",
+      "telugu": "వేడి (Vedi)"
+    },
+    {
+      "id": "v096",
+      "category": "Adjectives",
+      "irula": "kuliru",
+      "english": "Cold",
+      "tamil": "குளிர் (Kulir)",
+      "hindi": "ठंडा (Thanda)",
+      "telugu": "చలి / చల్లని (Chali / Challani)"
+    },
+    {
+      "id": "v097",
+      "category": "Adjectives",
+      "irula": "pudusu",
+      "english": "New",
+      "tamil": "புதுசு (Pudhusu)",
+      "hindi": "नया (Naya)",
+      "telugu": "కొత్త (Kotta)"
+    },
+    {
+      "id": "v098",
+      "category": "Adjectives",
+      "irula": "palasu",
+      "english": "Old (Thing)",
+      "tamil": "பழசு (Pazhasu)",
+      "hindi": "पुराना (Purana)",
+      "telugu": "పాత (Paata)"
+    },
+    {
+      "id": "v099",
+      "category": "Adjectives",
+      "irula": "osaram",
+      "english": "Tall / High",
+      "tamil": "உசரம் (Usaram)",
+      "hindi": "ऊँचा (Ooncha)",
+      "telugu": "పొడవు (Podavu)"
+    },
+    {
+      "id": "v100",
+      "category": "Adjectives",
+      "irula": "kutte",
+      "english": "Short / Low",
+      "tamil": "குட்டை (Kuttai)",
+      "hindi": "छोटा / नीचा (Chhota / Neecha)",
+      "telugu": "పొట్టి (Potti)"
+    },
+    {
+      "id": "v101",
+      "category": "Action Verbs",
+      "irula": "vā",
+      "english": "Come",
+      "tamil": "வா (Vaa)",
+      "hindi": "आना (Aana)",
+      "telugu": "రా (Raa)"
+    },
+    {
+      "id": "v102",
+      "category": "Action Verbs",
+      "irula": "pō",
+      "english": "Go",
+      "tamil": "போ (Poo)",
+      "hindi": "जाना (Jaana)",
+      "telugu": "వెళ్ళు (Vellu)"
+    },
+    {
+      "id": "v103",
+      "category": "Action Verbs",
+      "irula": "tinnu",
+      "english": "Eat",
+      "tamil": "தின்னு (Thinnu)",
+      "hindi": "खाना (Khaana)",
+      "telugu": "తిను (Tinu)"
+    },
+    {
+      "id": "v104",
+      "category": "Action Verbs",
+      "irula": "kudi",
+      "english": "Drink",
+      "tamil": "குடி (Kudi)",
+      "hindi": "पीना (Peena)",
+      "telugu": "తాగు (Taagu)"
+    },
+    {
+      "id": "v105",
+      "category": "Action Verbs",
+      "irula": "tūngu",
+      "english": "Sleep",
+      "tamil": "தூங்கு (Thoongu)",
+      "hindi": "सोना (Sona)",
+      "telugu": "పడుకో (Paduko)"
+    },
+    {
+      "id": "v106",
+      "category": "Action Verbs",
+      "irula": "pāru",
+      "english": "See / Look",
+      "tamil": "பாரு (Paaru)",
+      "hindi": "देखना (Dekhna)",
+      "telugu": "చూడు (Chudu)"
+    },
+    {
+      "id": "v107",
+      "category": "Action Verbs",
+      "irula": "pēsu",
+      "english": "Speak / Talk",
+      "tamil": "பேசு (Pesu)",
+      "hindi": "बोलना (Bolna)",
+      "telugu": "మాట్లాడు (Maatladu)"
+    },
+    {
+      "id": "v108",
+      "category": "Action Verbs",
+      "irula": "sollu",
+      "english": "Tell / Say",
+      "tamil": "சொல்லு (Sollu)",
+      "hindi": "कहना (Kahna)",
+      "telugu": "చెప్పు (Cheppu)"
+    },
+    {
+      "id": "v109",
+      "category": "Action Verbs",
+      "irula": "kēlu",
+      "english": "Hear / Listen",
+      "tamil": "கேளு (Kelu)",
+      "hindi": "सुनना (Sunna)",
+      "telugu": "విను (Vinu)"
+    },
+    {
+      "id": "v110",
+      "category": "Action Verbs",
+      "irula": "ukkāru",
+      "english": "Sit",
+      "tamil": "உட்காரு (Utkaaru)",
+      "hindi": "बैठना (Baithna)",
+      "telugu": "కూర్చో (Kurcho)"
+    },
+    {
+      "id": "v111",
+      "category": "Action Verbs",
+      "irula": "nillu",
+      "english": "Stand",
+      "tamil": "நில்லு (Nillu)",
+      "hindi": "खड़ा होना (Khada hona)",
+      "telugu": "నిలబడు (Nilabadu)"
+    },
+    {
+      "id": "v112",
+      "category": "Action Verbs",
+      "irula": "nada",
+      "english": "Walk",
+      "tamil": "நட (Nada)",
+      "hindi": "चलना (Chalna)",
+      "telugu": "నడువు (Naduvu)"
+    },
+    {
+      "id": "v113",
+      "category": "Action Verbs",
+      "irula": "ōdu",
+      "english": "Run",
+      "tamil": "ஓடு (Odu)",
+      "hindi": "दौड़ना (Daudna)",
+      "telugu": "పరిగెత్తు (Parigettu)"
+    },
+    {
+      "id": "v114",
+      "category": "Action Verbs",
+      "irula": "kudu",
+      "english": "Give",
+      "tamil": "கொடு (Kodu)",
+      "hindi": "देना (Dena)",
+      "telugu": "ఇవ్వు (Ivvu)"
+    },
+    {
+      "id": "v115",
+      "category": "Action Verbs",
+      "irula": "edu",
+      "english": "Take",
+      "tamil": "எடு (Edu)",
+      "hindi": "लेना (Lena)",
+      "telugu": "తీసుకో (Teesuko)"
+    },
+    {
+      "id": "v116",
+      "category": "Action Verbs",
+      "irula": "konda",
+      "english": "Bring",
+      "tamil": "கொண்டு வா (Kondu vaa)",
+      "hindi": "लाना (Laana)",
+      "telugu": "తీసుకురా (Teesukura)"
+    },
+    {
+      "id": "v117",
+      "category": "Action Verbs",
+      "irula": "pannu",
+      "english": "Do / Make",
+      "tamil": "பண்ணு (Pannu)",
+      "hindi": "करना (Karna)",
+      "telugu": "చేయి (Cheyi)"
+    },
+    {
+      "id": "v118",
+      "category": "Action Verbs",
+      "irula": "alu",
+      "english": "Cry",
+      "tamil": "அழு (Azhu)",
+      "hindi": "रोना (Rona)",
+      "telugu": "ఏడువు (Eduvu)"
+    },
+    {
+      "id": "v119",
+      "category": "Action Verbs",
+      "irula": "siri",
+      "english": "Laugh / Smile",
+      "tamil": "சிரி (Siri)",
+      "hindi": "हंसना (Hansna)",
+      "telugu": "నవ్వు (Navvu)"
+    },
+    {
+      "id": "v120",
+      "category": "Action Verbs",
+      "irula": "vāngu",
+      "english": "Buy / Get",
+      "tamil": "வாங்கு (Vaangu)",
+      "hindi": "खरीदना (Kharidna)",
+      "telugu": "కొను (Konu)"
+    },
+    {
+      "id": "v121",
+      "category": "Action Verbs",
+      "irula": "kadi",
+      "english": "Bite",
+      "tamil": "கடி (Kadi)",
+      "hindi": "काटना (Kaatna)",
+      "telugu": "కొరుకు (Koruku)"
+    },
+    {
+      "id": "v122",
+      "category": "Action Verbs",
+      "irula": "padi",
+      "english": "Read / Study",
+      "tamil": "படி (Padi)",
+      "hindi": "पढ़ना (Padhna)",
+      "telugu": "చదువు (Chaduvu)"
+    },
+    {
+      "id": "v123",
+      "category": "Action Verbs",
+      "irula": "vilayādu",
+      "english": "Play",
+      "tamil": "விளையாடு (Vilaiyaadu)",
+      "hindi": "खेलना (Khelna)",
+      "telugu": "ఆడుకో (Aaduko)"
+    },
+    {
+      "id": "v124",
+      "category": "Action Verbs",
+      "irula": "tora",
+      "english": "Open",
+      "tamil": "திற (Thira)",
+      "hindi": "खोलना (Kholna)",
+      "telugu": "తెరువు (Teruvu)"
+    },
+    {
+      "id": "v125",
+      "category": "Action Verbs",
+      "irula": "mūdu",
+      "english": "Close",
+      "tamil": "மூடு (Moodu)",
+      "hindi": "बंद करना (Band karna)",
+      "telugu": "మూయి (Mooyi)"
+    },
+    {
+      "id": "v126",
+      "category": "Household Items",
+      "irula": "vīdu",
+      "english": "House / Home",
+      "tamil": "வீடு (Veedu)",
+      "hindi": "घर (Ghar)",
+      "telugu": "ఇల్లు (Illu)"
+    },
+    {
+      "id": "v127",
+      "category": "Household Items",
+      "irula": "kadavu",
+      "english": "Door",
+      "tamil": "கதவு (Kathavu)",
+      "hindi": "दरवाज़ा (Darwaza)",
+      "telugu": "తలుపు (Talupu)"
+    },
+    {
+      "id": "v128",
+      "category": "Household Items",
+      "irula": "pūṭṭu",
+      "english": "Lock",
+      "tamil": "பூட்டு (Poottu)",
+      "hindi": "ताला (Taala)",
+      "telugu": "తాళం (Taalam)"
+    },
+    {
+      "id": "v129",
+      "category": "Household Items",
+      "irula": "sāvi",
+      "english": "Key",
+      "tamil": "சாவி (Saavi)",
+      "hindi": "चाबी (Chaabi)",
+      "telugu": "తాళం చెవి (Taalam chevi)"
+    },
+    {
+      "id": "v130",
+      "category": "Household Items",
+      "irula": "pāy",
+      "english": "Mat",
+      "tamil": "பாய் (Paay)",
+      "hindi": "चटाई (Chatai)",
+      "telugu": "చాప (Chaapa)"
+    },
+    {
+      "id": "v131",
+      "category": "Household Items",
+      "irula": "kattil",
+      "english": "Cot / Bed",
+      "tamil": "கட்டில் (Kattil)",
+      "hindi": "चारपाई / पलंग (Charpai / Palang)",
+      "telugu": "మంచం (Mancham)"
+    },
+    {
+      "id": "v132",
+      "category": "Household Items",
+      "irula": "pāne",
+      "english": "Pot",
+      "tamil": "பானை (Paanai)",
+      "hindi": "मटका (Matka)",
+      "telugu": "కుండ (Kunda)"
+    },
+    {
+      "id": "v133",
+      "category": "Household Items",
+      "irula": "pāttiram",
+      "english": "Vessel / Utensil",
+      "tamil": "பாத்திரம் (Paathiram)",
+      "hindi": "बर्तन (Bartan)",
+      "telugu": "పాత్ర (Paatra)"
+    },
+    {
+      "id": "v134",
+      "category": "Tools",
+      "irula": "katti",
+      "english": "Knife",
+      "tamil": "கத்தி (Kathi)",
+      "hindi": "चाकू (Chaaku)",
+      "telugu": "కత్తి (Katti)"
+    },
+    {
+      "id": "v135",
+      "category": "Tools",
+      "irula": "arivālu",
+      "english": "Sickle",
+      "tamil": "அரிவாள் (Arivaal)",
+      "hindi": "हँसिया (Hansiya)",
+      "telugu": "కొడవలి (Kodavali)"
+    },
+    {
+      "id": "v136",
+      "category": "Tools",
+      "irula": "kōdāri",
+      "english": "Axe",
+      "tamil": "கோடாரி (Kodaari)",
+      "hindi": "कुल्हाड़ी (Kulhaadi)",
+      "telugu": "గొడ్డలి (Goddali)"
+    },
+    {
+      "id": "v137",
+      "category": "Tools",
+      "irula": "veragu",
+      "english": "Firewood",
+      "tamil": "விறகு (Viragu)",
+      "hindi": "लकड़ी (ईंधन) (Lakdi - Fuel)",
+      "telugu": "కట్టెలు (Kattelu)"
+    },
+    {
+      "id": "v138",
+      "category": "Daily Objects",
+      "irula": "tuṇi",
+      "english": "Cloth / Clothes",
+      "tamil": "துணி (Thuni)",
+      "hindi": "कपड़ा (Kapda)",
+      "telugu": "బట్టలు (Battalu)"
+    },
+    {
+      "id": "v139",
+      "category": "Daily Objects",
+      "irula": "kūde",
+      "english": "Basket",
+      "tamil": "கூடை (Koodai)",
+      "hindi": "टोकरी (Tokri)",
+      "telugu": "బుట్ట (Butta)"
+    },
+    {
+      "id": "v140",
+      "category": "Tools",
+      "irula": "kayiru",
+      "english": "Rope",
+      "tamil": "கயிறு (Kayiru)",
+      "hindi": "रस्सी (Rassi)",
+      "telugu": "తాడు (Taadu)"
+    },
+    {
+      "id": "v141",
+      "category": "Tools",
+      "irula": "bale",
+      "english": "Net",
+      "tamil": "வலை (Valai)",
+      "hindi": "जाल (Jaal)",
+      "telugu": "వల (Vala)"
+    },
+    {
+      "id": "v142",
+      "category": "Household Items",
+      "irula": "todappam",
+      "english": "Broom",
+      "tamil": "தொடப்பம் (Thodappam)",
+      "hindi": "झाड़ू (Jhaadu)",
+      "telugu": "చీపురు (Cheepuru)"
+    },
+    {
+      "id": "v143",
+      "category": "Household Items",
+      "irula": "velakku",
+      "english": "Lamp / Light",
+      "tamil": "விளக்கு (Vilakku)",
+      "hindi": "दीपक / बत्ती (Deepak)",
+      "telugu": "దీపం (Deepam)"
+    },
+    {
+      "id": "v144",
+      "category": "Daily Objects",
+      "irula": "kallu",
+      "english": "Stone",
+      "tamil": "கல் (Kal)",
+      "hindi": "पत्थर (Patthar)",
+      "telugu": "రాయి (Raayi)"
+    },
+    {
+      "id": "v145",
+      "category": "Daily Objects",
+      "irula": "kuchi",
+      "english": "Stick",
+      "tamil": "குச்சி (Kuchi)",
+      "hindi": "छड़ी (Chhadi)",
+      "telugu": "కర్ర (Karra)"
+    },
+    {
+      "id": "v146",
+      "category": "Daily Objects",
+      "irula": "kāsu",
+      "english": "Money / Coin",
+      "tamil": "காசு (Kaasu)",
+      "hindi": "पैसा (Paisa)",
+      "telugu": "డబ్బు (Dabbu)"
+    },
+    {
+      "id": "v147",
+      "category": "Daily Objects",
+      "irula": "payi",
+      "english": "Bag",
+      "tamil": "பை (Pai)",
+      "hindi": "थैला (Thaila)",
+      "telugu": "సంచి (Sanchi)"
+    },
+    {
+      "id": "v148",
+      "category": "Daily Objects",
+      "irula": "peṭṭi",
+      "english": "Box",
+      "tamil": "பெட்டி (Petti)",
+      "hindi": "बक्सा (Baksa)",
+      "telugu": "పెట్టె (Pette)"
+    },
+    {
+      "id": "v149",
+      "category": "Daily Objects",
+      "irula": "kannādi",
+      "english": "Mirror / Glass",
+      "tamil": "கண்ணாடி (Kannaadi)",
+      "hindi": "आईना / शीशा (Aaina)",
+      "telugu": "అద్దం (Addam)"
+    },
+    {
+      "id": "v150",
+      "category": "Daily Objects",
+      "irula": "marundu",
+      "english": "Medicine",
+      "tamil": "மருந்து (Marunthu)",
+      "hindi": "दवा (Dawa)",
+      "telugu": "మందు (Mandu)"
+    },
+    {
+      "id": "v151",
+      "category": "Question Words",
+      "irula": "enna",
+      "english": "What",
+      "tamil": "என்ன (Enna)",
+      "hindi": "क्या (Kya)",
+      "telugu": "ఏమిటి (Emiti)"
+    },
+    {
+      "id": "v152",
+      "category": "Question Words",
+      "irula": "yāru",
+      "english": "Who",
+      "tamil": "யார் (Yaar)",
+      "hindi": "कौन (Kaun)",
+      "telugu": "ఎవరు (Evaru)"
+    },
+    {
+      "id": "v153",
+      "category": "Question Words",
+      "irula": "ekke",
+      "english": "Where",
+      "tamil": "எங்கே (Enge)",
+      "hindi": "कहाँ (Kahan)",
+      "telugu": "ఎక్కడ (Ekkada)"
+    },
+    {
+      "id": "v154",
+      "category": "Question Words",
+      "irula": "eppo",
+      "english": "When",
+      "tamil": "எப்போ (Eppo)",
+      "hindi": "कब (Kab)",
+      "telugu": "ఎప్పుడు (Eppudu)"
+    },
+    {
+      "id": "v155",
+      "category": "Question Words",
+      "irula": "ēn",
+      "english": "Why",
+      "tamil": "ஏன் (Aen)",
+      "hindi": "क्यों (Kyon)",
+      "telugu": "ఎందుకు (Enduku)"
+    },
+    {
+      "id": "v156",
+      "category": "Question Words",
+      "irula": "epdi",
+      "english": "How",
+      "tamil": "எப்படி (Eppadi)",
+      "hindi": "कैसे (Kaise)",
+      "telugu": "ఎలా (Ela)"
+    },
+    {
+      "id": "v157",
+      "category": "Question Words",
+      "irula": "edu",
+      "english": "Which",
+      "tamil": "எது (Ethu)",
+      "hindi": "कौन सा (Kaun sa)",
+      "telugu": "ఏది (Edi)"
+    },
+    {
+      "id": "v158",
+      "category": "Question Words",
+      "irula": "evvalavu",
+      "english": "How much",
+      "tamil": "எவ்வளவு (Evvalavu)",
+      "hindi": "कितना (Kitna)",
+      "telugu": "ఎంత (Enta)"
+    },
+    {
+      "id": "v159",
+      "category": "Question Words",
+      "irula": "etene",
+      "english": "How many",
+      "tamil": "எத்தனை (Ethanai)",
+      "hindi": "कितने (Kitne)",
+      "telugu": "ఎన్ని (Enni)"
+    },
+    {
+      "id": "v160",
+      "category": "Question Words",
+      "irula": "yārudu",
+      "english": "Whose",
+      "tamil": "யாருடைய (Yaarudaya)",
+      "hindi": "किसका (Kiska)",
+      "telugu": "ఎవరిది (Evaridi)"
+    },
+    {
+      "id": "v161",
+      "category": "Directions",
+      "irula": "ikke",
+      "english": "Here",
+      "tamil": "இங்கே (Inge)",
+      "hindi": "यहाँ (Yahan)",
+      "telugu": "ఇక్కడ (Ikkada)"
+    },
+    {
+      "id": "v162",
+      "category": "Directions",
+      "irula": "akke",
+      "english": "There",
+      "tamil": "அங்கே (Ange)",
+      "hindi": "वहाँ (Wahan)",
+      "telugu": "అక్కడ (Akkada)"
+    },
+    {
+      "id": "v163",
+      "category": "Directions",
+      "irula": "mēle",
+      "english": "Up / Above",
+      "tamil": "மேலே (Maele)",
+      "hindi": "ऊपर (Upar)",
+      "telugu": "పైన (Paina)"
+    },
+    {
+      "id": "v164",
+      "category": "Directions",
+      "irula": "kīle",
+      "english": "Down / Below",
+      "tamil": "கீழே (Keezhe)",
+      "hindi": "नीचे (Neeche)",
+      "telugu": "కింద (Kinda)"
+    },
+    {
+      "id": "v165",
+      "category": "Directions",
+      "irula": "munnādi",
+      "english": "Front",
+      "tamil": "முன்னாடி (Munnaadi)",
+      "hindi": "आगे (Aage)",
+      "telugu": "ముందు (Mundu)"
+    },
+    {
+      "id": "v166",
+      "category": "Directions",
+      "irula": "pinnādi",
+      "english": "Back / Behind",
+      "tamil": "பின்னாடி (Pinnaadi)",
+      "hindi": "पीछे (Peechhe)",
+      "telugu": "వెనుక (Venuka)"
+    },
+    {
+      "id": "v167",
+      "category": "Directions",
+      "irula": "ullukka",
+      "english": "Inside",
+      "tamil": "உள்ளே (Ulle)",
+      "hindi": "अंदर (Andar)",
+      "telugu": "లోపల (Lopala)"
+    },
+    {
+      "id": "v168",
+      "category": "Directions",
+      "irula": "veliyakka",
+      "english": "Outside",
+      "tamil": "வெளியே (Veliye)",
+      "hindi": "बाहर (Bahar)",
+      "telugu": "బయట (Bayata)"
+    },
+    {
+      "id": "v169",
+      "category": "Directions",
+      "irula": "kitte",
+      "english": "Near",
+      "tamil": "கிட்டே (Kittae)",
+      "hindi": "पास (Paas)",
+      "telugu": "దగ్గర (Daggara)"
+    },
+    {
+      "id": "v170",
+      "category": "Directions",
+      "irula": "dūram",
+      "english": "Far",
+      "tamil": "தூரம் (Thooram)",
+      "hindi": "दूर (Door)",
+      "telugu": "దూరం (Dooram)"
+    },
+    {
+      "id": "v171",
+      "category": "Directions",
+      "irula": "valadu",
+      "english": "Right (Direction)",
+      "tamil": "வலது (Valathu)",
+      "hindi": "दायां (Daayaan)",
+      "telugu": "కుడి (Kudi)"
+    },
+    {
+      "id": "v172",
+      "category": "Directions",
+      "irula": "edadu",
+      "english": "Left (Direction)",
+      "tamil": "இடது (Idathu)",
+      "hindi": "बायां (Baayaan)",
+      "telugu": "ఎడమ (Edama)"
+    },
+    {
+      "id": "v173",
+      "category": "Directions",
+      "irula": "nēra",
+      "english": "Straight",
+      "tamil": "நேரா (Neraa)",
+      "hindi": "सीधा (Seedha)",
+      "telugu": "తిన్నగా (Tinnaga)"
+    },
+    {
+      "id": "v174",
+      "category": "Directions",
+      "irula": "naduvu",
+      "english": "Middle / Center",
+      "tamil": "நடுவில் (Naduvil)",
+      "hindi": "बीच (Beech)",
+      "telugu": "మధ్య (Madhya)"
+    },
+    {
+      "id": "v175",
+      "category": "Directions",
+      "irula": "pakkam",
+      "english": "Side / Next to",
+      "tamil": "பக்கம் (Pakkam)",
+      "hindi": "तरफ / बगल (Taraf / Bagal)",
+      "telugu": "వైపు (Vaipu)"
+    },
+    {
+      "id": "v176",
+      "category": "Feelings",
+      "irula": "santhōsam",
+      "english": "Happy / Happiness",
+      "tamil": "சந்தோஷம் (Santhosham)",
+      "hindi": "खुशी (Khushi)",
+      "telugu": "సంతోషం (Santhosham)"
+    },
+    {
+      "id": "v177",
+      "category": "Feelings",
+      "irula": "kavale",
+      "english": "Sadness / Worry",
+      "tamil": "கவலை (Kavalai)",
+      "hindi": "दुख / चिंता (Dukh / Chinta)",
+      "telugu": "బాధ / విచారం (Baadha / Vicharam)"
+    },
+    {
+      "id": "v178",
+      "category": "Feelings",
+      "irula": "kōvam",
+      "english": "Anger",
+      "tamil": "கோபம் (Kobam)",
+      "hindi": "गुस्सा (Gussa)",
+      "telugu": "కోపం (Kopam)"
+    },
+    {
+      "id": "v179",
+      "category": "Feelings",
+      "irula": "bhayam",
+      "english": "Fear",
+      "tamil": "பயம் (Bhayam)",
+      "hindi": "डर (Dar)",
+      "telugu": "భయం (Bhayam)"
+    },
+    {
+      "id": "v180",
+      "category": "Feelings",
+      "irula": "pāsam",
+      "english": "Love / Affection",
+      "tamil": "பாசம் (Paasam)",
+      "hindi": "प्यार / स्नेह (Pyaar / Sneh)",
+      "telugu": "ప్రేమ (Prema)"
+    },
+    {
+      "id": "v181",
+      "category": "Feelings",
+      "irula": "vali",
+      "english": "Pain",
+      "tamil": "வலி (Vali)",
+      "hindi": "दर्द (Dard)",
+      "telugu": "నొప్పి (Noppi)"
+    },
+    {
+      "id": "v182",
+      "category": "Feelings",
+      "irula": "pasi",
+      "english": "Hunger",
+      "tamil": "பசி (Pasi)",
+      "hindi": "भूख (Bhookh)",
+      "telugu": "ఆకలి (Aakali)"
+    },
+    {
+      "id": "v183",
+      "category": "Feelings",
+      "irula": "dāgam",
+      "english": "Thirst",
+      "tamil": "தாகம் (Thaagam)",
+      "hindi": "प्यास (Pyaas)",
+      "telugu": "దాహం (Daaham)"
+    },
+    {
+      "id": "v184",
+      "category": "Feelings",
+      "irula": "tūkkam",
+      "english": "Sleepiness / Sleep",
+      "tamil": "தூக்கம் (Thookkam)",
+      "hindi": "नींद (Neend)",
+      "telugu": "నిద్ర (Nidra)"
+    },
+    {
+      "id": "v185",
+      "category": "Feelings",
+      "irula": "asadi",
+      "english": "Tiredness / Fatigue",
+      "tamil": "அசதி (Asathi)",
+      "hindi": "थकान (Thakan)",
+      "telugu": "అలసట (Alasata)"
+    },
+    {
+      "id": "v186",
+      "category": "Senses",
+      "irula": "sattam",
+      "english": "Sound / Noise",
+      "tamil": "சத்தம் (Satham)",
+      "hindi": "आवाज़ / शोर (Aawaz / Shor)",
+      "telugu": "శబ్దం (Sabdam)"
+    },
+    {
+      "id": "v187",
+      "category": "Senses",
+      "irula": "vāsane",
+      "english": "Smell / Fragrance",
+      "tamil": "வாசனை (Vaasanai)",
+      "hindi": "महक / गंध (Mahak / Gandh)",
+      "telugu": "వాసన (Vaasana)"
+    },
+    {
+      "id": "v188",
+      "category": "Senses",
+      "irula": "rusi",
+      "english": "Taste",
+      "tamil": "ருசி (Rusi)",
+      "hindi": "स्वाद (Swaad)",
+      "telugu": "రుచి (Ruchi)"
+    },
+    {
+      "id": "v189",
+      "category": "Senses",
+      "irula": "velicham",
+      "english": "Light",
+      "tamil": "வெளிச்சம் (Velicham)",
+      "hindi": "रोशनी (Roshni)",
+      "telugu": "వెలుగు (Velugu)"
+    },
+    {
+      "id": "v190",
+      "category": "Senses",
+      "irula": "iruttu",
+      "english": "Darkness",
+      "tamil": "இருட்டு (Iruttu)",
+      "hindi": "अंधेरा (Andhera)",
+      "telugu": "చీకటి (Cheekati)"
+    },
+    {
+      "id": "v191",
+      "category": "Senses",
+      "irula": "neralu",
+      "english": "Shadow / Shade",
+      "tamil": "நிழல் (Nizhal)",
+      "hindi": "परछाई / छाँव (Parchhai / Chhaon)",
+      "telugu": "నీడ (Needa)"
+    },
+    {
+      "id": "v192",
+      "category": "Senses",
+      "irula": "poge",
+      "english": "Smoke",
+      "tamil": "புகை (Pugai)",
+      "hindi": "धुआं (Dhuaan)",
+      "telugu": "పొగ (Poga)"
+    },
+    {
+      "id": "v193",
+      "category": "Weather",
+      "irula": "male",
+      "english": "Rain",
+      "tamil": "மழை (Mazhai)",
+      "hindi": "बारिश (Baarish)",
+      "telugu": "వర్షం (Varsham)"
+    },
+    {
+      "id": "v194",
+      "category": "Weather",
+      "irula": "veyyil",
+      "english": "Sunlight / Solar Heat",
+      "tamil": "வெயில் (Veyil)",
+      "hindi": "धूप (Dhoop)",
+      "telugu": "ఎండ (Enda)"
+    },
+    {
+      "id": "v195",
+      "category": "Weather",
+      "irula": "kāttu",
+      "english": "Wind / Air",
+      "tamil": "காற்று (Kaatru)",
+      "hindi": "हवा (Hawa)",
+      "telugu": "గాలి (Gaali)"
+    },
+    {
+      "id": "v196",
+      "category": "Weather",
+      "irula": "mēgam",
+      "english": "Cloud",
+      "tamil": "மேகம் (Megam)",
+      "hindi": "बादल (Baadal)",
+      "telugu": "మేఘం (Megham)"
+    },
+    {
+      "id": "v197",
+      "category": "Weather",
+      "irula": "vānam",
+      "english": "Sky",
+      "tamil": "வானம் (Vaanam)",
+      "hindi": "आसमान (Aasman)",
+      "telugu": "ఆకాశం (Aakasam)"
+    },
+    {
+      "id": "v198",
+      "category": "Weather",
+      "irula": "idi",
+      "english": "Thunder",
+      "tamil": "இடி (Idi)",
+      "hindi": "गड़गड़ाहट / बिजली कड़कना (Gadgadahat)",
+      "telugu": "ఉరుము (Urumu)"
+    },
+    {
+      "id": "v199",
+      "category": "Weather",
+      "irula": "minnal",
+      "english": "Lightning",
+      "tamil": "மின்னல் (Minnal)",
+      "hindi": "बिजली (चमक) (Bijli)",
+      "telugu": "మెరుపు (Merupu)"
+    },
+    {
+      "id": "v200",
+      "category": "Weather",
+      "irula": "puyal",
+      "english": "Storm",
+      "tamil": "புயல் (Puyal)",
+      "hindi": "तूफ़ान (Toofan)",
+      "telugu": "తుఫాను (Tuphanu)"
+    },
+    {
+      "id": "v201",
+      "category": "Time Markers",
+      "irula": "nālu",
+      "english": "Day",
+      "tamil": "நாள் (Naal)",
+      "hindi": "दिन (Din)",
+      "telugu": "రోజు (Roju)"
+    },
+    {
+      "id": "v202",
+      "category": "Time Markers",
+      "irula": "vāram",
+      "english": "Week",
+      "tamil": "வாரம் (Vaaram)",
+      "hindi": "सप्ताह / हफ़्ता (Hafta)",
+      "telugu": "వారం (Vaaram)"
+    },
+    {
+      "id": "v203",
+      "category": "Time Markers",
+      "irula": "māsam",
+      "english": "Month",
+      "tamil": "மாசம் (Maasam)",
+      "hindi": "महीना (Maheena)",
+      "telugu": "నెల (Nela)"
+    },
+    {
+      "id": "v204",
+      "category": "Time Markers",
+      "irula": "varusam",
+      "english": "Year",
+      "tamil": "வருஷம் (Varusham)",
+      "hindi": "साल (Saal)",
+      "telugu": "సంవత్సరం (Samvatsaram)"
+    },
+    {
+      "id": "v205",
+      "category": "Time Markers",
+      "irula": "vidiyakāle",
+      "english": "Dawn / Early Morning",
+      "tamil": "அதிகாலை (Athikaalai)",
+      "hindi": "भोर (Bhor)",
+      "telugu": "వేకువజాము (Vekuvajamu)"
+    },
+    {
+      "id": "v206",
+      "category": "Time Markers",
+      "irula": "nadurāttiri",
+      "english": "Midnight",
+      "tamil": "நடுராத்திரி (Naduraathiri)",
+      "hindi": "आधी रात (Aadhi Raat)",
+      "telugu": "అర్ధరాత్రి (Ardharatri)"
+    },
+    {
+      "id": "v207",
+      "category": "Time Markers",
+      "irula": "ñāyiru",
+      "english": "Sunday",
+      "tamil": "ஞாயிறு (Gnaayiru)",
+      "hindi": "रविवार (Ravivar)",
+      "telugu": "ఆదివారం (Aadivaram)"
+    },
+    {
+      "id": "v208",
+      "category": "Time Markers",
+      "irula": "tinga",
+      "english": "Monday",
+      "tamil": "திங்கள் (Thingal)",
+      "hindi": "सोमवार (Somvar)",
+      "telugu": "సోమవారం (Somavaram)"
+    },
+    {
+      "id": "v209",
+      "category": "Time Markers",
+      "irula": "sevva",
+      "english": "Tuesday",
+      "tamil": "செவ்வாய் (Sevvaai)",
+      "hindi": "मंगलवार (Mangalvar)",
+      "telugu": "మంగళవారం (Mangalavaram)"
+    },
+    {
+      "id": "v210",
+      "category": "Time Markers",
+      "irula": "budan",
+      "english": "Wednesday",
+      "tamil": "புதன் (Budhan)",
+      "hindi": "बुधवार (Budhvar)",
+      "telugu": "బుధవారం (Budhavaram)"
+    },
+    {
+      "id": "v211",
+      "category": "Time Markers",
+      "irula": "viyālam",
+      "english": "Thursday",
+      "tamil": "வியாழன் (Viyaazhan)",
+      "hindi": "गुरुवार (Guruvar)",
+      "telugu": "గురువారం (Guruvaram)"
+    },
+    {
+      "id": "v212",
+      "category": "Time Markers",
+      "irula": "velli",
+      "english": "Friday",
+      "tamil": "வெள்ளி (Velli)",
+      "hindi": "शुक्रवार (Shukravar)",
+      "telugu": "శుక్రవారం (Shukravaram)"
+    },
+    {
+      "id": "v213",
+      "category": "Time Markers",
+      "irula": "sani",
+      "english": "Saturday",
+      "tamil": "சனி (Sani)",
+      "hindi": "शनिवार (Shanivar)",
+      "telugu": "శనివారం (Shanivaram)"
+    },
+    {
+      "id": "v214",
+      "category": "Connecting Words",
+      "irula": "appuram",
+      "english": "Then / After",
+      "tamil": "அப்புறம் (Appuram)",
+      "hindi": "फिर / बाद में (Phir / Baad mein)",
+      "telugu": "తర్వాత (Tarvata)"
+    },
+    {
+      "id": "v215",
+      "category": "Connecting Words",
+      "irula": "mudalla",
+      "english": "First",
+      "tamil": "முதல்ல (Mudalla)",
+      "hindi": "पहले (Pahle)",
+      "telugu": "మొదట (Modata)"
+    },
+    {
+      "id": "v216",
+      "category": "Connecting Words",
+      "irula": "ānā",
+      "english": "But",
+      "tamil": "ஆனா (Aanaa)",
+      "hindi": "लेकिन (Lekin)",
+      "telugu": "కానీ (Kaani)"
+    },
+    {
+      "id": "v217",
+      "category": "Connecting Words",
+      "irula": "ēn-nā",
+      "english": "Because",
+      "tamil": "ஏன்னா (Aennaa)",
+      "hindi": "क्योंकि (Kyonki)",
+      "telugu": "ఎందుకంటే (Endukante)"
+    },
+    {
+      "id": "v218",
+      "category": "Connecting Words",
+      "irula": "adunāle",
+      "english": "Therefore / So",
+      "tamil": "அதனால (Athanaala)",
+      "hindi": "इसलिए (Isliye)",
+      "telugu": "అందువలన (Anduvalana)"
+    },
+    {
+      "id": "v219",
+      "category": "Connecting Words",
+      "irula": "kūda",
+      "english": "With",
+      "tamil": "கூட (Kooda)",
+      "hindi": "साथ (Saath)",
+      "telugu": "తో (To)"
+    },
+    {
+      "id": "v220",
+      "category": "Connecting Words",
+      "irula": "illannā",
+      "english": "Otherwise / If not",
+      "tamil": "இல்லன்னா (Illannaa)",
+      "hindi": "नहीं तो (Nahi to)",
+      "telugu": "లేకపోతే (Lekapothe)"
+    },
+    {
+      "id": "v221",
+      "category": "Connecting Words",
+      "irula": "mattum",
+      "english": "Only",
+      "tamil": "மட்டும் (Mattum)",
+      "hindi": "सिर्फ (Sirf)",
+      "telugu": "మాత్రమే (Matrame)"
+    },
+    {
+      "id": "v222",
+      "category": "Connecting Words",
+      "irula": "tirumbavum",
+      "english": "Again",
+      "tamil": "திரும்பவும் (Thirumbavum)",
+      "hindi": "फिर से (Phir se)",
+      "telugu": "మళ్ళీ (Malli)"
+    },
+    {
+      "id": "v223",
+      "category": "Connecting Words",
+      "irula": "oruvēle",
+      "english": "Maybe / Perhaps",
+      "tamil": "ஒருவேளை (Oruvelai)",
+      "hindi": "शायद (Shayad)",
+      "telugu": "బహుశా (Bahusha)"
+    },
+    {
+      "id": "v224",
+      "category": "Connecting Words",
+      "irula": "eppavum",
+      "english": "Always",
+      "tamil": "எப்பவும் (Eppavum)",
+      "hindi": "हमेशा (Hamesha)",
+      "telugu": "ఎల్లప్పుడూ (Ellappudu)"
+    },
+    {
+      "id": "v225",
+      "category": "Connecting Words",
+      "irula": "kandippā",
+      "english": "Definitely / Surely",
+      "tamil": "கண்டிப்பா (Kandippaa)",
+      "hindi": "ज़रूर / पक्का (Zaroor / Pakka)",
+      "telugu": "ఖచ్చితంగా (Khachchitanga)"
+    },
+    {
+      "id": "v226",
+      "category": "People",
+      "irula": "tolan",
+      "english": "Friend",
+      "tamil": "நண்பன் (Nanban)",
+      "hindi": "दोस्त (Dost)",
+      "telugu": "స్నేహితుడు (Snehitudu)"
+    },
+    {
+      "id": "v227",
+      "category": "People",
+      "irula": "ediri",
+      "english": "Enemy",
+      "tamil": "எதிரி (Ethiri)",
+      "hindi": "दुश्मन (Dushman)",
+      "telugu": "శత్రువు (Shatruvu)"
+    },
+    {
+      "id": "v228",
+      "category": "People",
+      "irula": "sāmi",
+      "english": "God",
+      "tamil": "சாமி (Saami)",
+      "hindi": "भगवान (Bhagwan)",
+      "telugu": "దేవుడు (Devudu)"
+    },
+    {
+      "id": "v229",
+      "category": "People",
+      "irula": "vaittiyar",
+      "english": "Doctor / Healer",
+      "tamil": "வைத்தியர் (Vaithiyar)",
+      "hindi": "वैद्य / डॉक्टर (Vaidya / Doctor)",
+      "telugu": "వైద్యుడు (Vaidyudu)"
+    },
+    {
+      "id": "v230",
+      "category": "People",
+      "irula": "vivasāyi",
+      "english": "Farmer",
+      "tamil": "விவசாயி (Vivasaayi)",
+      "hindi": "किसान (Kisan)",
+      "telugu": "రైతు (Raitu)"
+    },
+    {
+      "id": "v231",
+      "category": "People",
+      "irula": "vāttiyār",
+      "english": "Teacher",
+      "tamil": "வாத்தியார் (Vaathiyaar)",
+      "hindi": "शिक्षक (Shikshak)",
+      "telugu": "ఉపాధ్యాయుడు (Upadhyayudu)"
+    },
+    {
+      "id": "v232",
+      "category": "Concepts",
+      "irula": "vālkkai",
+      "english": "Life",
+      "tamil": "வாழ்க்கை (Vaazhkkai)",
+      "hindi": "जीवन (Jeevan)",
+      "telugu": "జీవితం (Jeevitam)"
+    },
+    {
+      "id": "v233",
+      "category": "Concepts",
+      "irula": "sāvu",
+      "english": "Death",
+      "tamil": "சாவு (Saavu)",
+      "hindi": "मौत (Maut)",
+      "telugu": "మరణం (Maranam)"
+    },
+    {
+      "id": "v234",
+      "category": "Concepts",
+      "irula": "vēle",
+      "english": "Work / Job",
+      "tamil": "வேலை (Velai)",
+      "hindi": "काम (Kaam)",
+      "telugu": "పని (Pani)"
+    },
+    {
+      "id": "v235",
+      "category": "Concepts",
+      "irula": "kanavu",
+      "english": "Dream",
+      "tamil": "கனவு (Kanavu)",
+      "hindi": "सपना (Sapna)",
+      "telugu": "కల (Kala)"
+    },
+    {
+      "id": "v236",
+      "category": "Concepts",
+      "irula": "manasu",
+      "english": "Mind / Heart",
+      "tamil": "மனசு (Manasu)",
+      "hindi": "मन (Man)",
+      "telugu": "మనసు (Manasu)"
+    },
+    {
+      "id": "v237",
+      "category": "Concepts",
+      "irula": "pāṭṭu",
+      "english": "Song",
+      "tamil": "பாட்டு (Paattu)",
+      "hindi": "गाना (Gaana)",
+      "telugu": "పాట (Paata)"
+    },
+    {
+      "id": "v238",
+      "category": "Concepts",
+      "irula": "kade",
+      "english": "Story",
+      "tamil": "கதை (Kadhai)",
+      "hindi": "कहानी (Kahani)",
+      "telugu": "కథ (Katha)"
+    },
+    {
+      "id": "v239",
+      "category": "Concepts",
+      "irula": "pēru",
+      "english": "Name",
+      "tamil": "பெயர் / பேரு (Peyar / Peru)",
+      "hindi": "नाम (Naam)",
+      "telugu": "పేరు (Peru)"
+    },
+    {
+      "id": "v240",
+      "category": "Concepts",
+      "irula": "udavi",
+      "english": "Help",
+      "tamil": "உதவி (Udhavi)",
+      "hindi": "मदद (Madad)",
+      "telugu": "సహాయం (Sahayam)"
+    },
+    {
+      "id": "v241",
+      "category": "General Words",
+      "irula": "vēgamā",
+      "english": "Fast / Quickly",
+      "tamil": "வேகமா (Vegamaa)",
+      "hindi": "जल्दी / तेज़ (Jaldi / Tez)",
+      "telugu": "వేగంగా (Veganga)"
+    },
+    {
+      "id": "v242",
+      "category": "General Words",
+      "irula": "mella",
+      "english": "Slow / Slowly",
+      "tamil": "மெல்ல (Mella)",
+      "hindi": "धीरे (Dheere)",
+      "telugu": "నెమ్మదిగా (Nemmadiga)"
+    },
+    {
+      "id": "v243",
+      "category": "General Words",
+      "irula": "romba",
+      "english": "Very / Much",
+      "tamil": "ரொம்ப (Romba)",
+      "hindi": "बहुत (Bahut)",
+      "telugu": "చాలా (Chaala)"
+    },
+    {
+      "id": "v244",
+      "category": "General Words",
+      "irula": "konjam",
+      "english": "A little / Some",
+      "tamil": "கொஞ்சம் (Konjam)",
+      "hindi": "थोड़ा (Thoda)",
+      "telugu": "కొంచెం (Konchem)"
+    },
+    {
+      "id": "v245",
+      "category": "General Words",
+      "irula": "ellām",
+      "english": "All / Everything",
+      "tamil": "எல்லாம் (Ellaam)",
+      "hindi": "सब कुछ (Sab kuch)",
+      "telugu": "అంతా (Antaa)"
+    },
+    {
+      "id": "v246",
+      "category": "General Words",
+      "irula": "onnumille",
+      "english": "Nothing",
+      "tamil": "ஒன்னுமில்ல (Onnumilla)",
+      "hindi": "कुछ नहीं (Kuch nahi)",
+      "telugu": "ఏమీ లేదు (Eemi ledu)"
+    },
+    {
+      "id": "v247",
+      "category": "Concepts",
+      "irula": "unme",
+      "english": "Truth",
+      "tamil": "உண்மை (Unmai)",
+      "hindi": "सच (Sach)",
+      "telugu": "నిజం (Nijam)"
+    },
+    {
+      "id": "v248",
+      "category": "Concepts",
+      "irula": "poy",
+      "english": "Lie",
+      "tamil": "பொய் (Poy)",
+      "hindi": "झूठ (Jhooth)",
+      "telugu": "అబద్ధం (Abaddham)"
+    },
+    {
+      "id": "v249",
+      "category": "Concepts",
+      "irula": "ragasiyam",
+      "english": "Secret",
+      "tamil": "ரகசியம் (Ragasiyam)",
+      "hindi": "रहस्य / राज़ (Rahasya / Raaz)",
+      "telugu": "రహస్యం (Rahasyam)"
+    },
+    {
+      "id": "v250",
+      "category": "Concepts",
+      "irula": "olagam",
+      "english": "World",
+      "tamil": "உலகம் (Ulagam)",
+      "hindi": "दुनिया (Duniya)",
+      "telugu": "ప్రపంచం (Prapancham)"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "p001",
+      "category": "Greetings & Basics",
+      "irula": "Nī epdi irukkiri?",
+      "english": "How are you?",
+      "tamil": "நீ எப்படி இருக்கிறாய்? (Nee eppadi irukkiraai?)",
+      "hindi": "तुम कैसे हो? (Tum kaise ho?)",
+      "telugu": "నువ్వు ఎలా ఉన్నావు? (Nuvvu ela unnavu?)"
+    },
+    {
+      "id": "p002",
+      "category": "Greetings & Basics",
+      "irula": "Nānu nallā irukkēnu.",
+      "english": "I am fine.",
+      "tamil": "நான் நல்லா இருக்கேன். (Naan nallaa irukken.)",
+      "hindi": "मैं ठीक हूँ। (Main theek hoon.)",
+      "telugu": "నేను బాగున్నాను. (Nenu bagunnanu.)"
+    },
+    {
+      "id": "p003",
+      "category": "Greetings & Basics",
+      "irula": "Un pēru enna?",
+      "english": "What is your name?",
+      "tamil": "உன் பெயர் என்ன? (Un peyar enna?)",
+      "hindi": "तुम्हारा नाम क्या है? (Tumhara naam kya hai?)",
+      "telugu": "నీ పేరు ఏమిటి? (Nee peru emiti?)"
+    },
+    {
+      "id": "p004",
+      "category": "Greetings & Basics",
+      "irula": "En pēru...",
+      "english": "My name is...",
+      "tamil": "என் பெயர்... (En peyar...)",
+      "hindi": "मेरा नाम... है। (Mera naam... hai.)",
+      "telugu": "నా పేరు... (Naa peru...)"
+    },
+    {
+      "id": "p005",
+      "category": "Greetings & Basics",
+      "irula": "Nī ekke pōgiri?",
+      "english": "Where are you going?",
+      "tamil": "நீ எங்கே போகிறாய்? (Nee enge pogiraai?)",
+      "hindi": "तुम कहाँ जा रहे हो? (Tum kahan ja rahe ho?)",
+      "telugu": "నువ్వు ఎక్కడికి వెళ్తున్నావు? (Nuvvu ekkadiki veltunnavu?)"
+    },
+    {
+      "id": "p006",
+      "category": "Greetings & Basics",
+      "irula": "Ikke vā.",
+      "english": "Come here.",
+      "tamil": "இங்கே வா. (Inge vaa.)",
+      "hindi": "यहाँ आओ। (Yahan aao.)",
+      "telugu": "ఇక్కడికి రా. (Ikkadiki raa.)"
+    },
+    {
+      "id": "p007",
+      "category": "Greetings & Basics",
+      "irula": "Akke pō.",
+      "english": "Go there.",
+      "tamil": "அங்கே போ. (Ange poo.)",
+      "hindi": "वहाँ जाओ। (Wahan jao.)",
+      "telugu": "అక్కడికి వెళ్ళు. (Akkadiki vellu.)"
+    },
+    {
+      "id": "p008",
+      "category": "Greetings & Basics",
+      "irula": "Nī sōru tinnutiyā?",
+      "english": "Did you eat? (Have you eaten?)",
+      "tamil": "நீ சோறு சாப்பிட்டியா? (Nee soru saappittiyaa?)",
+      "hindi": "क्या तुमने खाना खा लिया? (Kya tumne khana kha liya?)",
+      "telugu": "నువ్వు భోజనం చేశావా? (Nuvvu bhojanam chesava?)"
+    },
+    {
+      "id": "p009",
+      "category": "Greetings & Basics",
+      "irula": "Āmā, nānu tinnutēnu.",
+      "english": "Yes, I ate.",
+      "tamil": "ஆமாம், நான் சாப்பிட்டேன். (Aamaam, naan saappitten.)",
+      "hindi": "हाँ, मैंने खा लिया। (Haan, mainne kha liya.)",
+      "telugu": "అవును, నేను తిన్నాను. (Avunu, nenu tinnanu.)"
+    },
+    {
+      "id": "p010",
+      "category": "Greetings & Basics",
+      "irula": "Apparam pāppōmu.",
+      "english": "See you later. / Let's meet later.",
+      "tamil": "அப்புறம் பார்ப்போம். (Appuram paarppom.)",
+      "hindi": "बाद में मिलते हैं। (Baad mein milte hain.)",
+      "telugu": "తర్వాత కలుద్దాం. (Tarvata kaluddam.)"
+    },
+    {
+      "id": "p011",
+      "category": "Questions & Daily Needs",
+      "irula": "Nī enna pannugiri?",
+      "english": "What are you doing?",
+      "tamil": "நீ என்ன பண்ணுகிறாய்? (Nee enna pannugiraai?)",
+      "hindi": "तुम क्या कर रहे हो? (Tum kya kar rahe ho?)",
+      "telugu": "నువ్వు ఏం చేస్తున్నావు? (Nuvvu em chestunnavu?)"
+    },
+    {
+      "id": "p012",
+      "category": "Questions & Daily Needs",
+      "irula": "Emukku teriyādu.",
+      "english": "I don't know.",
+      "tamil": "எனக்கு தெரியாது. (Enakku theriyaathu.)",
+      "hindi": "मुझे नहीं पता। (Mujhe nahi pata.)",
+      "telugu": "నాకు తెలియదు. (Naaku teliyadu.)"
+    },
+    {
+      "id": "p013",
+      "category": "Questions & Daily Needs",
+      "irula": "Unukku teriyumā?",
+      "english": "Do you know?",
+      "tamil": "உனக்கு தெரியுமா? (Unakku theriyumaa?)",
+      "hindi": "क्या तुम्हें पता है? (Kya tumhein pata hai?)",
+      "telugu": "నీకు తెలుసా? (Neeku telusa?)"
+    },
+    {
+      "id": "p014",
+      "category": "Questions & Daily Needs",
+      "irula": "Emukku tanni vēnum.",
+      "english": "I want water.",
+      "tamil": "எனக்கு தண்ணீர் வேண்டும். (Enakku thanneer vendum.)",
+      "hindi": "मुझे पानी चाहिए। (Mujhe paani chahiye.)",
+      "telugu": "నాకు నీళ్లు కావాలి. (Naaku neellu kavali.)"
+    },
+    {
+      "id": "p015",
+      "category": "Questions & Daily Needs",
+      "irula": "Emukku sōru kudu.",
+      "english": "Give me food.",
+      "tamil": "எனக்கு சோறு கொடு. (Enakku soru kodu.)",
+      "hindi": "मुझे खाना दो। (Mujhe khana do.)",
+      "telugu": "నాకు అన్నం పెట్టు. (Naaku annam pettu.)"
+    },
+    {
+      "id": "p016",
+      "category": "Questions & Daily Needs",
+      "irula": "Idu enna?",
+      "english": "What is this?",
+      "tamil": "இது என்ன? (Ithu enna?)",
+      "hindi": "यह क्या है? (Yah kya hai?)",
+      "telugu": "ఇది ఏమిటి? (Idi emiti?)"
+    },
+    {
+      "id": "p017",
+      "category": "Questions & Daily Needs",
+      "irula": "Adu enna?",
+      "english": "What is that?",
+      "tamil": "அது என்ன? (Athu enna?)",
+      "hindi": "वह क्या है? (Vah kya hai?)",
+      "telugu": "అది ఏమిటి? (Adi emiti?)"
+    },
+    {
+      "id": "p018",
+      "category": "Questions & Daily Needs",
+      "irula": "Un vīdu ekke irukku?",
+      "english": "Where is your house?",
+      "tamil": "உன் வீடு எங்கே இருக்கு? (Un veedu enge irukku?)",
+      "hindi": "तुम्हारा घर कहाँ है? (Tumhara ghar kahan hai?)",
+      "telugu": "నీ ఇల్లు ఎక్కడ ఉంది? (Nee illu ekkada undi?)"
+    },
+    {
+      "id": "p019",
+      "category": "Questions & Daily Needs",
+      "irula": "Ullukka vā.",
+      "english": "Come inside.",
+      "tamil": "உள்ளே வா. (Ulle vaa.)",
+      "hindi": "अंदर आओ। (Andar aao.)",
+      "telugu": "లోపలికి రా. (Lopaliki raa.)"
+    },
+    {
+      "id": "p020",
+      "category": "Questions & Daily Needs",
+      "irula": "Kīle ukkāru.",
+      "english": "Sit down.",
+      "tamil": "கீழே உட்காரு. (Keezhe utkaaru.)",
+      "hindi": "नीचे बैठ जाओ। (Neeche baith jao.)",
+      "telugu": "కింద కూర్చో. (Kinda kurcho.)"
+    },
+    {
+      "id": "p021",
+      "category": "People & Family",
+      "irula": "Avan yāru?",
+      "english": "Who is he?",
+      "tamil": "அவன் யார்? (Avan yaar?)",
+      "hindi": "वह (लड़का) कौन है? (Vah kaun hai?)",
+      "telugu": "అతను ఎవరు? (Atanu evaru?)"
+    },
+    {
+      "id": "p022",
+      "category": "People & Family",
+      "irula": "Ava yāru?",
+      "english": "Who is she?",
+      "tamil": "அவள் யார்? (Aval yaar?)",
+      "hindi": "वह (लड़की) कौन है? (Vah kaun hai?)",
+      "telugu": "ఆమె ఎవరు? (Aame evaru?)"
+    },
+    {
+      "id": "p023",
+      "category": "People & Family",
+      "irula": "Iva en tayi.",
+      "english": "She is my mother.",
+      "tamil": "இவள் என் தாய் (அம்மா). (Ival en thaai.)",
+      "hindi": "यह मेरी माँ है। (Yah meri maa hai.)",
+      "telugu": "ఈమె నా తల్లి (అమ్మ). (Eeme naa talli.)"
+    },
+    {
+      "id": "p024",
+      "category": "People & Family",
+      "irula": "Ivan en appa.",
+      "english": "He is my father.",
+      "tamil": "இவன் என் அப்பா. (Ivan en appaa.)",
+      "hindi": "यह मेरे पिता हैं। (Yah mere pita hain.)",
+      "telugu": "ఈయన నా తండ్రి (నాన్న). (Eeyana naa tandri.)"
+    },
+    {
+      "id": "p025",
+      "category": "People & Family",
+      "irula": "Etene pēru irukkānga?",
+      "english": "How many people are there?",
+      "tamil": "எத்தனை பேர் இருக்காங்க? (Ethanai per irukkaanga?)",
+      "hindi": "कितने लोग हैं? (Kitne log hain?)",
+      "telugu": "ఎంత మంది ఉన్నారు? (Enta mandi unnaru?)"
+    },
+    {
+      "id": "p026",
+      "category": "People & Family",
+      "irula": "Ellārum vānga.",
+      "english": "Everyone come.",
+      "tamil": "எல்லாரும் வாங்க. (Ellaarum vaanga.)",
+      "hindi": "सब लोग आओ। (Sab log aao.)",
+      "telugu": "అందరూ రండి. (Andaru randi.)"
+    },
+    {
+      "id": "p027",
+      "category": "People & Family",
+      "irula": "Avane kūppudu.",
+      "english": "Call him.",
+      "tamil": "அவனை கூப்பிடு. (Avanai kooppidu.)",
+      "hindi": "उसे बुलाओ। (Use bulao.)",
+      "telugu": "అతన్ని పిలు. (Atanni pilu.)"
+    },
+    {
+      "id": "p028",
+      "category": "People & Family",
+      "irula": "Avele kūppudu.",
+      "english": "Call her.",
+      "tamil": "அவளை கூப்பிடு. (Avalai kooppidu.)",
+      "hindi": "उसे (लड़की को) बुलाओ। (Use bulao.)",
+      "telugu": "ఆమెను పిలు. (Aamenu pilu.)"
+    },
+    {
+      "id": "p029",
+      "category": "People & Family",
+      "irula": "Alavāde.",
+      "english": "Don't cry.",
+      "tamil": "அழாதே. (Azhaathae.)",
+      "hindi": "मत रोओ। (Mat ro-o.)",
+      "telugu": "ఏడవద్దు. (Edavaddu.)"
+    },
+    {
+      "id": "p030",
+      "category": "People & Family",
+      "irula": "Nallā siri.",
+      "english": "Smile well / Laugh.",
+      "tamil": "நல்லா சிரி. (Nallaa siri.)",
+      "hindi": "अच्छे से हंसो / मुस्कुराओ। (Achchhe se hanso / muskurao.)",
+      "telugu": "బాగా నవ్వు. (Baaga navvu.)"
+    },
+    {
+      "id": "p031",
+      "category": "Time, Weather & Movement",
+      "irula": "Mani enna?",
+      "english": "What is the time?",
+      "tamil": "மணி என்ன? (Mani enna?)",
+      "hindi": "समय क्या हुआ है? (Samay kya hua hai?)",
+      "telugu": "సమయం ఎంత? (Samayam enta?)"
+    },
+    {
+      "id": "p032",
+      "category": "Time, Weather & Movement",
+      "irula": "Nī innekki varugiriyā?",
+      "english": "Are you coming today?",
+      "tamil": "நீ இன்னைக்கு வருகிறாயா? (Nee innaikku varugiraayaa?)",
+      "hindi": "क्या तुम आज आ रहे हो? (Kya tum aaj aa rahe ho?)",
+      "telugu": "నువ్వు ఈ రోజు వస్తున్నావా? (Nuvvu ee roju vastunnavaa?)"
+    },
+    {
+      "id": "p033",
+      "category": "Time, Weather & Movement",
+      "irula": "Nālekki vā.",
+      "english": "Come tomorrow.",
+      "tamil": "நாளைக்கு வா. (Naalaikku vaa.)",
+      "hindi": "कल आना। (Kal aana.)",
+      "telugu": "రేపు రా. (Repu raa.)"
+    },
+    {
+      "id": "p034",
+      "category": "Time, Weather & Movement",
+      "irula": "Nānu nēttu vandēnu.",
+      "english": "I came yesterday.",
+      "tamil": "நான் நேற்று வந்தேன். (Naan netru vanthen.)",
+      "hindi": "मैं कल आया था। (Main kal aaya tha.)",
+      "telugu": "నేను నిన్న వచ్చాను. (Nenu ninna vachanu.)"
+    },
+    {
+      "id": "p035",
+      "category": "Time, Weather & Movement",
+      "irula": "Male varudu.",
+      "english": "It is raining.",
+      "tamil": "மழை வருது. (Mazhai varuthu.)",
+      "hindi": "बारिश हो रही है। (Baarish ho rahi hai.)",
+      "telugu": "వర్షం పడుతోంది. (Varsham padutondi.)"
+    },
+    {
+      "id": "p036",
+      "category": "Time, Weather & Movement",
+      "irula": "Romba veyyil adikkudu.",
+      "english": "It is very hot/sunny.",
+      "tamil": "ரொம்ப வெயில் அடிக்குது. (Romba veyil adikkuthu.)",
+      "hindi": "बहुत धूप है। (Bahut dhoop hai.)",
+      "telugu": "చాలా ఎండగా ఉంది. (Chaala endaga undi.)"
+    },
+    {
+      "id": "p037",
+      "category": "Time, Weather & Movement",
+      "irula": "Iruttā irukku.",
+      "english": "It is dark.",
+      "tamil": "இருட்டா இருக்கு. (Iruttaa irukku.)",
+      "hindi": "अंधेरा है। (Andhera hai.)",
+      "telugu": "చీకటిగా ఉంది. (Cheekatiga undi.)"
+    },
+    {
+      "id": "p038",
+      "category": "Time, Weather & Movement",
+      "irula": "Sīkkiram vā.",
+      "english": "Come fast.",
+      "tamil": "சீக்கிரம் வா. (Seekkiram vaa.)",
+      "hindi": "जल्दी आओ। (Jaldi aao.)",
+      "telugu": "త్వరగా రా. (Tvaraga raa.)"
+    },
+    {
+      "id": "p039",
+      "category": "Time, Weather & Movement",
+      "irula": "Mella nada.",
+      "english": "Walk slowly.",
+      "tamil": "மெல்ல நட. (Mella nada.)",
+      "hindi": "धीरे चलो। (Dheere chalo.)",
+      "telugu": "నెమ్మదిగా నడువు. (Nemmadiga naduvu.)"
+    },
+    {
+      "id": "p040",
+      "category": "Time, Weather & Movement",
+      "irula": "Nillu.",
+      "english": "Stop / Stand.",
+      "tamil": "நில்லு. (Nillu.)",
+      "hindi": "रुको / खड़े रहो। (Ruko / khade raho.)",
+      "telugu": "ఆగు / నిలబడు. (Aagu / nilabadu.)"
+    },
+    {
+      "id": "p041",
+      "category": "Food, Eating & Health",
+      "irula": "Emukku pasi edukkudu.",
+      "english": "I am hungry.",
+      "tamil": "எனக்கு பசி எடுக்குது. (Enakku pasi edukkuthu.)",
+      "hindi": "मुझे भूख लग रही है। (Mujhe bhookh lag rahi hai.)",
+      "telugu": "నాకు ఆకలి వేస్తోంది. (Naaku aakali vestondi.)"
+    },
+    {
+      "id": "p042",
+      "category": "Food, Eating & Health",
+      "irula": "Sōru nallā irukku.",
+      "english": "The food is good/tasty.",
+      "tamil": "சோறு நல்லா இருக்கு. (Soru nallaa irukku.)",
+      "hindi": "खाना अच्छा है। (Khana achchha hai.)",
+      "telugu": "అన్నం బాగుంది. (Annam bagundi.)"
+    },
+    {
+      "id": "p043",
+      "category": "Food, Eating & Health",
+      "irula": "Tinnadukku enna irukku?",
+      "english": "What is there to eat?",
+      "tamil": "தின்னதுக்கு என்ன இருக்கு? (Thinnathukku enna irukku?)",
+      "hindi": "खाने के लिए क्या है? (Khane ke liye kya hai?)",
+      "telugu": "తినడానికి ఏమి ఉంది? (Tinadaniki emi undi?)"
+    },
+    {
+      "id": "p044",
+      "category": "Food, Eating & Health",
+      "irula": "Emukku vēndā.",
+      "english": "I don't want it.",
+      "tamil": "எனக்கு வேண்டாம். (Enakku vendaam.)",
+      "hindi": "मुझे नहीं चाहिए। (Mujhe nahi chahiye.)",
+      "telugu": "నాకు వద్దు. (Naaku vaddu.)"
+    },
+    {
+      "id": "p045",
+      "category": "Food, Eating & Health",
+      "irula": "Tanni kudi.",
+      "english": "Drink water.",
+      "tamil": "தண்ணீர் குடி. (Thanneer kudi.)",
+      "hindi": "पानी पियो। (Paani piyo.)",
+      "telugu": "నీళ్లు తాగు. (Neellu taagu.)"
+    },
+    {
+      "id": "p046",
+      "category": "Food, Eating & Health",
+      "irula": "Emukku vāyaru valikkudu.",
+      "english": "My stomach is hurting.",
+      "tamil": "எனக்கு வயிறு வலிக்குது. (Enakku vayiru valikkuthu.)",
+      "hindi": "मेरे पेट में दर्द हो रहा है। (Mere pet mein dard ho raha hai.)",
+      "telugu": "నా కడుపు నొప్పుగా ఉంది. (Naa kadupu noppuga undi.)"
+    },
+    {
+      "id": "p047",
+      "category": "Food, Eating & Health",
+      "irula": "Unukku odambu sariyillayā?",
+      "english": "Are you sick? (Is your health not right?)",
+      "tamil": "உனக்கு உடம்பு சரியில்லையா? (Unakku odambu sariyillaiyaa?)",
+      "hindi": "क्या तुम्हारी तबीयत खराब है? (Kya tumhari tabiyat kharab hai?)",
+      "telugu": "నీకు ఒంట్లో బాగోలేదా? (Neeku ontlo bagoleda?)"
+    },
+    {
+      "id": "p048",
+      "category": "Food, Eating & Health",
+      "irula": "Emukku marundu kudu.",
+      "english": "Give me medicine.",
+      "tamil": "எனக்கு மருந்து கொடு. (Enakku marunthu kodu.)",
+      "hindi": "मुझे दवा दो। (Mujhe dawa do.)",
+      "telugu": "నాకు మందు ఇవ్వు. (Naaku mandu ivvu.)"
+    },
+    {
+      "id": "p049",
+      "category": "Food, Eating & Health",
+      "irula": "Emukku tūkkam varudu.",
+      "english": "I am feeling sleepy.",
+      "tamil": "எனக்கு தூக்கம் வருது. (Enakku thookkam varuthu.)",
+      "hindi": "मुझे नींद आ रही है। (Mujhe neend aa rahi hai.)",
+      "telugu": "నాకు నిద్ర వస్తోంది. (Naaku nidra vastondi.)"
+    },
+    {
+      "id": "p050",
+      "category": "Food, Eating & Health",
+      "irula": "Pōyi tūngu.",
+      "english": "Go to sleep.",
+      "tamil": "போய் தூங்கு. (Poi thoongu.)",
+      "hindi": "जाकर सो जाओ। (Jaakar so jao.)",
+      "telugu": "వెళ్లి పడుకో. (Velli paduko.)"
+    },
+    {
+      "id": "p051",
+      "category": "Work, Forest & Nature",
+      "irula": "Nī enna vēle pannugiri?",
+      "english": "What work are you doing?",
+      "tamil": "நீ என்ன வேலை செய்கிறாய்? (Nee enna velai seigiraai?)",
+      "hindi": "तुम क्या काम कर रहे हो? (Tum kya kaam kar rahe ho?)",
+      "telugu": "నువ్వు ఏం పని చేస్తున్నావు? (Nuvvu em pani chestunnavu?)"
+    },
+    {
+      "id": "p052",
+      "category": "Work, Forest & Nature",
+      "irula": "Nānu kāttukku pōgēnu.",
+      "english": "I am going to the forest.",
+      "tamil": "நான் காட்டுக்கு போகிறேன். (Naan kaattukku pogiren.)",
+      "hindi": "मैं जंगल जा रहा हूँ। (Main jangal ja raha hoon.)",
+      "telugu": "నేను అడవికి వెళ్తున్నాను. (Nenu adaviki veltunnanu.)"
+    },
+    {
+      "id": "p053",
+      "category": "Work, Forest & Nature",
+      "irula": "Pattiramā pō.",
+      "english": "Go safely / Be careful.",
+      "tamil": "பத்திரமா போ. (Pathiramaa poo.)",
+      "hindi": "संभलकर जाना। (Sambhalkar jaana.)",
+      "telugu": "జాగ్రత్తగా వెళ్ళు. (Jagrattaga vellu.)"
+    },
+    {
+      "id": "p054",
+      "category": "Work, Forest & Nature",
+      "irula": "Veragu kidaichudā?",
+      "english": "Did you get firewood?",
+      "tamil": "விறகு கிடைத்ததா? (Viragu kidaithathaa?)",
+      "hindi": "क्या लकड़ी (ईंधन) मिली? (Kya lakdi mili?)",
+      "telugu": "కట్టెలు దొరికాయా? (Kattelu dorikaya?)"
+    },
+    {
+      "id": "p055",
+      "category": "Work, Forest & Nature",
+      "irula": "Akke pōgāde.",
+      "english": "Do not go there.",
+      "tamil": "அங்கே போகாதே. (Ange pogaathae.)",
+      "hindi": "वहाँ मत जाओ। (Wahan mat jao.)",
+      "telugu": "అక్కడికి వెళ్లవద్దు. (Akkadiki vellavaddu.)"
+    },
+    {
+      "id": "p056",
+      "category": "Work, Forest & Nature",
+      "irula": "Vēle mudinjudu.",
+      "english": "The work is finished.",
+      "tamil": "வேலை முடிந்தது. (Velai mudinthathu.)",
+      "hindi": "काम खत्म हो गया। (Kaam khatam ho gaya.)",
+      "telugu": "పని పూర్తయింది. (Pani poortayindi.)"
+    },
+    {
+      "id": "p057",
+      "category": "Work, Forest & Nature",
+      "irula": "Kādulu mirugam irukku.",
+      "english": "There is an animal in the forest.",
+      "tamil": "காட்டில் மிருகம் இருக்கு. (Kaattil mirugam irukku.)",
+      "hindi": "जंगल में जानवर है। (Jangal mein jaanwar hai.)",
+      "telugu": "అడవిలో జంతువు ఉంది. (Adavilo jantuvu undi.)"
+    },
+    {
+      "id": "p058",
+      "category": "Work, Forest & Nature",
+      "irula": "Kūdeye eduttu vā.",
+      "english": "Bring the basket.",
+      "tamil": "கூடையை எடுத்து வா. (Koodaiyai eduthu vaa.)",
+      "hindi": "टोकरी लेकर आओ। (Tokari lekar aao.)",
+      "telugu": "బుట్ట తీసుకురా. (Butta teesukura.)"
+    },
+    {
+      "id": "p059",
+      "category": "Work, Forest & Nature",
+      "irula": "Idu romba kastam.",
+      "english": "This is very difficult/hard.",
+      "tamil": "இது ரொம்ப கஷ்டம். (Ithu romba kashtam.)",
+      "hindi": "यह बहुत मुश्किल है। (Yah bahut mushkil hai.)",
+      "telugu": "ఇది చాలా కష్టం. (Idi chaala kashtam.)"
+    },
+    {
+      "id": "p060",
+      "category": "Work, Forest & Nature",
+      "irula": "Nallā vēle panni.",
+      "english": "Do the work well.",
+      "tamil": "நல்லா வேலை பண்ணு. (Nallaa velai pannu.)",
+      "hindi": "अच्छे से काम करो। (Achchhe se kaam karo.)",
+      "telugu": "బాగా పని చేయి. (Baaga pani cheyi.)"
+    },
+    {
+      "id": "p061",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Idu sariyā irukku.",
+      "english": "This is correct / fine.",
+      "tamil": "இது சரியா இருக்கு. (Ithu sariyaa irukku.)",
+      "hindi": "यह सही है। (Yah sahi hai.)",
+      "telugu": "ఇది సరిగ్గా ఉంది. (Idi sarigga undi.)"
+    },
+    {
+      "id": "p062",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Idu tappu.",
+      "english": "This is wrong.",
+      "tamil": "இது தப்பு. (Ithu thappu.)",
+      "hindi": "यह गलत है। (Yah galat hai.)",
+      "telugu": "ఇది తప్పు. (Idi tappu.)"
+    },
+    {
+      "id": "p063",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Emukku santhōsamā irukku.",
+      "english": "I am happy.",
+      "tamil": "எனக்கு சந்தோஷமா இருக்கு. (Enakku santhoshamaa irukku.)",
+      "hindi": "मैं खुश हूँ। (Main khush hoon.)",
+      "telugu": "నేను సంతోషంగా ఉన్నాను. (Nenu santhoshanga unnanu.)"
+    },
+    {
+      "id": "p064",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Nī ēn kōvamā irukkiri?",
+      "english": "Why are you angry?",
+      "tamil": "நீ ஏன் கோபமா இருக்கிறாய்? (Nee aen kobamaa irukkiraai?)",
+      "hindi": "तुम क्यों गुस्सा हो? (Tum kyon gussa ho?)",
+      "telugu": "నువ్వు ఎందుకు కోపంగా ఉన్నావు? (Nuvvu enduku kopanga unnavu?)"
+    },
+    {
+      "id": "p065",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Bhayappadāde.",
+      "english": "Don't be scared.",
+      "tamil": "பயப்படாதே. (Bhayappadaathae.)",
+      "hindi": "डरो मत। (Daro mat.)",
+      "telugu": "భయపడవద్దు. (Bhayapadavaddu.)"
+    },
+    {
+      "id": "p066",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Unmaiye sollu.",
+      "english": "Tell the truth.",
+      "tamil": "உண்மையை சொல்லு. (Unmaiyai sollu.)",
+      "hindi": "सच बोलो। (Sach bolo.)",
+      "telugu": "నిజం చెప్పు. (Nijam cheppu.)"
+    },
+    {
+      "id": "p067",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Poy sollāde.",
+      "english": "Don't lie.",
+      "tamil": "பொய் சொல்லாதே. (Poi sollaathae.)",
+      "hindi": "झूठ मत बोलो। (Jhooth mat bolo.)",
+      "telugu": "అబద్ధం చెప్పవద్దు. (Abaddham cheppavaddu.)"
+    },
+    {
+      "id": "p068",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Emukku idu pidichirukku.",
+      "english": "I like this.",
+      "tamil": "எனக்கு இது பிடிச்சிருக்கு. (Enakku ithu pidichirukku.)",
+      "hindi": "मुझे यह पसंद है। (Mujhe yah pasand hai.)",
+      "telugu": "నాకు ఇది ఇష్టం. (Naaku idi ishtam.)"
+    },
+    {
+      "id": "p069",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Emukku idu pidikkale.",
+      "english": "I don't like this.",
+      "tamil": "எனக்கு இது பிடிக்கல. (Enakku ithu pidikkala.)",
+      "hindi": "मुझे यह पसंद नहीं है। (Mujhe yah pasand nahi hai.)",
+      "telugu": "నాకు ఇది ఇష్టం లేదు. (Naaku idi ishtam ledu.)"
+    },
+    {
+      "id": "p070",
+      "category": "Emotions, Opinions & Agreement",
+      "irula": "Nī enna sonne?",
+      "english": "What did you say?",
+      "tamil": "நீ என்ன சொன்னாய்? (Nee enna sonnaai?)",
+      "hindi": "तुमने क्या कहा? (Tumne kya kaha?)",
+      "telugu": "నువ్వు ఏమన్నావు? (Nuvvu emannavu?)"
+    },
+    {
+      "id": "p071",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Idu evvalavu?",
+      "english": "How much is this?",
+      "tamil": "இது எவ்வளவு? (Ithu evvalavu?)",
+      "hindi": "यह कितने का है? (Yah kitne ka hai?)",
+      "telugu": "ఇది ఎంత? (Idi enta?)"
+    },
+    {
+      "id": "p072",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Enkitte kāsu ille.",
+      "english": "I don't have money.",
+      "tamil": "என்கிட்ட காசு இல்லை. (Enkitta kaasu illai.)",
+      "hindi": "मेरे पास पैसे नहीं हैं। (Mere paas paise nahi hain.)",
+      "telugu": "నా దగ్గర డబ్బు లేదు. (Naa daggara dabbu ledu.)"
+    },
+    {
+      "id": "p073",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Emukku konjam kudu.",
+      "english": "Give me a little.",
+      "tamil": "எனக்கு கொஞ்சம் கொடு. (Enakku konjam kodu.)",
+      "hindi": "मुझे थोड़ा दो। (Mujhe thoda do.)",
+      "telugu": "నాకు కొంచెం ఇవ్వు. (Naaku konchem ivvu.)"
+    },
+    {
+      "id": "p074",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Idu romba jāsti.",
+      "english": "This is too much / a lot.",
+      "tamil": "இது ரொம்ப ஜாஸ்தி. (Ithu romba jaasthi.)",
+      "hindi": "यह बहुत ज़्यादा है। (Yah bahut zyada hai.)",
+      "telugu": "ఇది చాలా ఎక్కువ. (Idi chaala ekkuva.)"
+    },
+    {
+      "id": "p075",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Unkitte sillarai irukkā?",
+      "english": "Do you have change?",
+      "tamil": "உன்கிட்ட சில்லறை இருக்கா? (Unkitta sillarai irukkaa?)",
+      "hindi": "क्या तुम्हारे पास छुट्टे (खुले पैसे) हैं? (Kya tumhare paas chhutte hain?)",
+      "telugu": "నీ దగ్గర చిల్లర ఉందా? (Nee daggara chillara unda?)"
+    },
+    {
+      "id": "p076",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Unukku enna vēnum?",
+      "english": "What do you want?",
+      "tamil": "உனக்கு என்ன வேண்டும்? (Unakku enna vendum?)",
+      "hindi": "तुम्हें क्या चाहिए? (Tumhein kya chahiye?)",
+      "telugu": "నీకు ఏమి కావాలి? (Neeku emi kavali?)"
+    },
+    {
+      "id": "p077",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Ide edu.",
+      "english": "Take this.",
+      "tamil": "இதை எடு. (Ithai edu.)",
+      "hindi": "इसे लो। (Ise lo.)",
+      "telugu": "ఇది తీసుకో. (Idi teesuko.)"
+    },
+    {
+      "id": "p078",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Ade inge kondu vā.",
+      "english": "Bring that here.",
+      "tamil": "அதை இங்கே கொண்டு வா. (Athai inge kondu vaa.)",
+      "hindi": "उसे यहाँ लाओ। (Use yahan laao.)",
+      "telugu": "దానిని ఇక్కడికి తీసుకురా. (Daanini ikkadiki teesukura.)"
+    },
+    {
+      "id": "p079",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Kade mūdiyirukku.",
+      "english": "The shop is closed.",
+      "tamil": "கடை மூடியிருக்கு. (Kadai moodiyirukku.)",
+      "hindi": "दुकान बंद है। (Dukaan band hai.)",
+      "telugu": "దుకాణం మూసివేసి ఉంది. (Dukaanam moosivesi undi.)"
+    },
+    {
+      "id": "p080",
+      "category": "Shopping, Money & Quantities",
+      "irula": "Kade torandirukku.",
+      "english": "The shop is open.",
+      "tamil": "கடை திறந்திருக்கு. (Kadai thiranthirukku.)",
+      "hindi": "दुकान खुली है। (Dukaan khuli hai.)",
+      "telugu": "దుకాణం తెరిచి ఉంది. (Dukaanam terichi undi.)"
+    },
+    {
+      "id": "p081",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Emukku udavi panni.",
+      "english": "Help me.",
+      "tamil": "எனக்கு உதவி பண்ணு. (Enakku udhavi pannu.)",
+      "hindi": "मेरी मदद करो। (Meri madad karo.)",
+      "telugu": "నాకు సహాయం చేయి. (Naaku sahayam cheyi.)"
+    },
+    {
+      "id": "p082",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Enna āchu?",
+      "english": "What happened?",
+      "tamil": "என்ன ஆச்சு? (Enna aachu?)",
+      "hindi": "क्या हुआ? (Kya hua?)",
+      "telugu": "ఏమైంది? (Emaindi?)"
+    },
+    {
+      "id": "p083",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Onnum āgale.",
+      "english": "Nothing happened / I am fine.",
+      "tamil": "ஒன்னும் ஆகல. (Onnum aagala.)",
+      "hindi": "कुछ नहीं हुआ। (Kuch nahi hua.)",
+      "telugu": "ఏమీ కాలేదు. (Eemi kaledu.)"
+    },
+    {
+      "id": "p084",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Vēgamā ōdu.",
+      "english": "Run fast.",
+      "tamil": "வேகமா ஓடு. (Vegamaa odu.)",
+      "hindi": "तेज़ भागो। (Tez bhago.)",
+      "telugu": "వేగంగా పరిగెత్తు. (Veganga parigettu.)"
+    },
+    {
+      "id": "p085",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Pāttu nada.",
+      "english": "Walk carefully (Watch your step).",
+      "tamil": "பார்த்து நட. (Paarthu nada.)",
+      "hindi": "संभलकर चलो। (Sambhalkar chalo.)",
+      "telugu": "చూసుకుని నడువు. (Choosukuni naduvu.)"
+    },
+    {
+      "id": "p086",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Rattam varudu.",
+      "english": "Blood is coming (It is bleeding).",
+      "tamil": "ரத்தம் வருது. (Ratham varuthu.)",
+      "hindi": "खून आ रहा है। (Khoon aa raha hai.)",
+      "telugu": "రక్తం వస్తోంది. (Raktam vastondi.)"
+    },
+    {
+      "id": "p087",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Emukku vali teriyale.",
+      "english": "I don't know the way.",
+      "tamil": "எனக்கு வழி தெரியலை. (Enakku vazhi theriyalai.)",
+      "hindi": "मुझे रास्ता नहीं पता। (Mujhe rasta nahi pata.)",
+      "telugu": "నాకు దారి తెలియదు. (Naaku daari teliyadu.)"
+    },
+    {
+      "id": "p088",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Ekke pōganum?",
+      "english": "Where to go?",
+      "tamil": "எங்கே போகணும்? (Enge poganum?)",
+      "hindi": "कहाँ जाना है? (Kahan jaana hai?)",
+      "telugu": "ఎక్కడికి వెళ్లాలి? (Ekkadiki vellali?)"
+    },
+    {
+      "id": "p089",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Nēra pō.",
+      "english": "Go straight.",
+      "tamil": "நேரா போ. (Neraa poo.)",
+      "hindi": "सीधे जाओ। (Seedhe jao.)",
+      "telugu": "తిన్నగా వెళ్ళు. (Tinnaga vellu.)"
+    },
+    {
+      "id": "p090",
+      "category": "Help, Emergencies & Directions",
+      "irula": "Sattam pōdāde.",
+      "english": "Don't make noise.",
+      "tamil": "சத்தம் போடாதே. (Satham podaathae.)",
+      "hindi": "शोर मत मचाओ। (Shor mat machao.)",
+      "telugu": "శబ్దం చేయవద్దు. (Sabdam cheyavaddu.)"
+    },
+    {
+      "id": "p091",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Romba santhōsam.",
+      "english": "Very happy / Thank you.",
+      "tamil": "ரொம்ப சந்தோஷம் / நன்றி. (Romba santhosham / Nandri.)",
+      "hindi": "बहुत खुशी हुई / धन्यवाद। (Bahut khushi hui / Dhanyawad.)",
+      "telugu": "చాలా సంతోషం / కృతజ్ఞతలు. (Chaala santhosham / Krutagnatalu.)"
+    },
+    {
+      "id": "p092",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Emme mannichidu.",
+      "english": "Forgive me / I am sorry.",
+      "tamil": "என்னை மன்னிச்சிடு. (Ennai mannichidu.)",
+      "hindi": "मुझे माफ़ कर दो। (Mujhe maaf kar do.)",
+      "telugu": "నన్ను క్షమించు. (Nannu kshaminchu.)"
+    },
+    {
+      "id": "p093",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Konjam iru.",
+      "english": "Wait a little.",
+      "tamil": "கொஞ்சம் இரு. (Konjam iru.)",
+      "hindi": "थोड़ा रुको। (Thoda ruko.)",
+      "telugu": "కొంచెం ఆగు / ఉండు. (Konchem aagu / undu.)"
+    },
+    {
+      "id": "p094",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Mella pēsu.",
+      "english": "Speak slowly.",
+      "tamil": "மெல்ல பேசு. (Mella pesu.)",
+      "hindi": "धीरे बोलो। (Dheere bolo.)",
+      "telugu": "నెమ్మదిగా మాట్లాడు. (Nemmadiga maatladu.)"
+    },
+    {
+      "id": "p095",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Nānu solrade kēlu.",
+      "english": "Listen to what I say.",
+      "tamil": "நான் சொல்றதை கேளு. (Naan solrathai kelu.)",
+      "hindi": "मेरी बात सुनो। (Meri baat suno.)",
+      "telugu": "నేను చెప్పేది విను. (Nenu cheppedi vinu.)"
+    },
+    {
+      "id": "p096",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Nī enna solgiri?",
+      "english": "What are you saying?",
+      "tamil": "நீ என்ன சொல்கிறாய்? (Nee enna solgiraai?)",
+      "hindi": "तुम क्या कह रहे हो? (Tum kya kah rahe ho?)",
+      "telugu": "నువ్వు ఏం చెబుతున్నావు? (Nuvvu em chebutunnavu?)"
+    },
+    {
+      "id": "p097",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Ippo vā.",
+      "english": "Come now.",
+      "tamil": "இப்போ வா. (Ippo vaa.)",
+      "hindi": "अभी आओ। (Abhi aao.)",
+      "telugu": "ఇప్పుడు రా. (Ippudu raa.)"
+    },
+    {
+      "id": "p098",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Tirumbavum vā.",
+      "english": "Come again.",
+      "tamil": "திரும்பவும் வா. (Thirumbavum vaa.)",
+      "hindi": "फिर से आना। (Phir se aana.)",
+      "telugu": "మళ్ళీ రా. (Malli raa.)"
+    },
+    {
+      "id": "p099",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Nālekki pāppōmu.",
+      "english": "See you tomorrow.",
+      "tamil": "நாளைக்கு பார்ப்போம். (Naalaikku paarppom.)",
+      "hindi": "कल मिलते हैं। (Kal milte hain.)",
+      "telugu": "రేపు కలుద్దాం. (Repu kaluddam.)"
+    },
+    {
+      "id": "p100",
+      "category": "Politeness, Farewells & Communication",
+      "irula": "Nānu pōgitu varugēnu.",
+      "english": "I am taking leave (I will go and come back).",
+      "tamil": "நான் போயிட்டு வரேன். (Naan poittu varen.)",
+      "hindi": "मैं चलता हूँ (अलविदा)। (Main chalta hoon.)",
+      "telugu": "నేను వెళ్లి వస్తాను. (Nenu velli vastanu.)"
+    }
+  ],
+  "stories_or_proverbs": [
+   {
+      "id": "s001",
+      "type": "Short Story",
+      "category": "Sympathy / Motivation / Purpose",
+      "irula": "Pāmbu kadicha valumbu enga kailu irukku. Ānā, anda kayi dān āyiram usire kāppāttudu. Valiyum oru nāl marundāgum.",
+      "english": "The scars of snake bites are on our hands. But those same hands save a thousand lives. One day, even pain becomes medicine.",
+      "tamil": "பாம்பு கடித்த தழும்பு எங்கள் கையில் உள்ளது. ஆனால், அந்த கை தான் ஆயிரம் உயிரை காப்பாற்றுகிறது. வலியும் ஒரு நாள் மருந்தாகும். (Paambu kaditha thazhumbu engal kaiyil ullathu. Aanaal, antha kai thaan aayiram uyirai kaappaatrugirathu. Valiyum oru naal marunthaagum.)",
+      "hindi": "सांप के काटने के निशान हमारे हाथों पर हैं। लेकिन यही हाथ हज़ार जान बचाते हैं। एक दिन दर्द भी दवा बन जाता है। (Saanp ke kaatne ke nishaan hamare hathon par hain. Lekin yahi haath hazar jaan bachate hain. Ek din dard bhi dawa ban jata hai.)",
+      "telugu": "పాము కాటు గాయాలు మా చేతులపై ఉన్నాయి. కానీ ఆ చేతులే వెయ్యి ప్రాణాలను కాపాడుతాయి. ఒక రోజు నొప్పే మందుగా మారుతుంది. (Paamu kaatu gaayaalu maa chetulapai unnayi. Kaani aa chetule veyyi praanalanu kaapadutayi. Oka roju noppe manduga marutundi.)",
+      "context_note": "The Irulas are famous for catching venomous snakes to create antivenom. This story tells the user that their struggles and scars can be the very thing that helps others."
+    },
+    {
+      "id": "s002",
+      "type": "Short Story",
+      "category": "Heart-touching / Hope",
+      "irula": "Pulla pasiyilu aludā, tayikku kudukka onnum ille. Appo, oru kuruvi mēlirundu oru palam pōttudu. Iruttu vēleyilum velicham varum.",
+      "english": "When the child cried in hunger, the mother had nothing to give. Just then, a little bird dropped a fruit from above. Even in the darkest time, light will come.",
+      "tamil": "பிள்ளை பசியில் அழுதா, தாய்க்கு கொடுக்க ஒன்னும் இல்ல. அப்போ, ஒரு குருவி மேலிருந்து ஒரு பழம் போட்டது. இருட்டு வேளையிலும் வெளிச்சம் வரும். (Pillai pasiyil azhuthaa, thaaikku kodukka onnum illa. Appo, oru kuruvi maelirunthu oru pazham pottathu. Iruttu velaiyilum velicham varum.)",
+      "hindi": "जब बच्चा भूख से रोया, तो माँ के पास देने को कुछ नहीं था। तभी, एक चिड़िया ने ऊपर से एक फल गिरा दिया। अंधेरे समय में भी रोशनी आती है। (Jab bachcha bhookh se roya, toh maa ke paas dene ko kuch nahi tha. Tabhi, ek chidiya ne upar se ek phal gira diya. Andhere samay mein bhi roshni aati hai.)",
+      "telugu": "పిల్లవాడు ఆకలితో ఏడ్చినప్పుడు, తల్లి దగ్గర ఇవ్వడానికి ఏమీ లేదు. అప్పుడే, ఒక చిన్న పక్షి పైనుండి ఒక పండు కింద పడేసింది. చీకటి సమయంలో కూడా వెలుగు వస్తుంది. (Pillavadu aakalito edchinappudu, talli daggara ivvadaniki emi ledu. Appude, oka chinna pakshi painundi oka pandu kinda padesindi. Cheekati samayamlo kuda velugu vastundi.)",
+      "context_note": "A deeply emotional story reflecting the poverty many indigenous communities face, while teaching a motivating lesson to never lose hope when things seem impossible."
+    },
+    {
+      "id": "s003",
+      "type": "Short Story",
+      "category": "Sympathy / Resilience / Roots",
+      "irula": "Namma mannu vīdu idiñjālum, namma mūdādaiyar pātta yārum alikka mudiyādu. Vēr ālattā irundā, maram tirumbavum valarum.",
+      "english": "Even if our mud houses fall, no one can erase the songs of our ancestors. If the roots are deep, the tree will grow again.",
+      "tamil": "நம்ம மண் வீடு இடிஞ்சாலும், நம்ம மூதாதையர் பாட்டை யாரும் அழிக்க முடியாது. வேர் ஆழமா இருந்தா, மரம் திரும்பவும் வளரும். (Namma man veedu idinjaalum, namma moodhaathaiyar paattai yaarum azhikka mudiyaathu. Vaer aazhama irunthaa, maram thirumbavum valarum.)",
+      "hindi": "भले ही हमारे मिट्टी के घर गिर जाएं, लेकिन हमारे पूर्वजों के गीत को कोई नहीं मिटा सकता। अगर जड़ें गहरी हों, तो पेड़ फिर से उगेगा। (Bhale hi hamare mitti ke ghar gir jayein, lekin hamare purvajon ke geet ko koi nahi mita sakta. Agar jadein gahri hon, toh ped phir se ugega.)",
+      "telugu": "మన మట్టి ఇళ్లు కూలిపోయినా, మన పూర్వీకుల పాటను ఎవరూ చెరిపేయలేరు. మూలాలు లోతుగా ఉంటే, చెట్టు మళ్లీ పెరుగుతుంది. (Mana matti illu kulipoyina, mana poorvikula paatanu evaru cherepeiyaleru. Moolalu lotuga unte, chettu malli perugutundi.)",
+      "context_note": "Many Irulas have lost their native forest lands to modernization. This story evokes sympathy for their loss, but motivates the listener by emphasizing that true identity and strength come from deep cultural roots."
+    },
+    {
+      "id": "s004",
+      "type": "Short Story",
+      "category": "Heart-touching / Compassion",
+      "irula": "Pasiyōda irunda vēttaikkāran oru kutti māna pāttān. Ade kollāme tayi pōla valattān. Usire edukkardu vīramille, usire kāppāttardu dān nijamāna balam.",
+      "english": "The hungry hunter saw a baby deer. Without killing it, he raised it like a mother. Taking a life is not bravery; saving a life is true strength.",
+      "tamil": "பசியோடு இருந்த வேட்டைக்காரன் ஒரு குட்டி மானை பார்த்தான். அதை கொல்லாமல் தாய் போல வளர்த்தான். உயிரை எடுப்பது வீரமல்ல, உயிரை காப்பாற்றுவதே உண்மையான பலம். (Pasiyodu iruntha vettaikkaaran oru kutti maanai paarthaan. Athai kollaamal thaai pola valarthaan. Uyirai eduppathu veeramalla, uyirai kaappaatruvathey unmaiyaana balam.)",
+      "hindi": "भूखे शिकारी ने एक हिरण के बच्चे को देखा। उसे मारे बिना, उसने उसे एक माँ की तरह पाला। जान लेना वीरता नहीं है; जान बचाना ही सच्ची ताकत है। (Bhookhe shikari ne ek hiran ke bachche ko dekha. Use maare bina, usne use ek maa ki tarah paala. Jaan lena veerta nahi hai; jaan bachana hi sachchi taqat hai.)",
+      "telugu": "ఆకలితో ఉన్న వేటగాడు ఒక జింక పిల్లను చూశాడు. దానిని చంపకుండా, తల్లిలా పెంచాడు. ప్రాణం తీయడం వీరత్వం కాదు, ప్రాణం నిలపడమే నిజమైన బలం. (Aakalito unna vetagadu oka jinka pillanu chusadu. Danini champakunda, tallila penchadu. Pranam tiyadam veeratvam kadu, pranam nilapadame nijamaina balam.)",
+      "context_note": "A touching narrative showing that despite being historically hunter-gatherers, the Irulas possess profound empathy and respect for forest life."
+    },
+    {
+      "id": "s005",
+      "type": "Short Story",
+      "category": "Sympathy / Sacrifice / Future",
+      "irula": "Veyyilu mēle pattālum, pulla padikkanunnu seruppu illāme nadandān. Viyarve sotta sotta ulachā, oru nāl anda pulla avane nelalukku kūttitu pōvān.",
+      "english": "Even though the sun burned him, he walked without shoes so his child could study. If you sweat and work hard, one day that child will take you to the shade.",
+      "tamil": "வெயில் மேலே பட்டாலும், பிள்ளை படிக்கணுன்னு செருப்பு இல்லாம நடந்தான். வியர்வை சொட்ட சொட்ட உழைச்சா, ஒரு நாள் அந்த பிள்ளை அவனை நிழலுக்கு கூட்டிட்டு போவான். (Veyil maele pattaalum, pillai padikkanunnu seruppu illaama nadanthaan. Viyarvai sotta sotta uzhaichaa, oru naal antha pillai avanai nizhalukku koottittu povaan.)",
+      "hindi": "धूप जलने पर भी, वह बिना चप्पल के चला ताकि उसका बच्चा पढ़ सके। पसीना बहाकर मेहनत करोगे, तो एक दिन वही बच्चा तुम्हें छांव में ले जाएगा। (Dhoop jalne par bhi, vah bina chappal ke chala taaki uska bachcha padh sake. Paseena bahakar mehnat karoge, toh ek din wahi bachcha tumhein chhanv mein le jayega.)",
+      "telugu": "ఎండ మండుతున్నా, తన బిడ్డ చదువుకోవాలని చెప్పులు లేకుండా నడిచాడు. చెమటోడ్చి కష్టపడితే, ఒక రోజు ఆ బిడ్డే అతన్ని నీడకు తీసుకెళ్తాడు. (Enda mandutunna, tana bidda chaduvukovalani cheppulu lekunda nadichadu. Chematodchi kashtapadite, oka roju aa bidde atanni needaku teesukeltadu.)",
+      "context_note": "Many Irula families transition into hard labor like brick kilns after losing forest access. This story brings sympathy to their struggle while motivating with the hope of education."
+    },
+    {
+      "id": "s006",
+      "type": "Short Story",
+      "category": "Heart-touching / Unity / Motivation",
+      "irula": "Tanni vēgamā ōdina, ottaiyā pōgumpōdu vellam adichu pōidum. Ānā, nālu pēr kai pidiñjā, anda vellamē oru pālamāgīdum.",
+      "english": "If the river runs fast, going alone means the flood will wash you away. But if four people hold hands, that very flood becomes a bridge.",
+      "tamil": "தண்ணீர் வேகமா ஓடினா, ஒத்தையா போகும்போது வெள்ளம் அடிச்சு போயிடும். ஆனா, நாலு பேர் கை பிடிஞ்சா, அந்த வெள்ளமே ஒரு பாலமாகிடும். (Thanneer vegamaa odinaa, othaiyaa pogumbothu vellam adichu poyidum. Aanaa, naalu per kai pidinjaa, antha vellame oru paalamaagidum.)",
+      "hindi": "अगर पानी तेज़ बहता है, तो अकेले जाने पर बाढ़ तुम्हें बहा ले जाएगी। लेकिन अगर चार लोग हाथ पकड़ लें, तो वही बाढ़ एक पुल बन जाती है। (Agar paani tez bahta hai, toh akele jaane par baadh tumhein baha le jayegi. Lekin agar chaar log haath pakad lein, toh wahi baadh ek pul ban jaati hai.)",
+      "telugu": "నీరు వేగంగా పారుతున్నప్పుడు, ఒంటరిగా వెళితే వరద నిన్ను కొట్టుకుపోయేలా చేస్తుంది. కానీ నలుగురు చేతులు పట్టుకుంటే, ఆ వరద కూడా వంతెన అవుతుంది. (Neeru veganga parutunnappudu, ontariga velite varada ninnu kottukupoyela chestundi. Kaani naluguru chetulu pattukunte, aa varada kuda vantena avutundi.)",
+      "context_note": "A powerful metaphor for tribal unity. It teaches users that facing life's biggest obstacles is impossible alone, but togetherness turns the obstacle itself into a path."
+    },
+    {
+      "id": "s007",
+      "type": "Short Story",
+      "category": "Sympathy / Hidden Worth / Motivation",
+      "irula": "Iruttulu pūtta pūvu, yārukkum teriyādu. Ānā adoda vāsane kāttu pūra nirañjirukku. Namma uleppu veliye teriyāttālum, namma manasu suttama irukku.",
+      "english": "The flower that bloomed in the dark is known to no one. But its fragrance fills the entire forest. Even if our hard work is not seen by the outside world, our hearts remain pure.",
+      "tamil": "இருட்டில் பூத்த பூ, யாருக்கும் தெரியாது. ஆனால் அதோட வாசனை காடு பூரா நிறைஞ்சிருக்கு. நம்ம உழைப்பு வெளியே தெரியாட்டாலும், நம்ம மனசு சுத்தமா இருக்கு. (Iruttil pootha poo, yaarukkum theriyaathu. Aanaal athoda vaasanai kaadu poora niranjirukku. Namma uzhaippu veliye theriyaattaalum, namma manasu suthamaa irukku.)",
+      "hindi": "अंधेरे में खिले फूल को कोई नहीं जानता। लेकिन उसकी खुशबू पूरे जंगल में भरी होती है। भले ही हमारी मेहनत बाहर न दिखे, लेकिन हमारा दिल साफ है। (Andhere mein khile phool ko koi nahi jaanta. Lekin uski khushboo poore jangal mein bhari hoti hai. Bhale hi hamari mehnat bahar na dikhe, lekin hamara dil saaf hai.)",
+      "telugu": "చీకటిలో వికసించిన పువ్వు ఎవరికీ తెలియదు. కానీ దాని సువాసన అడవి అంతా నిండి ఉంటుంది. మన కష్టం బయటకు కనిపించకపోయినా, మన మనస్సు స్వచ్ఛంగా ఉంటుంది. (Chikatilo vikasinchina puvvu evariki teliyadu. Kaani daani suvasana adavi antaa nindi untundi. Mana kashtam bayataku kanipinchakapoyina, mana manassu svacchanga untundi.)",
+      "context_note": "A poetic reflection on the unseen struggles of the Irula people. It motivates the user to keep doing good and working hard, even if they aren't receiving recognition from society."
+    },
+    {
+      "id": "s008",
+      "type": "Short Story",
+      "category": "Heart-touching / Generosity",
+      "irula": "Rendu pērukku ore oru kelañgu dān irundadu. Pasiyilum ade pādi pādiyā piriñju tinna pōdu, adu rājavā vālra mādiri ānandam tandadu. Kudukkarda dān unmaiyāna vālkke.",
+      "english": "Two people had only one wild tuber. Even in deep hunger, when they split it in half and ate, it gave them the joy of living like kings. Giving is the true way of life.",
+      "tamil": "ரெண்டு பேருக்கு ஒரே ஒரு கிழங்கு தான் இருந்தது. பசியிலும் அதை பாதி பாதியா பிரிஞ்சு தின்ன போது, அது ராஜாவா வாழ்ற மாதிரி ஆனந்தம் தந்தது. கொடுக்கறது தான் உண்மையான வாழ்க்கை. (Rendu perukku ore oru kizhangu thaan irunthathu. Pasiyilum athai paathi paathiyaa pirinju thinna pothu, athu raajavaa vaazhra maathiri aanantham thanthathu. Kodukkarathu thaan unmaiyaana vaazhkkai.)",
+      "hindi": "दो लोगों के पास सिर्फ एक कंद (शकरकंद) था। गहरी भूख में भी जब उन्होंने उसे आधा-आधा बांटकर खाया, तो उसने राजा की तरह जीने का आनंद दिया। देना ही सच्चा जीवन है। (Do logon ke paas sirf ek kand tha. Gahri bhookh mein bhi jab unhone use aadha-aadha baantkar khaya, toh usne raja ki tarah jeene ka anand diya. Dena hi sachcha jeevan hai.)",
+      "telugu": "ఇద్దరు మనుషులకు ఒకే ఒక్క దుంప ఉంది. తీవ్రమైన ఆకలిలో కూడా దానిని సగం సగం పంచుకుని తిన్నప్పుడు, అది రాజులా బతికిన ఆనందాన్ని ఇచ్చింది. ఇవ్వడమే నిజమైన జీవితం. (Iddaru manushulaku oke okka dumpa undi. Tivramaina aakalilo kuda daanini sagam sagam panchukuni tinnappudu, adi rajula batikina anandanni icchindi. Ivvadame nijamaina jivitam.)",
+      "context_note": "Historically, Irulas relied heavily on forest tubers (kelangu) for survival. This story touches the heart by showing that true wealth lies in sharing whatever little you have, even during starvation."
+    },
+    {
+      "id": "s009",
+      "type": "Short Story",
+      "category": "Sympathy / Wisdom / Elders",
+      "irula": "Tāttā pōgum pōdu, oru kādē alinda mādiri irundadu. Pustagattulu illāda arivu, avanga padutta pāyilu dān irukku. Namma periyavange madippadu dān namma unmaiyāna sottu.",
+      "english": "When the old grandfather passed away, it felt like an entire forest was destroyed. The knowledge not found in books was left on the mat where he slept. Respecting our elders is our true wealth.",
+      "tamil": "தாத்தா போகும் போது, ஒரு காடே அழிந்த மாதிரி இருந்தது. புத்தகத்தில் இல்லாத அறிவு, அவங்க படுத்த பாயில் தான் இருக்கு. நம்ம பெரியவங்களை மதிப்பதே நம்ம உண்மையான சொத்து. (Thaathaa pogum pothu, oru kaade azhintha maathiri irunthathu. Puthagathil illaatha arivu, avanga padutha paayil thaan irukku. Namma periyavangalai mathippathe namma unmaiyaana sothu.)",
+      "hindi": "जब बूढ़े दादा का निधन हुआ, तो लगा जैसे पूरा जंगल उजड़ गया। किताबों में न मिलने वाला ज्ञान उनकी चटाई पर ही रह गया। अपने बड़ों का सम्मान करना ही हमारी असली संपत्ति है। (Jab boodhe dada ka nidhan hua, toh laga jaise poora jangal ujad gaya. Kitabon mein na milne wala gyaan unki chatai par hi rah gaya. Apne badon ka samman karna hi hamari asli sampatti hai.)",
+      "telugu": "తాత చనిపోయినప్పుడు, ఒక అడవే నాశనమైనట్లు అనిపించింది. పుస్తకాలలో దొరకని జ్ఞానం వారు పడుకున్న చాప మీదే ఉండిపోయింది. మన పెద్దలను గౌరవించడమే మన నిజమైన సంపద. (Taata chanipoyinappudu, oka adave nashanamainatlu anipinchindi. Pustakalalo dorakani gnanam vaaru padukunna chapa meede undipoyindi. Mana peddalanu gouravinchadame mana nijamaina sampada.)",
+      "context_note": "Since the Irula language has no traditional script, all their deep knowledge of nature, medicine, and survival is passed down orally. This story motivates the youth to cherish the elderly before their wisdom is lost forever."
+    },
+    {
+      "id": "s010",
+      "type": "Short Story",
+      "category": "Heart-touching / Empathy / Nature",
+      "irula": "Yāne namma kūreye idicha nālu, nāmbu kōvappattōm. Ānā, kādulu pākkum pōdu ade pullakku kodukka onnum ille. Pasi ellārukkum onnu dān. Yār mannu yārukku sondam?",
+      "english": "The day the elephant destroyed our hut, we got angry. But when we looked into the forest, it had nothing to give to its calf. Hunger is the same for everyone. Whose land belongs to whom?",
+      "tamil": "யானை நம்ம கூரையை இடித்த நாள், நாம் கோபப்பட்டோம். ஆனால், காட்டில் பார்க்கும் போது அதோட பிள்ளைக்கு கொடுக்க ஒன்னும் இல்ல. பசி எல்லாருக்கும் ஒன்னு தான். யார் மண் யாருக்கு சொந்தம்? (Yaanai namma kooraiyai iditha naal, naam kovappattom. Aanaal, kaattil paarkkum pothu athoda pillaikku kodukka onnum illa. Pasi ellaarukkum onnu thaan. Yaar man yaarukku sontham?)",
+      "hindi": "जिस दिन हाथी ने हमारी झोपड़ी तोड़ी, हमें बहुत गुस्सा आया। लेकिन जंगल में देखने पर, उसके पास अपने बच्चे को देने के लिए कुछ नहीं था। भूख सबके लिए एक है। किसकी ज़मीन किसकी है? (Jis din hathi ne hamari jhopdi todi, hamein bahut gussa aaya. Lekin jangal mein dekhne par, uske paas apne bachche ko dene ke liye kuch nahi tha. Bhookh sabke liye ek hai. Kiski zameen kiski hai?)",
+      "telugu": "ఏనుగు మన గుడిసెను పడగొట్టిన రోజు మనం కోపపడ్డాము. కానీ అడవిలో చూసినప్పుడు, దాని బిడ్డకు ఇవ్వడానికి ఏమీ లేదు. ఆకలి అందరికీ ఒక్కటే. ఎవరి భూమి ఎవరికి సొంతం? (Aenugu mana gudisenu padagottina roju manam kopapaddamu. Kaani adavilo chusinappudu, daani biddaku ivvadaniki emi ledu. Aakali andariki okkate. Evari bhumi evariki sontam?)",
+      "context_note": "Irulas live on the fringes of forests and frequently face human-wildlife conflicts. This story beautifully illustrates their immense empathy, showing that even when they lose their homes, they understand the pain of the animals whose forests have been destroyed."
+    },
+    {
+      "id": "s011",
+      "type": "Short Story",
+      "category": "Sympathy / Sacrifice / Motherhood",
+      "irula": "Mūngil kūde pinnum pōdu, tayoda kayil rattam vandadu. Ānā anda kūdeyil dān pullakku sāppādu nirañjirukkum. Valige ellām nālekku vālkke āgum.",
+      "english": "When weaving the bamboo basket, blood came from the mother's hands. But it is in that basket the child's food will be filled. All pain becomes tomorrow's life.",
+      "tamil": "மூங்கில் கூடை பின்னும் போது, தாயின் கையில் ரத்தம் வந்தது. ஆனா அந்த கூடையில் தான் பிள்ளைக்கு சாப்பாடு நிறைஞ்சிருக்கும். வலிகள் எல்லாம் நாளைக்கு வாழ்க்கையாகும். (Moongil koodai pinnum pothu, thaayin kaiyil ratham vanthathu. Aanaa antha koodaiyil thaan pillaikku saappaadu niranjirukkum. Valigal ellaam naalaikku vaazhkkaiyaagum.)",
+      "hindi": "बांस की टोकरी बुनते समय, माँ के हाथ से खून निकल आया। लेकिन उसी टोकरी में बच्चे का खाना भरा जाएगा। सारा दर्द कल का जीवन बन जाता है। (Baans ki tokari bunte samay, maa ke haath se khoon nikal aaya. Lekin usi tokari mein bachche ka khana bhara jayega. Saara dard kal ka jeevan ban jaata hai.)",
+      "telugu": "వెదురు బుట్ట అల్లుతున్నప్పుడు, తల్లి చేతి నుండి రక్తం వచ్చింది. కానీ ఆ బుట్టలోనే బిడ్డకు అన్నం నిండుతుంది. నొప్పులన్నీ రేపటి జీవితంగా మారుతాయి. (Veduru butta allutunnappudu, talli cheti nundi raktam vachindi. Kaani aa buttalone biddaku annam nindutundi. Noppulanni repati jeevitanga marutayi.)",
+      "context_note": "Irula women are highly skilled artisans who make cane and bamboo products. This story brings sympathy to their hard labor while motivating the youth to remember their parents' sacrifices."
+    },
+    {
+      "id": "s012",
+      "type": "Short Story",
+      "category": "Heart-touching / Kindness / Survival",
+      "irula": "Kōde kālatulu, kādu pūra kāñjupōchu. Kidaicha oru vayā tanniye, periyavar oru dāgam ulla nāykku kuduttār. Punniyam dān namma usire kāppāttum.",
+      "english": "In the summer time, the whole forest dried up. The old man gave the one cup of water he found to a thirsty dog. It is good deeds alone that protect our lives.",
+      "tamil": "கோடை காலத்துல, காடு பூரா காஞ்சுபோச்சு. கிடைச்ச ஒரு வாய் தண்ணியை, பெரியவர் ஒரு தாகம் உள்ள நாய்க்கு கொடுத்தார். புண்ணியம் தான் நம்ம உயிரை காப்பாற்றும். (Kodai kaalathula, kaadu poora kaanjupochu. Kidaicha oru vaai thanniyai, periyavar oru thaagam ulla naaikku koduthaar. Punniyam thaan namma uyirai kaappaatrum.)",
+      "hindi": "गर्मियों के मौसम में पूरा जंगल सूख गया। बूढ़े आदमी ने उसे मिला एक घूंट पानी एक प्यासे कुत्ते को दे दिया। केवल अच्छे कर्म ही हमारी जान बचाते हैं। (Garmiyon ke mausam mein poora jangal sookh gaya. Boodhe aadmi ne use mila ek ghoont paani ek pyaase kutte ko de diya. Keval achchhe karm hi hamari jaan bachate hain.)",
+      "telugu": "వేసవి కాలంలో అడవి అంతా ఎండిపోయింది. వృద్ధుడు తనకు దొరికిన ఒక్క గుక్క నీటిని దాహంతో ఉన్న కుక్కకు ఇచ్చాడు. పుణ్యమే మన ప్రాణాలను కాపాడుతుంది. (Vesavi kaalamlo adavi antaa endipoyindi. Vruddhudu tanaku dorikina okka gukka neetini dahamto unna kukkaku icchadu. Punyame mana pranalanu kapadutundi.)",
+      "context_note": "Droughts severely impact marginalized tribal settlements. This touching story illustrates the deep indigenous ethos of sharing Earth's scarce resources with all creatures, even before oneself."
+    },
+    {
+      "id": "s013",
+      "type": "Short Story",
+      "category": "Sympathy / Joy / Childhood",
+      "irula": "Pulla vellāduttukku bomme ille, mannu dān irundadu. Ānā anda mannilu kattina vīdu, rāja kōtteye vida alagā irundadu. Santhōsam sothulu ille, manasulu irukku.",
+      "english": "The child had no toys to play with, only mud. But the house built in that mud was more beautiful than a king's fort. Happiness is not in wealth, it is in the heart.",
+      "tamil": "பிள்ளை விளையாட பொம்மை இல்லை, மண் தான் இருந்தது. ஆனா அந்த மண்ணில் கட்டின வீடு, ராஜா கோட்டையை விட அழகா இருந்தது. சந்தோஷம் சொத்தில் இல்லை, மனசில் இருக்கு. (Pillai vilaiyaada bommai illai, man thaan irunthathu. Aanaa antha mannil kattina veedu, raaja kottaiyai vida azhagaa irunthathu. Santhosham sothil illai, manasil irukku.)",
+      "hindi": "बच्चे के खेलने के लिए खिलौने नहीं थे, सिर्फ मिट्टी थी। लेकिन उस मिट्टी में बना घर राजा के महल से भी सुंदर था। खुशी संपत्ति में नहीं, दिल में है। (Bachche ke khelne ke liye khilaune nahi the, sirf mitti thi. Lekin us mitti mein bana ghar raja ke mahal se bhi sundar tha. Khushi sampatti mein nahi, dil mein hai.)",
+      "telugu": "పిల్లవాడికి ఆడుకోవడానికి బొమ్మలు లేవు, మట్టి మాత్రమే ఉంది. కానీ ఆ మట్టిలో కట్టిన ఇల్లు రాజు కోట కంటే అందంగా ఉంది. సంతోషం ఆస్తిలో లేదు, మనసులో ఉంది. (Pillavadiki aadukovadaniki bommalu levu, matti matrame undi. Kaani aa mattilo kattina illu raaju kota kante andanga undi. Santhosham aastilo ledu, manasulo undi.)",
+      "context_note": "A touching observation of tribal children who grow up in extreme poverty but maintain a pure, unbreakable spirit. It motivates the user to appreciate the simple things in life."
+    },
+    {
+      "id": "s014",
+      "type": "Short Story",
+      "category": "Heart-touching / Forgiveness / Medicine",
+      "irula": "Avane kēli panniyavanukku nōyu vandapōdu, pacha ele marundu kuduttu kāppāttinān. Pagaivanukkum uyir onnu dān. Marundu vali tīrkkum, mannippu manase tīrkkum.",
+      "english": "When the one who mocked him fell ill, he saved him by giving him green leaf medicine. Even an enemy has only one life. Medicine cures the pain, forgiveness cures the heart.",
+      "tamil": "அவனை கேலி பண்ணியவனுக்கு நோய் வந்தபோது, பச்சை இலை மருந்து கொடுத்து காப்பாற்றினான். பகைவனுக்கும் உயிர் ஒன்னு தான். மருந்து வலியை தீர்க்கும், மன்னிப்பு மனசை தீர்க்கும். (Avanai keli panniyavanukku noyu vanthapothu, pachai ilai marunthu koduthu kaappaatrinaan. Pagaivanukkum uyir onnu thaan. Marunthu valiyai theerkkum, mannippu manasai theerkkum.)",
+      "hindi": "जब उसका मज़ाक उड़ाने वाला बीमार पड़ा, तो उसने हरी पत्ती की दवा देकर उसे बचाया। दुश्मन की भी एक ही जान होती है। दवा दर्द दूर करती है, माफ़ी दिल को ठीक करती है। (Jab uska mazaak udaane wala beemar pada, toh usne hari patti ki dawa dekar use bachaya. Dushman ki bhi ek hi jaan hoti hai. Dawa dard door karti hai, maafi dil ko theek karti hai.)",
+      "telugu": "అతన్ని ఎగతాళి చేసినవాడు అనారోగ్యానికి గురైనప్పుడు, పచ్చని ఆకు మందు ఇచ్చి కాపాడాడు. శత్రువుకు కూడా ప్రాణం ఒక్కటే. మందు నొప్పిని తగ్గిస్తుంది, క్షమాపణ మనసును బాగుచేస్తుంది. (Atanni egatali chesinavadu anarogyaliki gurainappudu, pachani aaku mandu icchi kapadadu. Satruvuku kuda pranam okkate. Mandu noppini taggistundi, kshamapana manasunu baguchestundi.)",
+      "context_note": "Historically, Irulas have been marginalized by mainstream society. This powerful story shows their moral high ground, using their invaluable herbal knowledge to heal even those who treat them poorly."
+    },
+    {
+      "id": "s015",
+      "type": "Short Story",
+      "category": "Sympathy / Hope / Motherhood",
+      "irula": "Iruttulu pasiyōda tūnga pōna pullakku, tayi nilāve kāmichu sōru ūtina. Nambikke dān ēlaiyoda mudal unavu.",
+      "english": "To the child going to sleep hungry in the dark, the mother showed the moon and fed him hope. Belief is the first food of the poor.",
+      "tamil": "இருட்டில் பசியோடு தூங்க போன பிள்ளைக்கு, தாய் நிலாவை காமிச்சு சோறு ஊட்டினா. நம்பிக்கை தான் ஏழையோட முதல் உணவு. (Iruttil pasiyodu thoonga pona pillaikku, thaai nilaavai kaamichu soru oottinaa. Nambikkai thaan ezhaiyoda muthal unavu.)",
+      "hindi": "अंधेरे में भूखे सोने गए बच्चे को, माँ ने चाँद दिखाकर उम्मीद खिलाई। विश्वास ही गरीबों का पहला भोजन है। (Andhere mein bhookhe sone gaye bachche ko, maa ne chaand dikhakar ummeed khilai. Vishwas hi garibon ka pahla bhojan hai.)",
+      "telugu": "చీకటిలో ఆకలితో పడుకోబోయిన బిడ్డకు, తల్లి చంద్రుడిని చూపించి ఆశను తినిపించింది. నమ్మకమే పేదల మొదటి ఆహారం. (Chikatilo aakalito padukoboyina biddaku, talli chandrudini chupinchi aashanu tinipinchindi. Nammakame pedala modati aaharam.)",
+      "context_note": "Extreme poverty is a tragic reality for many tribal families. This heart-touching story shows that even when a mother cannot provide food, her love and the ability to inspire hope give the child the strength to survive."
+    },
+    {
+      "id": "s016",
+      "type": "Short Story",
+      "category": "Sympathy / Unsung Heroes / Motivation",
+      "irula": "Kādulu namma kālttadam padiya kūdādu nnu nadandōm. Ānā nādu ābattulu mātikkitta pōdu, namma uleppu dān mudalla ninnudu. Amaidi dān namma āyudam.",
+      "english": "We walked so our footprints wouldn't fall in the forest. But when the country was in danger, our hard work stood first. Silence is our weapon.",
+      "tamil": "காட்டில் நம்ம கால் தடம் பதிய கூடாதுன்னு நடந்தோம். ஆனா நாடு ஆபத்துல மாட்டிக்கிட்ட போது, நம்ம உழைப்பு தான் முதல்ல நின்னுது. அமைதி தான் நம்ம ஆயுதம். (Kaattil namma kaal thadam pathiya koodaathunnu nadanthom. Aanaa naadu aabathula maattikkitta pothu, namma uzhaippu thaan muthalla ninnuthu. Amaithi thaan namma aayutham.)",
+      "hindi": "हम ऐसे चले कि जंगल में हमारे पैरों के निशान न पड़ें। लेकिन जब देश खतरे में पड़ा, तो हमारी मेहनत सबसे आगे खड़ी हुई। खामोशी ही हमारा हथियार है। (Hum aise chale ki jangal mein hamare pairon ke nishaan na padein. Lekin jab desh khatre mein pada, toh hamari mehnat sabse aage khadi hui. Khamoshi hi hamara hathiyar hai.)",
+      "telugu": "అడవిలో మన పాదముద్రలు పడకూడదని నడిచాము. కానీ దేశం ఆపదలో ఉన్నప్పుడు, మన శ్రమే ముందు నిలబడింది. నిశ్శబ్దమే మన ఆయుధం. (Adavilo mana paadamudralu padakudadani nadichamu. Kaani desam aapadalo unnappudu, mana shrame mundu nilabadindi. Nishshabdame mana aayudham.)",
+      "context_note": "Irulas live sustainably, trying to leave no trace in nature. Yet, when urban areas face dangerous snake encounters, it is the silent, marginalized Irula snake catcher who arrives to save the day."
+    },
+    {
+      "id": "s017",
+      "type": "Short Story",
+      "category": "Sympathy / Wisdom / Healing",
+      "irula": "Marundukku vēra eleye parikkum pōdu periyavar sonnār, 'Ele kīle vilundā mannu, mēle irundā marundu. Manisanum appadi dān.' Anbu dān madippe kūttum.",
+      "english": "While picking roots for medicine, the elder said, 'If the leaf falls, it is just dirt; if it is above, it is medicine. Humans are like that too.' It is love that increases our value.",
+      "tamil": "மருந்துக்கு வேரை இலையை பறிக்கும் போது பெரியவர் சொன்னார், 'இலை கீழே விழுந்தா மண், மேலே இருந்தா மருந்து. மனுஷனும் அப்படி தான்.' அன்பு தான் மதிப்பை கூட்டும். (Marunthukku verai ilaiyai parikkum pothu periyavar sonnaar, 'Ilai keezhe vizhunthaa man, maele irunthaa marunthu. Manushanum appadi thaan.' Anbu thaan mathippai koottum.)",
+      "hindi": "दवा के लिए जड़ें और पत्ते तोड़ते समय बुजुर्ग ने कहा, 'पत्ता नीचे गिरे तो मिट्टी, ऊपर रहे तो दवा। इंसान भी ऐसा ही है।' प्यार ही हमारी कीमत बढ़ाता है। (Dawa ke liye jadein aur patte todte samay buzurg ne kaha, 'Patta neeche gire toh mitti, upar rahe toh dawa. Insaan bhi aisa hi hai.' Pyaar hi hamari keemat badhata hai.)",
+      "telugu": "మందు కోసం వేరు, ఆకు కోస్తున్నప్పుడు పెద్దాయన అన్నాడు, 'ఆకు కింద పడితే మట్టి, పైన ఉంటే మందు. మనిషి కూడా అంతే.' ప్రేమే మన విలువను పెంచుతుంది. (Mandu kosam veru, aaku kostunnappudu peddayana annadu, 'Aaku kinda padite matti, paina unte mandu. Manishikuda ante.' Preme mana viluvanu penchutundi.)",
+      "context_note": "A beautiful philosophical truth shared by an Irula herbalist. It gently reminds the user that a person's worth is defined by how they lift others up, not by their status or wealth."
+    },
+    {
+      "id": "s018",
+      "type": "Short Story",
+      "category": "Sympathy / Labor / Hope",
+      "irula": "Periya kattadatte kattina kayilu, pattāsu sudum pōdu rēge illa. Nām kattina vīttukku nāmbu pōga mudiyādu. Ānā namma sirippe yārum pudunga mudiyādu.",
+      "english": "The hands that built the big building have no fingerprints left after making firecrackers. We cannot go into the house we built. But no one can steal our smile.",
+      "tamil": "பெரிய கட்டடத்தை கட்டின கையில், பட்டாசு சுடும் போது ரேகை இல்லை. நாம் கட்டின வீட்டுக்கு நாம் போக முடியாது. ஆனா நம்ம சிரிப்பை யாரும் பிடுங்க முடியாது. (Periya kattadathai kattina kaiyil, pattaasu sudum pothu regai illai. Naam kattina veettukku naambu poga mudiyaathu. Aanaa namma sirippai yaarum pidunga mudiyaathu.)",
+      "hindi": "बड़ी इमारत बनाने वाले हाथों में, पटाखे बनाते समय लकीरें नहीं बचीं। हम अपने ही बनाए घर में नहीं जा सकते। लेकिन हमारी मुस्कान कोई नहीं छीन सकता। (Badi imarat banane wale hathon mein, patakhe banate samay lakirein nahi bachin. Hum apne hi banaye ghar mein nahi ja sakte. Lekin hamari muskaan koi nahi chheen sakta.)",
+      "telugu": "పెద్ద భవనాన్ని కట్టిన చేతుల్లో, టపాకాయలు చేసేటప్పుడు రేఖలు లేవు. మనం కట్టిన ఇంట్లోకి మనం వెళ్ళలేము. కానీ మన చిరునవ్వును ఎవరూ లాక్కోలేరు. (Pedda bhavananni kattina chetullo, tapakayalu chesetappudu rekhalu levu. Manam kattina intloki manam vellalemu. Kaani mana chirunavvunu evaru laakkoleru.)",
+      "context_note": "Many marginalized Irula laborers migrate to cities for construction work or dangerous firecracker manufacturing. This story captures the heart-wrenching reality of their labor, offset by their unbreakable spirit and joy."
+    },
+    {
+      "id": "s019",
+      "type": "Short Story",
+      "category": "Heart-touching / Coexistence / Respect",
+      "irula": "Pāmbu pidikkum pōdu, periyavar adu kitte mannippu kēttār. 'Nī emme kottale, nāmbu unne kollamāttōm. Oru usire kāppātta innoru usirukku vali kodukka kūdādu.'",
+      "english": "When catching the snake, the elder asked it for forgiveness. 'You did not sting us, we will not kill you. To save one life, we should not give pain to another.'",
+      "tamil": "பாம்பு பிடிக்கும் போது, பெரியவர் அது கிட்ட மன்னிப்பு கேட்டார். 'நீ எங்களை கொட்டல, நாம உன்னை கொல்லமாட்டோம். ஒரு உயிரை காப்பாற்ற இன்னொரு உயிருக்கு வலி கொடுக்க கூடாது.' (Paambu pidikkum pothu, periyavar athu kitta mannippu kettaar. 'Nee engalai kottala, naama unnai kollamaattom. Oru uyirai kaappaatra innoru uyirukku vali kodukka koodaathu.')",
+      "hindi": "सांप को पकड़ते समय, बुजुर्ग ने उससे माफ़ी मांगी। 'तुमने हमें नहीं काटा, हम तुम्हें नहीं मारेंगे। एक जान को बचाने के लिए दूसरी जान को दर्द नहीं देना चाहिए।' (Saanp ko pakadte samay, buzurg ne usse maafi maangi. 'Tumne hamein nahi kaata, hum tumhein nahi maarenge. Ek jaan ko bachane ke liye doosri jaan ko dard nahi dena chahiye.')",
+      "telugu": "పామును పట్టుకునేటప్పుడు, పెద్దాయన దానిని క్షమాపణ కోరాడు. 'నువ్వు మమ్మల్ని కాటు వేయలేదు, మేము నిన్ను చంపము. ఒక ప్రాణాన్ని కాపాడటానికి ఇంకో ప్రాణానికి నొప్పి కలిగించకూడదు.' (Paamunu pattukunetappudu, peddayana daanini kshamapana koradu. 'Nuvvu mammalni kaatu veyaledu, memu ninnu champamu. Oka prananni kapadatani inko prananniki noppi kaliginchakudadu.')",
+      "context_note": "Despite their dangerous profession, Irulas deeply revere snakes. This story evokes sympathy for the misunderstood snake catchers, illustrating their profound ethical code and compassion for all living beings."
+    },
+    {
+      "id": "s020",
+      "type": "Short Story",
+      "category": "Sympathy / Self-worth / Motivation",
+      "irula": "Tēne vikkum pōdu yārum vele tarale. Ānā ava sirichā, ēn-na anda tēne edukka ava paṭṭa vali malekku dān teriyum. Namma madippe nāmbu dān unaranum.",
+      "english": "When selling honey, no one gave a fair price. But she smiled, because only the mountain knows the pain she endured to get it. We must realize our own worth.",
+      "tamil": "தேனை விற்கும் போது யாரும் விலை தரலை. ஆனா அவ சிரிச்சா, ஏன்னா அந்த தேனை எடுக்க அவ பட்ட வலி மலைக்கு தான் தெரியும். நம்ம மதிப்பை நாம் தான் உணரணும். (Thaenai virkum pothu yaarum vilai tharalai. Aanaa ava sirichaa, aennaa antha thaenai edukka ava patta vali malaikku thaan theriyum. Namma mathippai naam thaan unaranum.)",
+      "hindi": "शहद बेचते समय किसी ने सही कीमत नहीं दी। लेकिन वह मुस्कुराई, क्योंकि उस शहद को निकालने में उसने जो दर्द सहा, वह सिर्फ पहाड़ जानता है। हमें अपनी कीमत खुद पहचाननी चाहिए। (Shahad bechte samay kisi ne sahi keemat nahi di. Lekin vah muskurai, kyonki us shahad ko nikaalne mein usne jo dard saha, vah sirf pahad jaanta hai. Hamein apni keemat khud pahchanni chahiye.)",
+      "telugu": "తేనె అమ్మేటప్పుడు ఎవరూ సరైన ధర ఇవ్వలేదు. కానీ ఆమె నవ్వింది, ఎందుకంటే ఆ తేనె తీయడానికి ఆమె పడిన బాధ పర్వతానికి మాత్రమే తెలుసు. మన విలువను మనమే గుర్తించాలి. (Tene ammetappudu evaru saraina dhara ivvaledu. Kaani aame navvindi, endukante aa tene tiyadaniki aame padina badha parvatanki matrame telusu. Mana viluvanu maname gurtinchali.)",
+      "context_note": "City dwellers often bargain harshly with tribal forest gatherers, not realizing the life-threatening risks taken to collect wild honey. This story motivates the user to never let ignorant people define their value."
+    },
+    {
+      "id": "s021",
+      "type": "Short Story",
+      "category": "Sympathy / Motherhood / Education",
+      "irula": "Iruttulu padikkum pullakku, tayi minmini pūchiye pudichu velicham kāmichā. Sūriyan illādappo, oru sinna pūchi kūda namma vālkkaiye velichamākkum.",
+      "english": "To the child studying in the dark, the mother caught a firefly to give light. When there is no sun, even a small insect can light up our life.",
+      "tamil": "இருட்டில் படிக்கும் பிள்ளைக்கு, தாய் மின்மினி பூச்சியை பிடித்து வெளிச்சம் காமிச்சா. சூரியன் இல்லாதப்போ, ஒரு சின்ன பூச்சி கூட நம்ம வாழ்க்கையை வெளிச்சமாக்கும். (Iruttil padikkum pillaikku, thaai minmini poochiyai pidithu velicham kaamichaa. Sooriyan illaathappo, oru sinna poochi kooda namma vaazhkkaiyai velichamaakkum.)",
+      "hindi": "अंधेरे में पढ़ते बच्चे को, माँ ने जुगनू पकड़कर रोशनी दिखाई। जब सूरज नहीं होता, तो एक छोटा सा कीड़ा भी हमारे जीवन को रोशन कर सकता है। (Andhere mein padhte bachche ko, maa ne jugnu pakadkar roshni dikhai. Jab sooraj nahi hota, toh ek chhota sa keeda bhi hamare jeevan ko roshan kar sakta hai.)",
+      "telugu": "చీకటిలో చదువుకుంటున్న బిడ్డకు, తల్లి మిణుగురు పురుగును పట్టుకుని వెలుగు చూపించింది. సూర్యుడు లేనప్పుడు, ఒక చిన్న పురుగు కూడా మన జీవితాన్ని కాంతివంతం చేయగలదు. (Cheekatilo chaduvukuntunna biddaku, talli minuguru purugunu pattukuni velugu chupinchindi. Suryudu lenappudu, oka chinna purugu kuda mana jeevitanni kaantivantam cheyagaladu.)",
+      "context_note": "Many remote tribal hamlets still lack reliable electricity. This touching story captures a mother's desperate, beautiful love to ensure her child gets an education, showing that even the smallest glimmer of hope can lead to a bright future."
+    },
+    {
+      "id": "s022",
+      "type": "Short Story",
+      "category": "Sympathy / Hard Work / Unseen Labor",
+      "irula": "Sengal sūleyilu vēkkaiyilu manneyē pisañjān. Adu vīdu kattumbōdu yārukkum teriyādu, anda mannilu oru ēleyoda viyarveyum kanneerum kalandirukkunnu. Uleppu dān oru manisanoda unmaiyāna adeiyālam.",
+      "english": "In the heat of the brick kiln, he kneaded the earth. When it builds a house, no one will know that a poor man's sweat and tears are mixed in that clay. Hard work is a person's true identity.",
+      "tamil": "செங்கல் சூளையில் வெக்கையில் மண்ணையே பிசைந்தான். அது வீடு கட்டும்போது யாருக்கும் தெரியாது, அந்த மண்ணில் ஒரு ஏழையோட வியர்வையும் கண்ணீரும் கலந்திருக்குன்னு. உழைப்பு தான் ஒரு மனுஷனோட உண்மையான அடையாளம். (Sengal soolaiyil vekkaiyil mannaiyae pisainthaan. Athu veedu kattumbothu yaarukkum theriyaathu, antha mannil oru ezhaiyoda viyarvaiyum kanneerum kalanthirukkunnu. Uzhaippu thaan oru manushanoda unmaiyaana adaiyaalam.)",
+      "hindi": "ईंट भट्ठे की गर्मी में, उसने मिट्टी को गूंथा। जब वह घर बनाएगा, तो किसी को नहीं पता चलेगा कि उस मिट्टी में एक गरीब का पसीना और आंसू मिले हुए हैं। मेहनत ही इंसान की असली पहचान है। (Eent bhatthe ki garmi mein, usne mitti ko goontha. Jab vah ghar banayega, toh kisi ko nahi pata chalega ki us mitti mein ek gareeb ka paseena aur aansu mile hue hain. Mehnat hi insaan ki asli pehchaan hai.)",
+      "telugu": "ఇటుక బట్టీ వేడిలో, అతను మట్టిని పిసికాడు. అది ఇల్లు కట్టేటప్పుడు ఎవరికీ తెలియదు, ఆ మట్టిలో ఒక పేదవాడి చెమట, కన్నీళ్లు కలిసి ఉన్నాయని. శ్రమే ఒక మనిషి నిజమైన గుర్తింపు. (Ituka battee vedilo, atanu mattini pisikadu. Adi illu kattetappudu evariki teliyadu, aa mattilo oka pedavadi chemata, kanneellu kalisi unnayani. Shrame oka manishi nijamaina gurtimpu.)",
+      "context_note": "Generations of displaced tribal people work as laborers in brick kilns. This story brings visibility and deep sympathy to their unseen struggles, honoring the literal sweat and tears they pour into building modern society."
+    },
+    {
+      "id": "s023",
+      "type": "Short Story",
+      "category": "Sympathy / Environment / Selflessness",
+      "irula": "Palam tarāda maratte vettakūdadunnu tayi sonnā. 'Nammukku palam ille, ānā āyiram kuruvikku adu dān vīdu.' Namma kidaikkāda onnu mattavangulukku vālve taranum.",
+      "english": "The mother said not to cut the tree that gives no fruit. 'We have no fruit, but it is home to a thousand birds.' What we do not get, should give life to others.",
+      "tamil": "பழம் தராத மரத்தை வெட்டக்கூடாதுன்னு தாய் சொன்னா. 'நமக்கு பழம் இல்லை, ஆனா ஆயிரம் குருவிக்கு அது தான் வீடு.' நமக்கு கிடைக்காத ஒன்னு மத்தவங்களுக்கு வாழ்வை தரணும். (Pazham tharaatha marathai vettakkoodaathunnu thaai sonnaa. 'Namakku pazham illai, aanaa aayiram kuruvikku athu thaan veedu.' Namakku kidaikkaatha onnu mathavangalukku vaazhvai tharanum.)",
+      "hindi": "माँ ने कहा कि फल न देने वाले पेड़ को नहीं काटना चाहिए। 'हमें फल नहीं मिलेगा, लेकिन वह हज़ार पक्षियों का घर है।' जो हमें न मिले, वह दूसरों को जीवन दे। (Maa ne kaha ki phal na dene wale ped ko nahi kaatna chahiye. 'Hamein phal nahi milega, lekin vah hazar pakshiyon ka ghar hai.' Jo hamein na mile, vah dusron ko jeevan de.)",
+      "telugu": "పండు ఇవ్వని చెట్టును నరకకూడదని తల్లి చెప్పింది. 'మనకు పండు లేదు, కానీ వెయ్యి పక్షులకు అదే ఇల్లు.' మనకు దొరకనిది ఇతరులకు జీవితాన్ని ఇవ్వాలి. (Pandu ivvani chettunu narakakudadani talli cheppindi. 'Manaku pandu ledu, kaani veyyi pakshulaku ade illu.' Manaku dorakanidi itarulaku jeevitanni ivvali.)",
+      "context_note": "A testament to the Irula tribe's deep ecological consciousness. Even when struggling for resources, they prioritize the survival of the forest ecosystem and its voiceless creatures over their own immediate needs."
+    },
+    {
+      "id": "s024",
+      "type": "Short Story",
+      "category": "Sympathy / Resilience / Culture",
+      "irula": "Ūrukkē sōru pōtta vākkattu, innekku verumkāyā irukku. Tāttā tanni illāda nilattilu kokkarai vāsichār. 'Male varalēnnālum, namma pāttu nikkakūdādu.' Nambikke dān namma kadeisi mūchu.",
+      "english": "The field that fed the whole village is empty today. The grandfather played the Kokkarai on the dry land. 'Even if the rain doesn't come, our song should not stop.' Hope is our last breath.",
+      "tamil": "ஊருக்கே சோறு போட்ட வயக்காடு, இன்னைக்கு வெறுங்காயா இருக்கு. தாத்தா தண்ணி இல்லாத நிலத்தில் கொக்கரை வாசித்தார். 'மழை வரலேன்னாலும், நம்ம பாட்டு நிக்கக்கூடாது.' நம்பிக்கை தான் நம்ம கடைசி மூச்சு. (Oorukke soru potta vayakkaadu, innaikku verungaayaa irukku. Thaathaa thanni illaatha nilathil kokkarai vaasithaar. 'Mazhai varalennalum, namma paattu nikkakkoodaathu.' Nambikkai thaan namma kadaisi moochu.)",
+      "hindi": "जिस खेत ने पूरे गाँव को खाना खिलाया, वह आज खाली है। दादाजी ने सूखी ज़मीन पर कोक्कराई (वाद्ययंत्र) बजाया। 'भले ही बारिश न आए, हमारा गीत नहीं रुकना चाहिए।' उम्मीद ही हमारी आखिरी साँस है। (Jis khet ne poore gaon ko khana khilaya, vah aaj khaali hai. Dadaji ne sookhi zameen par Kokkarai bajaya. 'Bhale hi baarish na aaye, hamara geet nahi rukna chahiye.' Ummeed hi hamari aakhiri saans hai.)",
+      "telugu": "ఊరంతటికీ అన్నం పెట్టిన పొలం, ఈరోజు ఖాళీగా ఉంది. తాతయ్య ఎండిన నేలపై కొక్కరై (వాయిద్యం) వాయించాడు. 'వర్షం రాకపోయినా, మన పాట ఆగకూడదు.' ఆశే మన చివరి శ్వాస. (Oorantatiki annam pettina polam, iroju khaliga undi. Tatayya endina nelapai Kokkarai vayinchadu. 'Varsham rakapoyina, mana paata aagakudadu.' Aashe mana chivari swasa.)",
+      "context_note": "The 'Kokkarai' is a traditional Irula musical instrument. This story evokes sympathy for how climate change and droughts impact their ancestral lands, while showing their incredible resilience through art."
+    },
+    {
+      "id": "s025",
+      "type": "Short Story",
+      "category": "Sympathy / Roots / Language Preservation",
+      "irula": "Pulla paṭinattukku pōgum pōdu, tayi oru kāttu vārttaiye sollittā. 'Kaṭṭadattulu vālnālum, nī yār-nnu inda mannu unakku ñābagam paduttum.' Namma bāse dān namma unmaiyāna vīdu.",
+      "english": "As the child went to the city, the mother taught one forest word. 'Even if you live in buildings, this earth will remind you of who you are.' Our language is our true home.",
+      "tamil": "பிள்ளை பட்டணத்துக்கு போகும் போது, தாய் ஒரு காட்டு வார்த்தையை சொல்லித்தந்தாள். 'கட்டடத்தில் வாழ்ந்தாலும், நீ யார்னு இந்த மண் உனக்கு ஞாபகப்படுத்தும்.' நம்ம மொழி தான் நம்ம உண்மையான வீடு. (Pillai pattanathukku pogum pothu, thaai oru kaattu vaarthaiyai sollithanthaal. 'Kattadathil vaazhnthaalum, nee yaarnu intha man unakku gnaabagam paduthum.' Namma mozhi thaan namma unmaiyaana veedu.)",
+      "hindi": "जब बच्चा शहर जा रहा था, तो माँ ने उसे जंगल का एक शब्द सिखाया। 'भले ही तुम इमारतों में रहो, लेकिन यह मिट्टी तुम्हें याद दिलाएगी कि तुम कौन हो।' हमारी भाषा ही हमारा असली घर है। (Jab bachcha shahar ja raha tha, toh maa ne use jangal ka ek shabd sikhaya. 'Bhale hi tum imaraton mein raho, lekin yah mitti tumhein yaad dilayegi ki tum kaun ho.' Hamari bhasha hi hamara asli ghar hai.)",
+      "telugu": "బిడ్డ పట్టణానికి వెళుతున్నప్పుడు, తల్లి ఒక అడవి పదాన్ని నేర్పింది. 'నువ్వు భవనాల్లో జీవించినా, నువ్వు ఎవరివో ఈ మట్టి నీకు గుర్తు చేస్తుంది.' మన భాషే మన నిజమైన ఇల్లు. (Bidda pattananniki velutunnappudu, talli oka adavi padanni nerpindi. 'Nuvvu bhavanallo jeevinchina, nuvvu evarivo ee matti neeku gurtu chestundi.' Mana bhashe mana nijamaina illu.)",
+      "context_note": "A deeply fitting final story reflecting the modern Irula experience. As younger generations move away for work and education, preserving their mother tongue becomes the ultimate way to keep their cultural roots and identity alive."
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q001",
+      "category": "Vocabulary Match",
+      "question": "What is the Irula word for 'Water'?",
+      "options": {
+        "A": "sōru",
+        "B": "tanni",
+        "C": "neruppu",
+        "D": "pālu"
+      },
+      "correct_answer": "B",
+      "explanation": "In Irula, 'tanni' means water. 'sōru' is food/rice, 'neruppu' is fire, and 'pālu' is milk."
+    },
+    {
+      "id": "q002",
+      "category": "Phrase Translation",
+      "question": "If someone asks you 'Nī epdi irukkiri?', what are they asking?",
+      "options": {
+        "A": "Where are you going?",
+        "B": "What are you doing?",
+        "C": "How are you?",
+        "D": "Who are you?"
+      },
+      "correct_answer": "C",
+      "explanation": "'Nī epdi irukkiri?' translates directly to 'How are you?'."
+    },
+    {
+      "id": "q003",
+      "category": "Family Terms",
+      "question": "Which of the following means 'Mother' in Irula?",
+      "options": {
+        "A": "appa",
+        "B": "tāttā",
+        "C": "pātti",
+        "D": "tayi"
+      },
+      "correct_answer": "D",
+      "explanation": "'tayi' means mother. 'appa' is father, 'tāttā' is grandfather, and 'pātti' is grandmother."
+    },
+    {
+      "id": "q004",
+      "category": "Action Verbs",
+      "question": "What does the command 'Ikke vā' mean?",
+      "options": {
+        "A": "Go there",
+        "B": "Sit down",
+        "C": "Come here",
+        "D": "Eat food"
+      },
+      "correct_answer": "C",
+      "explanation": "'Ikke' means here, and 'vā' is the verb for come. 'Go there' would be 'Akke pō'."
+    },
+    {
+      "id": "q005",
+      "category": "Colors",
+      "question": "What color is 'karuppu'?",
+      "options": {
+        "A": "White",
+        "B": "Red",
+        "C": "Black",
+        "D": "Green"
+      },
+      "correct_answer": "C",
+      "explanation": "'karuppu' is black. White is 'velle', red is 'seveppu', and green is 'pacha'."
+    },
+    {
+      "id": "q006",
+      "category": "Nature Words",
+      "question": "Which of these words means 'Tree'?",
+      "options": {
+        "A": "maram",
+        "B": "kādu",
+        "C": "male",
+        "D": "mannu"
+      },
+      "correct_answer": "A",
+      "explanation": "'maram' means tree. 'kādu' is forest, 'male' is mountain, and 'mannu' is soil."
+    },
+    {
+      "id": "q007",
+      "category": "Daily Needs",
+      "question": "How do you say 'I am hungry' in Irula?",
+      "options": {
+        "A": "Emukku vāyaru valikkudu.",
+        "B": "Emukku tanni vēnum.",
+        "C": "Emukku pasi edukkudu.",
+        "D": "Emukku tūkkam varudu."
+      },
+      "correct_answer": "C",
+      "explanation": "'pasi' means hunger. 'vāyaru valikkudu' means stomach pain, and 'tūkkam varudu' means feeling sleepy."
+    },
+    {
+      "id": "q008",
+      "category": "Numbers",
+      "question": "Which of the following is a number in Irula?",
+      "options": {
+        "A": "vīdu",
+        "B": "onnu",
+        "C": "mēle",
+        "D": "rāttiri"
+      },
+      "correct_answer": "B",
+      "explanation": "'onnu' is the number one. 'vīdu' is house, 'mēle' is up, and 'rāttiri' is night."
+    },
+    {
+      "id": "q009",
+      "category": "Animals",
+      "question": "Identify the animal: 'pāmbu'.",
+      "options": {
+        "A": "Dog",
+        "B": "Elephant",
+        "C": "Bird",
+        "D": "Snake"
+      },
+      "correct_answer": "D",
+      "explanation": "'pāmbu' means snake. Dog is 'nāy', elephant is 'yāne', and bird is 'kuruvi'."
+    },
+    {
+      "id": "q010",
+      "category": "Pronouns",
+      "question": "Which pronoun means 'We'?",
+      "options": {
+        "A": "nānu",
+        "B": "nī",
+        "C": "nāmbu",
+        "D": "avanga"
+      },
+      "correct_answer": "C",
+      "explanation": "'nāmbu' means we. 'nānu' is I, 'nī' is you, and 'avanga' is they."
+    },
+    {
+      "id": "q011",
+      "category": "Body Parts",
+      "question": "What is the Irula word for 'Head'?",
+      "options": {
+        "A": "kannu",
+        "B": "tale",
+        "C": "kālu",
+        "D": "vāy"
+      },
+      "correct_answer": "B",
+      "explanation": "'tale' means head. 'kannu' is eye, 'kālu' is leg, and 'vāy' is mouth."
+    },
+    {
+      "id": "q012",
+      "category": "Daily Objects",
+      "question": "Which of these words means 'House' or 'Home'?",
+      "options": {
+        "A": "kadavu",
+        "B": "pūṭṭu",
+        "C": "kattil",
+        "D": "vīdu"
+      },
+      "correct_answer": "D",
+      "explanation": "'vīdu' means house. 'kadavu' is door, 'pūṭṭu' is lock, and 'kattil' is cot/bed."
+    },
+    {
+      "id": "q013",
+      "category": "Feelings",
+      "question": "If an Irula speaker says they are feeling 'santhōsam', how do they feel?",
+      "options": {
+        "A": "Happy",
+        "B": "Sad",
+        "C": "Angry",
+        "D": "Scared"
+      },
+      "correct_answer": "A",
+      "explanation": "'santhōsam' means happy/happiness. Sad is 'kavale', angry is 'kōvam', and scared is 'bhayam'."
+    },
+    {
+      "id": "q014",
+      "category": "Body Parts",
+      "question": "If someone points to their 'kayi', what are they pointing at?",
+      "options": {
+        "A": "Stomach",
+        "B": "Hand",
+        "C": "Tooth",
+        "D": "Hair"
+      },
+      "correct_answer": "B",
+      "explanation": "'kayi' is the hand. Stomach is 'vāyaru', tooth is 'pallu', and hair is 'mudi'."
+    },
+    {
+      "id": "q015",
+      "category": "Tools & Objects",
+      "question": "What is the Irula word for 'Knife'?",
+      "options": {
+        "A": "kōdāri",
+        "B": "arivālu",
+        "C": "katti",
+        "D": "veragu"
+      },
+      "correct_answer": "C",
+      "explanation": "'katti' is a knife. 'kōdāri' is an axe, 'arivālu' is a sickle, and 'veragu' is firewood."
+    },
+    {
+      "id": "q016",
+      "category": "Feelings",
+      "question": "How do you say 'Pain' in Irula?",
+      "options": {
+        "A": "vali",
+        "B": "pasi",
+        "C": "dāgam",
+        "D": "asadi"
+      },
+      "correct_answer": "A",
+      "explanation": "'vali' means pain. 'pasi' is hunger, 'dāgam' is thirst, and 'asadi' is tiredness."
+    },
+    {
+      "id": "q017",
+      "category": "Daily Objects",
+      "question": "Which object would you use to sweep the floor?",
+      "options": {
+        "A": "pāne",
+        "B": "todappam",
+        "C": "velakku",
+        "D": "sāvi"
+      },
+      "correct_answer": "B",
+      "explanation": "'todappam' is a broom. 'pāne' is a pot, 'velakku' is a lamp, and 'sāvi' is a key."
+    },
+    {
+      "id": "q018",
+      "category": "Feelings",
+      "question": "What emotion does the word 'kōvam' represent?",
+      "options": {
+        "A": "Love",
+        "B": "Fear",
+        "C": "Anger",
+        "D": "Sleepiness"
+      },
+      "correct_answer": "C",
+      "explanation": "'kōvam' means anger. Love is 'pāsam', fear is 'bhayam', and sleepiness is 'tūkkam'."
+    },
+    {
+      "id": "q019",
+      "category": "Body Parts",
+      "question": "What does 'kādu' mean when talking about body parts?",
+      "options": {
+        "A": "Nose",
+        "B": "Eye",
+        "C": "Ear",
+        "D": "Head"
+      },
+      "correct_answer": "C",
+      "explanation": "'kādu' means ear. (Note: 'kādu' also means forest depending on context, but as a body part, it is the ear). Nose is 'mūkku', eye is 'kannu'."
+    },
+    {
+      "id": "q020",
+      "category": "Daily Objects",
+      "question": "If you are going to the market, which of these refers to 'Money'?",
+      "options": {
+        "A": "kāsu",
+        "B": "payi",
+        "C": "peṭṭi",
+        "D": "tuṇi"
+      },
+      "correct_answer": "A",
+      "explanation": "'kāsu' means money. 'payi' is bag, 'peṭṭi' is box, and 'tuṇi' is cloth."
+    },
+    {
+      "id": "q021",
+      "category": "Food",
+      "question": "What is the Irula word for 'Milk'?",
+      "options": {
+        "A": "sōru",
+        "B": "kari",
+        "C": "pālu",
+        "D": "mīnu"
+      },
+      "correct_answer": "C",
+      "explanation": "'pālu' means milk. 'sōru' is cooked rice/food, 'kari' is meat, and 'mīnu' is fish."
+    },
+    {
+      "id": "q022",
+      "category": "Action Verbs",
+      "question": "What does the verb 'tūngu' mean?",
+      "options": {
+        "A": "Eat",
+        "B": "Sleep",
+        "C": "Drink",
+        "D": "Walk"
+      },
+      "correct_answer": "B",
+      "explanation": "'tūngu' means sleep. Eat is 'tinnu', drink is 'kudi', and walk is 'nada'."
+    },
+    {
+      "id": "q023",
+      "category": "Directions",
+      "question": "If a bird is flying 'mēle', where is it?",
+      "options": {
+        "A": "Down / Below",
+        "B": "Front",
+        "C": "Up / Above",
+        "D": "Back"
+      },
+      "correct_answer": "C",
+      "explanation": "'mēle' means up or above. Down is 'kīle', front is 'munnādi', and back is 'pinnādi'."
+    },
+    {
+      "id": "q024",
+      "category": "Time Words",
+      "question": "How do you say 'Tomorrow' in Irula?",
+      "options": {
+        "A": "innekki",
+        "B": "nālekki",
+        "C": "nēttu",
+        "D": "ippo"
+      },
+      "correct_answer": "B",
+      "explanation": "'nālekki' means tomorrow. 'innekki' is today, 'nēttu' is yesterday, and 'ippo' is now."
+    },
+    {
+      "id": "q025",
+      "category": "Question Words",
+      "question": "What does the question word 'yāru' mean?",
+      "options": {
+        "A": "What",
+        "B": "Where",
+        "C": "When",
+        "D": "Who"
+      },
+      "correct_answer": "D",
+      "explanation": "'yāru' means who. What is 'enna', where is 'ekke', and when is 'eppo'."
+    },
+    {
+      "id": "q026",
+      "category": "Food",
+      "question": "Which of these words means 'Egg'?",
+      "options": {
+        "A": "uppu",
+        "B": "inippu",
+        "C": "mutte",
+        "D": "tēnu"
+      },
+      "correct_answer": "C",
+      "explanation": "'mutte' is an egg. 'uppu' is salt, 'inippu' is sweet, and 'tēnu' is honey."
+    },
+    {
+      "id": "q027",
+      "category": "Action Verbs",
+      "question": "If someone tells you to 'pāru', what are they telling you to do?",
+      "options": {
+        "A": "Speak",
+        "B": "See / Look",
+        "C": "Listen",
+        "D": "Sit"
+      },
+      "correct_answer": "B",
+      "explanation": "'pāru' means to see or look. Speak is 'pēsu', listen is 'kēlu', and sit is 'ukkāru'."
+    },
+    {
+      "id": "q028",
+      "category": "Directions",
+      "question": "How do you tell someone to go 'Straight' in Irula?",
+      "options": {
+        "A": "nēra",
+        "B": "valadu",
+        "C": "edadu",
+        "D": "naduvu"
+      },
+      "correct_answer": "A",
+      "explanation": "'nēra' means straight. 'valadu' is right, 'edadu' is left, and 'naduvu' is the middle."
+    },
+    {
+      "id": "q029",
+      "category": "Question Words",
+      "question": "Which word would you use to ask 'How much?' at a market?",
+      "options": {
+        "A": "ēn",
+        "B": "epdi",
+        "C": "etene",
+        "D": "evvalavu"
+      },
+      "correct_answer": "D",
+      "explanation": "'evvalavu' means how much. 'etene' means how many, 'ēn' is why, and 'epdi' is how."
+    },
+    {
+      "id": "q030",
+      "category": "Time Words",
+      "question": "What part of the day is 'kāle'?",
+      "options": {
+        "A": "Morning",
+        "B": "Afternoon / Day",
+        "C": "Evening",
+        "D": "Night"
+      },
+      "correct_answer": "A",
+      "explanation": "'kāle' means morning. Day is 'pagal', evening is 'sāyandaram', and night is 'rāttiri'."
+    },
+    {
+      "id": "q031",
+      "category": "Adjectives",
+      "question": "What is the Irula word for 'Big'?",
+      "options": {
+        "A": "sinnasu",
+        "B": "perusu",
+        "C": "pudusu",
+        "D": "palasu"
+      },
+      "correct_answer": "B",
+      "explanation": "'perusu' means big. 'sinnasu' is small, 'pudusu' is new, and 'palasu' is old."
+    },
+    {
+      "id": "q032",
+      "category": "Weather",
+      "question": "Which of these words means 'Rain'?",
+      "options": {
+        "A": "veyyil",
+        "B": "kāttu",
+        "C": "male",
+        "D": "mēgam"
+      },
+      "correct_answer": "C",
+      "explanation": "'male' means rain. 'veyyil' is sunlight, 'kāttu' is wind, and 'mēgam' is cloud."
+    },
+    {
+      "id": "q033",
+      "category": "Animals",
+      "question": "Identify the animal: 'puli'.",
+      "options": {
+        "A": "Dog",
+        "B": "Monkey",
+        "C": "Elephant",
+        "D": "Tiger"
+      },
+      "correct_answer": "D",
+      "explanation": "'puli' means tiger. Dog is 'nāy', monkey is 'korangu', and elephant is 'yāne'."
+    },
+    {
+      "id": "q034",
+      "category": "Market Phrases",
+      "question": "If you ask a shopkeeper 'Idu evvalavu?', what are you asking?",
+      "options": {
+        "A": "How much is this?",
+        "B": "Give me a little.",
+        "C": "I don't have money.",
+        "D": "Do you have change?"
+      },
+      "correct_answer": "A",
+      "explanation": "'Idu evvalavu?' means 'How much is this?'. 'evvalavu' is the question word for 'how much'."
+    },
+    {
+      "id": "q035",
+      "category": "Household Items",
+      "question": "What is a 'velakku'?",
+      "options": {
+        "A": "Box",
+        "B": "Broom",
+        "C": "Lamp / Light",
+        "D": "Mat"
+      },
+      "correct_answer": "C",
+      "explanation": "'velakku' is a lamp or light. Box is 'peṭṭi', broom is 'todappam', and mat is 'pāy'."
+    },
+    {
+      "id": "q036",
+      "category": "Adjectives",
+      "question": "How do you say 'Good' in Irula?",
+      "options": {
+        "A": "keṭṭadu",
+        "B": "nalladu",
+        "C": "sūdu",
+        "D": "kuliru"
+      },
+      "correct_answer": "B",
+      "explanation": "'nalladu' means good. 'keṭṭadu' means bad, 'sūdu' is hot, and 'kuliru' is cold."
+    },
+    {
+      "id": "q037",
+      "category": "Concepts",
+      "question": "What does the word 'vēle' mean?",
+      "options": {
+        "A": "Story",
+        "B": "Dream",
+        "C": "Life",
+        "D": "Work / Job"
+      },
+      "correct_answer": "D",
+      "explanation": "'vēle' means work or job. Story is 'kade', dream is 'kanavu', and life is 'vālkkai'."
+    },
+    {
+      "id": "q038",
+      "category": "Connecting Words",
+      "question": "Which word is used to say 'Always'?",
+      "options": {
+        "A": "kandippā",
+        "B": "oruvēle",
+        "C": "eppavum",
+        "D": "mattum"
+      },
+      "correct_answer": "C",
+      "explanation": "'eppavum' means always. 'kandippā' is definitely, 'oruvēle' is maybe, and 'mattum' is only."
+    },
+    {
+      "id": "q039",
+      "category": "Nature & Weather",
+      "question": "What is the Irula word for 'Wind' or 'Air'?",
+      "options": {
+        "A": "poge",
+        "B": "velicham",
+        "C": "kāttu",
+        "D": "neruppu"
+      },
+      "correct_answer": "C",
+      "explanation": "'kāttu' means wind or air. 'poge' is smoke, 'velicham' is light, and 'neruppu' is fire."
+    },
+    {
+      "id": "q040",
+      "category": "People",
+      "question": "If someone calls you their 'tolan', who are you to them?",
+      "options": {
+        "A": "Enemy",
+        "B": "Teacher",
+        "C": "Farmer",
+        "D": "Friend"
+      },
+      "correct_answer": "D",
+      "explanation": "'tolan' means friend. Enemy is 'ediri', teacher is 'vāttiyār', and farmer is 'vivasāyi'."
+    },
+    {
+      "id": "q041",
+      "category": "Connecting Words",
+      "question": "Which of these words means 'Because' in Irula?",
+      "options": {
+        "A": "ānā",
+        "B": "ēn-nā",
+        "C": "kūda",
+        "D": "appuram"
+      },
+      "correct_answer": "B",
+      "explanation": "'ēn-nā' means because. 'ānā' is but, 'kūda' is with, and 'appuram' is then/after."
+    },
+    {
+      "id": "q042",
+      "category": "Concepts",
+      "question": "What is the Irula word for 'Truth'?",
+      "options": {
+        "A": "unme",
+        "B": "poy",
+        "C": "ragasiyam",
+        "D": "kanavu"
+      },
+      "correct_answer": "A",
+      "explanation": "'unme' means truth. 'poy' is lie, 'ragasiyam' is secret, and 'kanavu' is dream."
+    },
+    {
+      "id": "q043",
+      "category": "Emergency Phrases",
+      "question": "How would you ask someone to 'Help me'?",
+      "options": {
+        "A": "Vēgamā ōdu.",
+        "B": "Onnum āgale.",
+        "C": "Enna āchu?",
+        "D": "Emukku udavi panni."
+      },
+      "correct_answer": "D",
+      "explanation": "'Emukku udavi panni.' means 'Help me'. 'Vēgamā ōdu' is run fast, 'Onnum āgale' is nothing happened, and 'Enna āchu?' is what happened."
+    },
+    {
+      "id": "q044",
+      "category": "General Words",
+      "question": "If something is 'romba' hot, what does 'romba' mean?",
+      "options": {
+        "A": "A little",
+        "B": "Very / Much",
+        "C": "Slowly",
+        "D": "Nothing"
+      },
+      "correct_answer": "B",
+      "explanation": "'romba' means very or much. A little is 'konjam', slowly is 'mella', and nothing is 'onnumille'."
+    },
+    {
+      "id": "q045",
+      "category": "Senses",
+      "question": "What does the word 'vāsane' refer to?",
+      "options": {
+        "A": "Sound",
+        "B": "Taste",
+        "C": "Smell / Fragrance",
+        "D": "Light"
+      },
+      "correct_answer": "C",
+      "explanation": "'vāsane' is smell or fragrance. Sound is 'sattam', taste is 'rusi', and light is 'velicham'."
+    },
+    {
+      "id": "q046",
+      "category": "Polite Phrases",
+      "question": "What are you asking someone to do if you say 'Konjam iru'?",
+      "options": {
+        "A": "Come now",
+        "B": "Wait a little",
+        "C": "Speak slowly",
+        "D": "Forgive me"
+      },
+      "correct_answer": "B",
+      "explanation": "'Konjam iru' means wait a little. Come now is 'Ippo vā', speak slowly is 'Mella pēsu', and forgive me is 'Emme mannichidu'."
+    },
+    {
+      "id": "q047",
+      "category": "Action Verbs",
+      "question": "Which verb means to 'Read' or 'Study'?",
+      "options": {
+        "A": "padi",
+        "B": "pāru",
+        "C": "sollu",
+        "D": "kadi"
+      },
+      "correct_answer": "A",
+      "explanation": "'padi' means to read or study. 'pāru' is to see, 'sollu' is to tell, and 'kadi' is to bite."
+    },
+    {
+      "id": "q048",
+      "category": "People",
+      "question": "What is the Irula word for a 'Child'?",
+      "options": {
+        "A": "payan",
+        "B": "ponnu",
+        "C": "ālu",
+        "D": "pulla"
+      },
+      "correct_answer": "D",
+      "explanation": "'pulla' means child. 'payan' is boy, 'ponnu' is girl, and 'ālu' is person."
+    },
+    {
+      "id": "q049",
+      "category": "Time Markers",
+      "question": "How do you say 'Week' in Irula?",
+      "options": {
+        "A": "nālu",
+        "B": "māsam",
+        "C": "vāram",
+        "D": "varusam"
+      },
+      "correct_answer": "C",
+      "explanation": "'vāram' means week. 'nālu' is day, 'māsam' is month, and 'varusam' is year."
+    },
+    {
+      "id": "q050",
+      "category": "Concepts",
+      "question": "Translate the concept 'olagam':",
+      "options": {
+        "A": "Life",
+        "B": "World",
+        "C": "God",
+        "D": "Help"
+      },
+      "correct_answer": "B",
+      "explanation": "'olagam' means world. Life is 'vālkkai', God is 'sāmi', and help is 'udavi'."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d001",
+      "scenario": "Meeting a Friend (Greetings)",
+      "lines": [
+        {
+          "speaker": "Person A",
+          "irula": "Nī epdi irukkiri?",
+          "english": "How are you?",
+          "tamil": "நீ எப்படி இருக்கிறாய்? (Nee eppadi irukkiraai?)",
+          "hindi": "तुम कैसे हो? (Tum kaise ho?)",
+          "telugu": "నువ్వు ఎలా ఉన్నావు? (Nuvvu ela unnavu?)"
+        },
+        {
+          "speaker": "Person B",
+          "irula": "Nānu nallā irukkēnu. Nī?",
+          "english": "I am fine. You?",
+          "tamil": "நான் நல்லா இருக்கேன். நீ? (Naan nallaa irukken. Nee?)",
+          "hindi": "मैं ठीक हूँ। तुम? (Main theek hoon. Tum?)",
+          "telugu": "నేను బాగున్నాను. నువ్వు? (Nenu baagunnaanu. Nuvvu?)"
+        },
+        {
+          "speaker": "Person A",
+          "irula": "Nānum nallā irukkēnu. Nī ekke pōgiri?",
+          "english": "I am also fine. Where are you going?",
+          "tamil": "நானும் நல்லா இருக்கேன். நீ எங்கே போகிறாய்? (Naanum nallaa irukken. Nee enge pogiraai?)",
+          "hindi": "मैं भी ठीक हूँ। तुम कहाँ जा रहे हो? (Main bhi theek hoon. Tum kahan ja rahe ho?)",
+          "telugu": "నేను కూడా బాగున్నాను. నువ్వు ఎక్కడికి వెళ్తున్నావు? (Nenu kuda baagunnaanu. Nuvvu ekkadiki veltunnavu?)"
+        },
+        {
+          "speaker": "Person B",
+          "irula": "Nānu vīṭṭukku pōgēnu.",
+          "english": "I am going to the house.",
+          "tamil": "நான் வீட்டுக்கு போறேன். (Naan veettukku poren.)",
+          "hindi": "मैं घर जा रहा हूँ। (Main ghar ja raha hoon.)",
+          "telugu": "నేను ఇంటికి వెళ్తున్నాను. (Nenu intiki veltunnaanu.)"
+        },
+        {
+          "speaker": "Person A",
+          "irula": "Seri, nālekki pāppōmu.",
+          "english": "Okay, see you tomorrow.",
+          "tamil": "சரி, நாளைக்கு பார்ப்போம். (Seri, naalaikku paarppom.)",
+          "hindi": "ठीक है, कल मिलते हैं। (Theek hai, kal milte hain.)",
+          "telugu": "సరే, రేపు కలుద్దాం. (Sare, repu kaluddam.)"
+        }
+      ]
+    },
+    {
+      "id": "d002",
+      "scenario": "At the Market (Shopping & Bargaining)",
+      "lines": [
+        {
+          "speaker": "Customer",
+          "irula": "Idu evvalavu?",
+          "english": "How much is this?",
+          "tamil": "இது எவ்வளவு? (Ithu evvalavu?)",
+          "hindi": "यह कितने का है? (Yah kitne ka hai?)",
+          "telugu": "ఇది ఎంత? (Idi enta?)"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "irula": "Idu pattu rūvā.",
+          "english": "This is ten rupees.",
+          "tamil": "இது பத்து ரூவா. (Ithu pathu roova.)",
+          "hindi": "यह दस रुपये का है। (Yah das rupaye ka hai.)",
+          "telugu": "ఇది పది రూపాయలు. (Idi padi roopayalu.)"
+        },
+        {
+          "speaker": "Customer",
+          "irula": "Idu romba jāsti. Konjam kammi panni.",
+          "english": "This is too much. Reduce it a little.",
+          "tamil": "இது ரொம்ப ஜாஸ்தி. கொஞ்சம் கம்மி பண்ணு. (Ithu romba jaasthi. Konjam kammi pannu.)",
+          "hindi": "यह बहुत ज़्यादा है। थोड़ा कम करो। (Yah bahut zyada hai. Thoda kam karo.)",
+          "telugu": "ఇది చాలా ఎక్కువ. కొంచెం తగ్గించు. (Idi chaala ekkuva. Konchem tagginchu.)"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "irula": "Seri, ide edu.",
+          "english": "Okay, take this.",
+          "tamil": "சரி, இதை எடு. (Seri, ithai edu.)",
+          "hindi": "ठीक है, इसे लो। (Theek hai, ise lo.)",
+          "telugu": "సరే, ఇది తీసుకో. (Sare, idi teesuko.)"
+        },
+        {
+          "speaker": "Customer",
+          "irula": "Unkitte sillarai irukkā?",
+          "english": "Do you have change?",
+          "tamil": "உன்கிட்ட சில்லறை இருக்கா? (Unkitta sillarai irukkaa?)",
+          "hindi": "क्या तुम्हारे पास छुट्टे हैं? (Kya tumhare paas chhutte hain?)",
+          "telugu": "నీ దగ్గర చిల్లర ఉందా? (Nee daggara chillara unda?)"
+        },
+        {
+          "speaker": "Shopkeeper",
+          "irula": "Āmā, enkitte irukku.",
+          "english": "Yes, I have.",
+          "tamil": "ஆமா, என்கிட்ட இருக்கு. (Aama, enkitta irukku.)",
+          "hindi": "हाँ, मेरे पास हैं। (Haan, mere paas hain.)",
+          "telugu": "అవును, నా దగ్గర ఉంది. (Avunu, naa daggara undi.)"
+        }
+      ]
+    },
+    {
+      "id": "d003",
+      "scenario": "Asking for Directions",
+      "lines": [
+        {
+          "speaker": "Traveler",
+          "irula": "Kādu ekke irukku?",
+          "english": "Where is the forest?",
+          "tamil": "காடு எங்கே இருக்கு? (Kaadu enge irukku?)",
+          "hindi": "जंगल कहाँ है? (Jangal kahan hai?)",
+          "telugu": "అడవి ఎక్కడ ఉంది? (Adavi ekkada undi?)"
+        },
+        {
+          "speaker": "Local",
+          "irula": "Nēra pō.",
+          "english": "Go straight.",
+          "tamil": "நேரா போ. (Neraa poo.)",
+          "hindi": "सीधे जाओ। (Seedhe jao.)",
+          "telugu": "తిన్నగా వెళ్ళు. (Tinnaga vellu.)"
+        },
+        {
+          "speaker": "Traveler",
+          "irula": "Adu dūramā irukkā?",
+          "english": "Is it far?",
+          "tamil": "அது தூரமா இருக்கா? (Athu thooramaa irukkaa?)",
+          "hindi": "क्या यह दूर है? (Kya yah door hai?)",
+          "telugu": "అది దూరంగా ఉందా? (Adi dooranga unda?)"
+        },
+        {
+          "speaker": "Local",
+          "irula": "Ille, adu kitte irukku.",
+          "english": "No, it is near.",
+          "tamil": "இல்ல, அது கிட்டே இருக்கு. (Illa, athu kittae irukku.)",
+          "hindi": "नहीं, यह पास है। (Nahi, yah paas hai.)",
+          "telugu": "లేదు, అది దగ్గరగా ఉంది. (Ledu, adi daggaraga undi.)"
+        },
+        {
+          "speaker": "Traveler",
+          "irula": "Romba santhōsam.",
+          "english": "Thank you (Very happy).",
+          "tamil": "ரொம்ப சந்தோஷம். (Romba santhosham.)",
+          "hindi": "बहुत खुशी हुई / धन्यवाद। (Bahut khushi hui / Dhanyawad.)",
+          "telugu": "చాలా సంతోషం. (Chaala santhosham.)"
+        }
+      ]
+    },
+    {
+      "id": "d004",
+      "scenario": "Hospitality (Offering Food to a Guest)",
+      "lines": [
+        {
+          "speaker": "Host",
+          "irula": "Ullukka vā, ukkāru.",
+          "english": "Come inside, sit.",
+          "tamil": "உள்ளே வா, உட்காரு. (Ullae vaa, utkaaru.)",
+          "hindi": "अंदर आओ, बैठो। (Andar aao, baitho.)",
+          "telugu": "లోపలికి రా, కూర్చో. (Lopaliki raa, kurcho.)"
+        },
+        {
+          "speaker": "Guest",
+          "irula": "Emukku asadiyā irukku.",
+          "english": "I am tired.",
+          "tamil": "எனக்கு அசதியா இருக்கு. (Enakku asathiyaa irukku.)",
+          "hindi": "मुझे थकान हो रही है। (Mujhe thakan ho rahi hai.)",
+          "telugu": "నాకు అలసటగా ఉంది. (Naaku alasataga undi.)"
+        },
+        {
+          "speaker": "Host",
+          "irula": "Unukku pasi edukkudā? Tanni kudi.",
+          "english": "Are you hungry? Drink water.",
+          "tamil": "உனக்கு பசி எடுக்குதா? தண்ணீர் குடி. (Unakku pasi edukkuthaa? Thanneer kudi.)",
+          "hindi": "क्या तुम्हें भूख लग रही है? पानी पियो। (Kya tumhein bhookh lag rahi hai? Paani piyo.)",
+          "telugu": "నీకు ఆకలి వేస్తోందా? నీళ్లు తాగు. (Neeku aakali vestondaa? Neellu taagu.)"
+        },
+        {
+          "speaker": "Guest",
+          "irula": "Āmā, emukku konjam sōru kudu.",
+          "english": "Yes, give me some food.",
+          "tamil": "ஆமா, எனக்கு கொஞ்சம் சோறு கொடு. (Aama, enakku konjam soru kodu.)",
+          "hindi": "हाँ, मुझे थोड़ा खाना दो। (Haan, mujhe thoda khaana do.)",
+          "telugu": "అవును, నాకు కొంచెం అన్నం ఇవ్వు. (Avunu, naaku konchem annam ivvu.)"
+        },
+        {
+          "speaker": "Host",
+          "irula": "Nallā tinnu.",
+          "english": "Eat well.",
+          "tamil": "நல்லா தின்னு (சாப்பிடு). (Nallaa thinnu.)",
+          "hindi": "अच्छे से खाओ। (Achchhe se khao.)",
+          "telugu": "బాగా తిను. (Baaga tinu.)"
+        }
+      ]
+    },
+    {
+      "id": "d005",
+      "scenario": "Health/Doctor (Expressing Pain)",
+      "lines": [
+        {
+          "speaker": "Healer",
+          "irula": "Enna āchu?",
+          "english": "What happened?",
+          "tamil": "என்ன ஆச்சு? (Enna aachu?)",
+          "hindi": "क्या हुआ? (Kya hua?)",
+          "telugu": "ఏమైంది? (Emaindi?)"
+        },
+        {
+          "speaker": "Patient",
+          "irula": "Emukku kālu valikkudu.",
+          "english": "My leg is hurting.",
+          "tamil": "எனக்கு கால் வலிக்குது. (Enakku kaal valikkuthu.)",
+          "hindi": "मेरे पैर में दर्द है। (Mere pair mein dard hai.)",
+          "telugu": "నాకు కాలు నొప్పిగా ఉంది. (Naaku kaalu noppiga undi.)"
+        },
+        {
+          "speaker": "Healer",
+          "irula": "Bhayappadāde. Inda marundu edu.",
+          "english": "Don't be scared. Take this medicine.",
+          "tamil": "பயப்படாதே. இந்த மருந்து எடு. (Bhayappadaathae. Intha marunthu edu.)",
+          "hindi": "डरो मत। यह दवा लो। (Daro mat. Yah dawa lo.)",
+          "telugu": "భయపడవద్దు. ఈ మందు తీసుకో. (Bhayapadavaddu. Ee mandu teesuko.)"
+        },
+        {
+          "speaker": "Patient",
+          "irula": "Ide eppo tinnanō?",
+          "english": "When should I eat it?",
+          "tamil": "இதை எப்போ தின்னணும்? (Ithai eppo thinnanum?)",
+          "hindi": "इसे कब खाना है? (Ise kab khaana hai?)",
+          "telugu": "దీన్ని ఎప్పుడు తినాలి? (Deenni eppudu tinaali?)"
+        },
+        {
+          "speaker": "Healer",
+          "irula": "Kāleyum rāttiriyum tinnu.",
+          "english": "Eat it in the morning and night.",
+          "tamil": "காலையும் ராத்திரியும் தின்னு. (Kaalaiyum raathiriyum thinnu.)",
+          "hindi": "इसे सुबह और रात को खाओ। (Ise subah aur raat ko khao.)",
+          "telugu": "ఉదయం మరియు రాత్రి తిను. (Udayam mariyu raatri tinu.)"
+        }
+      ]
+    },
+    {
+      "id": "d006",
+      "scenario": "Working in the Forest",
+      "lines": [
+        {
+          "speaker": "Person A",
+          "irula": "Nī enna vēle pannugiri?",
+          "english": "What work are you doing?",
+          "tamil": "நீ என்ன வேலை பண்ணுகிறாய்? (Nee enna velai pannugiraai?)",
+          "hindi": "तुम क्या काम कर रहे हो? (Tum kya kaam kar rahe ho?)",
+          "telugu": "నువ్వు ఏం పని చేస్తున్నావు? (Nuvvu em pani chestunnavu?)"
+        },
+        {
+          "speaker": "Person B",
+          "irula": "Nānu veragu edukkirēnu.",
+          "english": "I am collecting firewood.",
+          "tamil": "நான் விறகு எடுக்கிறேன். (Naan viragu edukkiren.)",
+          "hindi": "मैं लकड़ियाँ इकट्ठा कर रहा हूँ। (Main lakdiyan ikattha kar raha hoon.)",
+          "telugu": "నేను కట్టెలు ఏరుతున్నాను. (Nenu kattelu erutunnaanu.)"
+        },
+        {
+          "speaker": "Person A",
+          "irula": "Pāttu, mella pō.",
+          "english": "Watch out, go slowly.",
+          "tamil": "பார்த்து, மெல்ல போ. (Paarthu, mella poo.)",
+          "hindi": "ध्यान से, धीरे जाओ। (Dhyan se, dheere jao.)",
+          "telugu": "చూసుకుని, నెమ్మదిగా వెళ్ళు. (Choosukuni, nemmadiga vellu.)"
+        },
+        {
+          "speaker": "Person B",
+          "irula": "Seri, nānu pāttukkirēnu.",
+          "english": "Okay, I will take care.",
+          "tamil": "சரி, நான் பார்த்துக்கிறேன். (Seri, naan paarthukkiren.)",
+          "hindi": "ठीक है, मैं ध्यान रखूँगा। (Theek hai, main dhyan rakhunga.)",
+          "telugu": "సరే, నేను చూసుకుంటాను. (Sare, nenu choosukuntaanu.)"
+        }
+      ]
+    },
+    {
+      "id": "d007",
+      "scenario": "Talking about the Weather",
+      "lines": [
+        {
+          "speaker": "Person A",
+          "irula": "Innekki romba sūdu.",
+          "english": "Today is very hot.",
+          "tamil": "இன்னைக்கு ரொம்ப சூடு. (Innaikku romba soodu.)",
+          "hindi": "आज बहुत गर्मी है। (Aaj bahut garmi hai.)",
+          "telugu": "ఈ రోజు చాలా వేడిగా ఉంది. (Ee roju chaala vediga undi.)"
+        },
+        {
+          "speaker": "Person B",
+          "irula": "Āmā, veyyil jāsti.",
+          "english": "Yes, the sunlight is intense.",
+          "tamil": "ஆமா, வெயில் ஜாஸ்தி. (Aama, veyil jaasthi.)",
+          "hindi": "हाँ, धूप बहुत तेज़ है। (Haan, dhoop bahut tez hai.)",
+          "telugu": "అవును, ఎండ ఎక్కువగా ఉంది. (Avunu, enda ekkuvaga undi.)"
+        },
+        {
+          "speaker": "Person A",
+          "irula": "Male varumā?",
+          "english": "Will rain come?",
+          "tamil": "மழை வருமா? (Mazhai varumaa?)",
+          "hindi": "क्या बारिश होगी? (Kya baarish hogi?)",
+          "telugu": "వర్షం వస్తుందా? (Varsham vastundaa?)"
+        },
+        {
+          "speaker": "Person B",
+          "irula": "Oruvēle rāttiri varalām.",
+          "english": "Maybe it will come at night.",
+          "tamil": "ஒருவேளை ராத்திரி வரலாம். (Oruvelai raathiri varalaam.)",
+          "hindi": "शायद रात को आ सकती है। (Shayad raat ko aa sakti hai.)",
+          "telugu": "బహుశా రాత్రి రావచ్చు. (Bahusha raatri raavachu.)"
+        }
+      ]
+    },
+    {
+      "id": "d008",
+      "scenario": "Warning of Danger",
+      "lines": [
+        {
+          "speaker": "Person A",
+          "irula": "Pāttu nada!",
+          "english": "Walk carefully!",
+          "tamil": "பார்த்து நட! (Paarthu nada!)",
+          "hindi": "संभलकर चलो! (Sambhalkar chalo!)",
+          "telugu": "చూసుకుని నడువు! (Choosukuni naduvu!)"
+        },
+        {
+          "speaker": "Person B",
+          "irula": "Ēn? Enna āchu?",
+          "english": "Why? What happened?",
+          "tamil": "ஏன்? என்ன ஆச்சு? (Aen? Enna aachu?)",
+          "hindi": "क्यों? क्या हुआ? (Kyon? Kya hua?)",
+          "telugu": "ఎందుకు? ఏమైంది? (Enduku? Emaindi?)"
+        },
+        {
+          "speaker": "Person A",
+          "irula": "Akke oru pāmbu irukku.",
+          "english": "There is a snake there.",
+          "tamil": "அங்கே ஒரு பாம்பு இருக்கு. (Ange oru paambu irukku.)",
+          "hindi": "वहाँ एक सांप है। (Wahan ek saanp hai.)",
+          "telugu": "అక్కడ ఒక పాము ఉంది. (Akkada oka paamu undi.)"
+        },
+        {
+          "speaker": "Person B",
+          "irula": "Ayyō! Vēgamā ōdu!",
+          "english": "Oh no! Run fast!",
+          "tamil": "ஐயோ! வேகமா ஓடு! (Aiyyo! Vegamaa odu!)",
+          "hindi": "अरे! तेज़ भागो! (Are! Tez bhago!)",
+          "telugu": "అయ్యో! వేగంగా పరిగెత్తు! (Ayyo! Veganga parigettu!)"
+        }
+      ]
+    },
+    {
+      "id": "d009",
+      "scenario": "Comforting a Child",
+      "lines": [
+        {
+          "speaker": "Mother",
+          "irula": "Nī ēn alugiri?",
+          "english": "Why are you crying?",
+          "tamil": "நீ ஏன் அழுகிறாய்? (Nee aen azhugiraai?)",
+          "hindi": "तुम क्यों रो रहे हो? (Tum kyon ro rahe ho?)",
+          "telugu": "నువ్వు ఎందుకు ఏడుస్తున్నావు? (Nuvvu enduku edustunnavu?)"
+        },
+        {
+          "speaker": "Child",
+          "irula": "Emukku pasikkudu.",
+          "english": "I am hungry.",
+          "tamil": "எனக்கு பசிக்குது. (Enakku pasikkuthu.)",
+          "hindi": "मुझे भूख लग रही है। (Mujhe bhookh lag rahi hai.)",
+          "telugu": "నాకు ఆకలిగా ఉంది. (Naaku aakaliga undi.)"
+        },
+        {
+          "speaker": "Mother",
+          "irula": "Alāde. Pālu kudi.",
+          "english": "Don't cry. Drink milk.",
+          "tamil": "அழாதே. பால் குடி. (Azhaathae. Paal kudi.)",
+          "hindi": "रो मत। दूध पियो। (Ro mat. Doodh piyo.)",
+          "telugu": "ఏడవద్దు. పాలు తాగు. (Edavaddu. Paalu taagu.)"
+        },
+        {
+          "speaker": "Child",
+          "irula": "Romba santhōsam, tayi.",
+          "english": "Very happy (Thank you), mother.",
+          "tamil": "ரொம்ப சந்தோஷம், தாய். (Romba santhosham, thaai.)",
+          "hindi": "धन्यवाद, माँ। (Dhanyawad, maa.)",
+          "telugu": "చాలా సంతోషం, అమ్మ. (Chaala santhosham, amma.)"
+        }
+      ]
+    },
+    {
+      "id": "d010",
+      "scenario": "Saying Goodbye",
+      "lines": [
+        {
+          "speaker": "Guest",
+          "irula": "Ippo rāttiri āchu. Nānu pōgitu varugēnu.",
+          "english": "Now it is night. I am taking leave.",
+          "tamil": "இப்போ ராத்திரி ஆச்சு. நான் போயிட்டு வரேன். (Ippo raathiri aachu. Naan poittu varen.)",
+          "hindi": "अब रात हो गई है। मैं चलता हूँ। (Ab raat ho gayi hai. Main chalta hoon.)",
+          "telugu": "ఇప్పుడు రాత్రి అయింది. నేను వెళ్లి వస్తాను. (Ippudu raatri ayindi. Nenu velli vastanu.)"
+        },
+        {
+          "speaker": "Host",
+          "irula": "Seri, mella pō.",
+          "english": "Okay, go slowly.",
+          "tamil": "சரி, மெல்ல போ. (Seri, mella poo.)",
+          "hindi": "ठीक है, धीरे जाना। (Theek hai, dheere jaana.)",
+          "telugu": "సరే, నెమ్మదిగా వెళ్ళు. (Sare, nemmadiga vellu.)"
+        },
+        {
+          "speaker": "Guest",
+          "irula": "Nālekki kāle vā.",
+          "english": "Come tomorrow morning.",
+          "tamil": "நாளைக்கு காலை வா. (Naalaikku kaalai vaa.)",
+          "hindi": "कल सुबह आना। (Kal subah aana.)",
+          "telugu": "రేపు ఉదయం రా. (Repu udayam raa.)"
+        },
+        {
+          "speaker": "Host",
+          "irula": "Kandippā varugēnu.",
+          "english": "I will definitely come.",
+          "tamil": "கண்டிப்பா வரேன். (Kandippaa varen.)",
+          "hindi": "ज़रूर आऊँगा। (Zaroor aaunga.)",
+          "telugu": "ఖచ్చితంగా వస్తాను. (Khachchitanga vastanu.)"
+        }
+      ]
+    }
+    ],
+      "riddles": [
+    {
+      "id": "r001",
+      "riddle": {
+        "irula": "Udalukku teriyum, kannukku teriyādu. Adu enna?",
+        "english": "The body can feel it, but the eyes cannot see it. What is it?",
+        "tamil": "உடலுக்கு தெரியும், கண்ணுக்கு தெரியாது. அது என்ன? (Udalukku theriyum, kannukku theriyaathu. Athu enna?)",
+        "hindi": "शरीर को महसूस होता है, पर आँखों को नहीं दिखता। यह क्या है? (Shareer ko mahsoos hota hai, par aankhon ko nahi dikhta. Yah kya hai?)",
+        "telugu": "శరీరానికి తెలుస్తుంది, కానీ కళ్ళకు కనిపించదు. అది ఏమిటి? (Shareeraniki telustundi, kaani kallaku kanipinchadu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Kāttu",
+        "english": "Wind",
+        "tamil": "காற்று (Kaatru)",
+        "hindi": "हवा (Hawa)",
+        "telugu": "గాలి (Gaali)"
+      }
+    },
+    {
+      "id": "r002",
+      "riddle": {
+        "irula": "Pagalil kūda varum, rāttiriyil kāṇāma pōgum. Adu enna?",
+        "english": "It comes with you in the day, but disappears at night. What is it?",
+        "tamil": "பகலில் கூட வரும், ராத்திரியில் காணாமல் போகும். அது என்ன? (Pagalil kooda varum, raathiriyil kaanaamal pogum. Athu enna?)",
+        "hindi": "दिन में साथ आता है, रात में गायब हो जाता है। यह क्या है? (Din mein saath aata hai, raat mein gayab ho jata hai. Yah kya hai?)",
+        "telugu": "పగలు తోడుగా వస్తుంది, రాత్రి మాయమైపోతుంది. అది ఏమిటి? (Pagalu toduga vastundi, raatri maayamaipotundi. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Neralu",
+        "english": "Shadow",
+        "tamil": "நிழல் (Nizhal)",
+        "hindi": "परछाई (Parchhai)",
+        "telugu": "నీడ (Needa)"
+      }
+    },
+    {
+      "id": "r003",
+      "riddle": {
+        "irula": "Tanni kudippātti satturuvān, kāttu adittāl perusāvān. Adu enna?",
+        "english": "If given water it dies, if wind blows it grows big. What is it?",
+        "tamil": "தண்ணீர் குடித்தால் செத்துருவான், காற்று அடித்தால் பெருசாவான். அது என்ன? (Thanneer kudithaal sethuruvaan, kaatru adithaal perusaavaan. Athu enna?)",
+        "hindi": "पानी पीने से मर जाता है, हवा चलने से बड़ा हो जाता है। यह क्या है? (Paani peene se mar jata hai, hawa chalne se bada ho jata hai. Yah kya hai?)",
+        "telugu": "నీరు త్రాగితే చనిపోతాడు, గాలి వీస్తే పెద్దవాడవుతాడు. అది ఏమిటి? (Neeru traagite chanipotaadu, gaali veeste peddavaadavutaadu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Neruppu",
+        "english": "Fire",
+        "tamil": "நெருப்பு (Neruppu)",
+        "hindi": "आग (Aag)",
+        "telugu": "నిప్పు (Nippu)"
+      }
+    },
+    {
+      "id": "r004",
+      "riddle": {
+        "irula": "Oru osaramāna marattil, orē oru palam. Adu enna?",
+        "english": "On a very tall tree, there is only one fruit. What is it?",
+        "tamil": "ஒரு உயரமான மரத்தில், ஒரே ஒரு பழம். அது என்ன? (Oru uyaramaana marathil, ore oru pazham. Athu enna?)",
+        "hindi": "एक बहुत ऊँचे पेड़ पर, बस एक ही फल। यह क्या है? (Ek bahut oonche ped par, bas ek hi phal. Yah kya hai?)",
+        "telugu": "ఒక ఎత్తైన చెట్టు మీద, ఒకే ఒక పండు. అది ఏమిటి? (Oka ettaina chettu meeda, oke oka pandu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Sūriyan",
+        "english": "The Sun",
+        "tamil": "சூரியன் (Sooriyan)",
+        "hindi": "सूरज (Sooraj)",
+        "telugu": "సూర్యుడు (Sooryudu)"
+      }
+    },
+    {
+      "id": "r005",
+      "riddle": {
+        "irula": "Vānatil pūkkum pūvukku ennave mudiyādu. Adu enna?",
+        "english": "The flowers that bloom in the sky cannot be counted. What are they?",
+        "tamil": "வானத்தில் பூக்கும் பூவுக்கு எண்ணவே முடியாது. அது என்ன? (Vaanathil pookkum poovukku ennave mudiyaathu. Athu enna?)",
+        "hindi": "आसमान में खिलने वाले फूलों को गिना नहीं जा सकता। वे क्या हैं? (Aasman mein khilne wale phoolon ko gina nahi ja sakta. Ve kya hain?)",
+        "telugu": "ఆకాశంలో వికసించే పూలను లెక్కించలేము. అవి ఏమిటి? (Aakasamlo vikasinche poolanu lekkinchalemu. Avi emiti?)"
+      },
+      "answer": {
+        "irula": "Natchattiram",
+        "english": "Stars",
+        "tamil": "நட்சத்திரம் (Natchathiram)",
+        "hindi": "तारे (Taare)",
+        "telugu": "నక్షత్రాలు (Nakshatralu)"
+      }
+    },
+    {
+      "id": "r006",
+      "riddle": {
+        "irula": "Velle vīṭṭukku kadavu ille. Adu enna?",
+        "english": "The white house has no door. What is it?",
+        "tamil": "வெள்ளை வீட்டுக்கு கதவு இல்லை. அது என்ன? (Vellai veettukku kathavu illai. Athu enna?)",
+        "hindi": "सफेद घर का कोई दरवाज़ा नहीं है। यह क्या है? (Safed ghar ka koi darwaza nahi hai. Yah kya hai?)",
+        "telugu": "తెల్లని ఇంటికి తలుపు లేదు. అది ఏమిటి? (Tellani intiki talupu ledu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Mutte",
+        "english": "Egg",
+        "tamil": "முட்டை (Muttai)",
+        "hindi": "अंडा (Anda)",
+        "telugu": "గుడ్డు (Guddu)"
+      }
+    },
+    {
+      "id": "r007",
+      "riddle": {
+        "irula": "Mēle pacha, ullukka velle, naduvil tanni. Adu enna?",
+        "english": "Green outside, white inside, water in the middle. What is it?",
+        "tamil": "மேலே பச்சை, உள்ளே வெள்ளை, நடுவில் தண்ணீர். அது என்ன? (Maele pachai, ulle vellai, naduvil thanneer. Athu enna?)",
+        "hindi": "बाहर हरा, अंदर सफेद, बीच में पानी। यह क्या है? (Bahar hara, andar safed, beech mein paani. Yah kya hai?)",
+        "telugu": "పైన ఆకుపచ్చ, లోపల తెలుపు, మధ్యలో నీరు. అది ఏమిటి? (Paina aakupachcha, lopala telupu, madhyalo neeru. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Tēngāy",
+        "english": "Coconut",
+        "tamil": "தேங்காய் (Thengaay)",
+        "hindi": "नारियल (Nariyal)",
+        "telugu": "కొబ్బరికాయ (Kobbarikaya)"
+      }
+    },
+    {
+      "id": "r008",
+      "riddle": {
+        "irula": "Pagal ellām nadappān, rāttiri ellām tūnguvān, vāy illāda ālu. Adu yāru?",
+        "english": "Walks all day, sleeps all night, a person with no mouth. Who is it?",
+        "tamil": "பகல் எல்லாம் நடப்பான், ராத்திரி எல்லாம் தூங்குவான், வாய் இல்லாத ஆள். அது யார்? (Pagal ellaam nadappaan, raathiri ellaam thoonguvaan, vaay illaatha aal. Athu yaar?)",
+        "hindi": "दिन भर चलता है, रात भर सोता है, बिना मुँह का इंसान। यह क्या है? (Din bhar chalta hai, raat bhar sota hai, bina munh ka insaan. Yah kya hai?)",
+        "telugu": "పగలంతా నడుస్తాడు, రాత్రంతా నిద్రపోతాడు, నోరు లేని మనిషి. ఎవరు? (Pagalanta nadustaadu, raatrantaa nidrapotaadu, noru leni manishi. Evaru?)"
+      },
+      "answer": {
+        "irula": "Seruppu",
+        "english": "Shoes / Footwear",
+        "tamil": "செருப்பு (Seruppu)",
+        "hindi": "जूते / चप्पल (Jootey / Chappal)",
+        "telugu": "చెప్పులు (Cheppulu)"
+      }
+    },
+    {
+      "id": "r009",
+      "riddle": {
+        "irula": "Siveppu gugaikkul muppadu velle kallu. Adu enna?",
+        "english": "Inside a red cave, thirty white stones. What is it?",
+        "tamil": "சிவப்பு குகைக்குள் முப்பது வெள்ளை கல்லு. அது என்ன? (Sivappu kugaikkul muppathu vellai kallu. Athu enna?)",
+        "hindi": "लाल गुफा के अंदर तीस सफेद पत्थर। यह क्या है? (Laal gufa ke andar tees safed patthar. Yah kya hai?)",
+        "telugu": "ఎర్రటి గుహలో ముప్పై తెల్లటి రాళ్ళు. అది ఏమిటి? (Errati guhalo muppai tellati raallu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Pallu",
+        "english": "Teeth",
+        "tamil": "பல் (Pal)",
+        "hindi": "दांत (Daant)",
+        "telugu": "పళ్ళు (Pallu)"
+      }
+    },
+    {
+      "id": "r011",
+      "riddle": {
+        "irula": "Nī pāttā, aduvum pākkum. Nī sirittā, aduvum sirikkum. Adu enna?",
+        "english": "If you look, it also looks. If you laugh, it also laughs. What is it?",
+        "tamil": "நீ பார்த்தால், அதுவும் பார்க்கும். நீ சிரித்தால், அதுவும் சிரிக்கும். அது என்ன? (Nee paarthaal, athuvum paarkkum. Nee sirithaal, athuvum sirikkum. Athu enna?)",
+        "hindi": "तुम देखो तो वो भी देखे, तुम हँसो तो वो भी हँसे। यह क्या है? (Tum dekho to vo bhi dekhe, tum hanso to vo bhi hanse. Yah kya hai?)",
+        "telugu": "నువ్వు చూస్తే అది చూస్తుంది. నువ్వు నవ్వితే అది నవ్వుతుంది. అది ఏమిటి? (Nuvvu chooste adi choostundi. Nuvvu navvite adi navvutundi. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Kannādi",
+        "english": "Mirror",
+        "tamil": "கண்ணாடி (Kannaadi)",
+        "hindi": "आईना (Aaina)",
+        "telugu": "అద్దం (Addam)"
+      }
+    },
+    {
+      "id": "r012",
+      "riddle": {
+        "irula": "Kannu irukku, ānā pākkamudiyādu. Adu enna?",
+        "english": "It has an eye, but it cannot see. What is it?",
+        "tamil": "கண் இருக்கு, ஆனா பார்க்க முடியாது. அது என்ன? (Kan irukku, aanaa paarkka mudiyaathu. Athu enna?)",
+        "hindi": "आँख है पर देख नहीं सकती। यह क्या है? (Aankh hai par dekh nahi sakti. Yah kya hai?)",
+        "telugu": "కన్ను ఉంది కానీ చూడలేదు. అది ఏమిటి? (Kannu undi kaani choodaledu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Ūsi",
+        "english": "Needle",
+        "tamil": "ஊசி (Oosi)",
+        "hindi": "सुई (Sui)",
+        "telugu": "సూది (Soodi)"
+      }
+    },
+    {
+      "id": "r013",
+      "riddle": {
+        "irula": "Rāttiri vānatil velli taṭṭu, ānā sōru tinna mudiyādu. Adu enna?",
+        "english": "A silver plate in the night sky, but you cannot eat food from it. What is it?",
+        "tamil": "ராத்திரி வானத்தில் வெள்ளி தட்டு, ஆனா சோறு தின்ன முடியாது. அது என்ன? (Raathiri vaanathil velli thattu, aanaa soru thinna mudiyaathu. Athu enna?)",
+        "hindi": "रात के आसमान में चाँदी की थाली, पर उसमें खा नहीं सकते। यह क्या है? (Raat ke aasman mein chaandi ki thaali, par usmein khaa nahi sakte. Yah kya hai?)",
+        "telugu": "రాత్రి ఆకాశంలో వెండి పళ్ళెం, కానీ అన్నం తినలేము. అది ఏమిటి? (Raatri aakasamlo vendi pallem, kaani annam tinalemu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Nilā",
+        "english": "Moon",
+        "tamil": "நிலா (Nila)",
+        "hindi": "चाँद (Chaand)",
+        "telugu": "చంద్రుడు (Chandrudu)"
+      }
+    },
+    {
+      "id": "r014",
+      "riddle": {
+        "irula": "Sinna kāvālkāran, vāyaru perusu, sāvi pōttā torakkum. Adu enna?",
+        "english": "A small guard with a big stomach, it opens when you put the key in. What is it?",
+        "tamil": "சின்ன காவல்காரன், வயிறு பெரிசு, சாவி போட்டால் திறக்கும். அது என்ன? (Sinna kaavalkaaran, vayiru perisu, saavi pottaal thirakkum. Athu enna?)",
+        "hindi": "छोटा सा चौकीदार, पेट बड़ा, चाबी लगाने पर खुलता है। यह क्या है? (Chhota sa chaukidaar, pet bada, chaabi lagane par khulta hai. Yah kya hai?)",
+        "telugu": "చిన్న కాపలాదారుడు, పొట్ట పెద్దది, తాళం వేస్తే తెరుచుకుంటుంది. అది ఏమిటి? (Chinna kaapalaadaarudu, potta peddadi, taalam veste teruchukuntundi. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Pūṭṭu",
+        "english": "Lock",
+        "tamil": "பூட்டு (Poottu)",
+        "hindi": "ताला (Taala)",
+        "telugu": "తాళం (Taalam)"
+      }
+    },
+    {
+      "id": "r015",
+      "riddle": {
+        "irula": "Mēleyum pōgum, kīleyum pōgum, ānā nagarādu. Adu enna?",
+        "english": "It goes up, and it goes down, but it never moves. What is it?",
+        "tamil": "மேலேயும் போகும், கீழேயும் போகும், ஆனா நகராது. அது என்ன? (Maeleyum pogum, keezheyum pogum, aanaa nagaraathu. Athu enna?)",
+        "hindi": "ऊपर भी जाए, नीचे भी जाए, पर अपनी जगह से न हिले। यह क्या है? (Upar bhi jaye, neeche bhi jaye, par apni jagah se na hile. Yah kya hai?)",
+        "telugu": "పైకి వెళుతుంది, కిందకి వెళుతుంది, కానీ కదలదు. అది ఏమిటి? (Paiki velutundi, kindaki velutundi, kaani kadaladu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Vali",
+        "english": "Road / Path",
+        "tamil": "வழி (Vazhi)",
+        "hindi": "रास्ता (Raasta)",
+        "telugu": "దారి (Daari)"
+      }
+    },
+    {
+      "id": "r016",
+      "riddle": {
+        "irula": "Vīdu ellām suttam pannum, ānā mūleyil nikkum. Adu enna?",
+        "english": "It cleans the whole house, but stands in the corner. What is it?",
+        "tamil": "வீடு எல்லாம் சுத்தம் பண்ணும், ஆனா மூலையில் நிற்கும். அது என்ன? (Veedu ellaam suttham pannum, aanaa moolaiyil nirkkum. Athu enna?)",
+        "hindi": "पूरे घर को साफ करे, पर कोने में खड़ी रहे। यह क्या है? (Poore ghar ko saaf kare, par kone mein khadi rahe. Yah kya hai?)",
+        "telugu": "ఇల్లంతా శుభ్రం చేస్తుంది, కానీ మూలలో నిలబడుతుంది. అది ఏమిటి? (Illanta subhram chestundi, kaani moolalo nilabadutundi. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Todappam",
+        "english": "Broom",
+        "tamil": "தொடப்பம் (Thodappam)",
+        "hindi": "झाड़ू (Jhaadu)",
+        "telugu": "చీపురు (Cheepuru)"
+      }
+    },
+    {
+      "id": "r017",
+      "riddle": {
+        "irula": "Sirusā irukkumpōdu surundu irukkum, torandā sōru tinnuvōmu. Adu enna?",
+        "english": "When young it is rolled up, when open we eat food on it. What is it?",
+        "tamil": "சிறுசா இருக்கும்போது சுருண்டு இருக்கும், திறந்தா சோறு தின்னுவோம். அது என்ன? (Sirusaa irukkumbothu surundu irukkum, thiranthaa soru thinnuvom. Athu enna?)",
+        "hindi": "जब छोटा हो तो मुड़ा हुआ, खुलने पर हम उस पर खाते हैं। यह क्या है? (Jab chhota ho to muda hua, khulne par hum us par khaate hain. Yah kya hai?)",
+        "telugu": "చిన్నగా ఉన్నప్పుడు చుట్టుకుని ఉంటుంది, తెరిచాక అన్నం తింటాము. అది ఏమిటి? (Chinnaga unnappudu chuttukuni untundi, terichaaka annam tintaamu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Vāle ele",
+        "english": "Banana Leaf",
+        "tamil": "வாழை இலை (Vaazhai ilai)",
+        "hindi": "केले का पत्ता (Kele ka patta)",
+        "telugu": "అరటి ఆకు (Arati aaku)"
+      }
+    },
+    {
+      "id": "r018",
+      "riddle": {
+        "irula": "Tanni-il nīndum, ānā padagu ille. Adu enna?",
+        "english": "It swims in water, but it is not a boat. What is it?",
+        "tamil": "தண்ணியில் நீந்தும், ஆனா படகு இல்லை. அது என்ன? (Thanniyil neenthum, aanaa padagu illai. Athu enna?)",
+        "hindi": "पानी में तैरती है, पर नाव नहीं। यह क्या है? (Paani mein tairti hai, par naav nahi. Yah kya hai?)",
+        "telugu": "నీటిలో ఈదుతుంది, కానీ పడవ కాదు. అది ఏమిటి? (Neetilo eedutundi, kaani padava kaadu. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Mīnu",
+        "english": "Fish",
+        "tamil": "மீன் (Meen)",
+        "hindi": "मछली (Machhli)",
+        "telugu": "చేప (Chepa)"
+      }
+    },
+    {
+      "id": "r019",
+      "riddle": {
+        "irula": "Dinamum vettinālum, tirumbavum valarum. Adu enna?",
+        "english": "Even if you cut it every day, it will grow again. What is it?",
+        "tamil": "தினமும் வெட்டினாலும், திரும்பவும் வளரும். அது என்ன? (Dhinamum vettinaalum, thirumbavum valarum. Athu enna?)",
+        "hindi": "रोज़ काटो, फिर भी बढ़ता रहे। यह क्या है? (Roz kaato, phir bhi badhta rahe. Yah kya hai?)",
+        "telugu": "ప్రతిరోజూ కత్తిరించినా, మళ్ళీ పెరుగుతుంది. అది ఏమిటి? (Pratiroju kattirinchina, malli perugutundi. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Mudi",
+        "english": "Hair",
+        "tamil": "முடி (Mudi)",
+        "hindi": "बाल (Baal)",
+        "telugu": "జుట్టు (Juttu)"
+      }
+    },
+    {
+      "id": "r020",
+      "riddle": {
+        "irula": "Kannu mūdi, vēra olagattukku konda pōgum. Adu enna?",
+        "english": "It closes your eyes and takes you to another world. What is it?",
+        "tamil": "கண்ணை மூடி, வேற உலகத்துக்கு கொண்டு போகும். அது என்ன? (Kannai moodi, vera ulagathukku kondu pogum. Athu enna?)",
+        "hindi": "आँखें बंद कर, दूसरी दुनिया में ले जाए। यह क्या है? (Aankhein band kar, doosri duniya mein le jaye. Yah kya hai?)",
+        "telugu": "కళ్ళు మూసి, వేరే ప్రపంచానికి తీసుకువెళుతుంది. అది ఏమిటి? (Kallu moosi, vere prapanchaniki teesukuvelutundi. Adi emiti?)"
+      },
+      "answer": {
+        "irula": "Kanavu",
+        "english": "Dream",
+        "tamil": "கனவு (Kanavu)",
+        "hindi": "सपना (Sapna)",
+        "telugu": "కల (Kala)"
+      }
+    }
+  ],
+  "grammar_rules": [
+    {
+      "id": "g001",
+      "rule_name": "Making Plurals",
+      "explanation": "To make a noun plural in Irula, we typically add the suffix '-ga' or '-nga' to the end of the root word, similar to spoken Tamil.",
+      "examples": [
+        {
+          "irula": "maram -> maranga",
+          "english": "tree -> trees",
+          "tamil": "மரம் -> மரங்கள் (Maram -> Marangal)",
+          "hindi": "पेड़ -> पेड़ (बहुवचन) (Ped -> Ped (plural))",
+          "telugu": "చెట్టు -> చెట్లు (Chettu -> Chetlu)"
+        },
+        {
+          "irula": "kuruvi -> kuruviga",
+          "english": "bird -> birds",
+          "tamil": "குருவி -> குருவிகள் (Kuruvi -> Kuruvigal)",
+          "hindi": "चिड़िया -> चिड़ियाँ (Chidiya -> Chidiyan)",
+          "telugu": "పక్షి -> పక్షులు (Pakshi -> Pakshulu)"
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "rule_name": "Polite / Plural Commands",
+      "explanation": "The basic form of an action verb (like 'vā' or 'pō') is used to command one person informally. To make it respectful or plural, add '-nga' to the end.",
+      "examples": [
+        {
+          "irula": "vā -> vānga",
+          "english": "come -> come (respectful)",
+          "tamil": "வா -> வாங்க (Vaa -> Vaanga)",
+          "hindi": "आओ -> आइए (Aao -> Aaiye)",
+          "telugu": "రా -> రండి (Raa -> Randi)"
+        },
+        {
+          "irula": "ukkāru -> ukkārunga",
+          "english": "sit -> sit (respectful)",
+          "tamil": "உட்காரு -> உட்காருங்க (Utkaaru -> Utkaarunga)",
+          "hindi": "बैठो -> बैठिए (Baitho -> Baithiye)",
+          "telugu": "కూర్చో -> కూర్చోండి (Kurcho -> Kurchondi)"
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "rule_name": "Present Tense (First Person - 'I am doing')",
+      "explanation": "When speaking about an action you are currently doing ('I am...'), attach the suffix '-gēnu' or '-girēnu' to the verb root.",
+      "examples": [
+        {
+          "irula": "Nānu pōgēnu.",
+          "english": "I am going.",
+          "tamil": "நான் போகிறேன். (Naan pogiren.)",
+          "hindi": "मैं जा रहा हूँ। (Main ja raha hoon.)",
+          "telugu": "నేను వెళ్తున్నాను. (Nenu veltunnaanu.)"
+        },
+        {
+          "irula": "Nānu tinnugēnu.",
+          "english": "I am eating.",
+          "tamil": "நான் தின்கிறேன் / சாப்பிடுகிறேன். (Naan thinkiren.)",
+          "hindi": "मैं खा रहा हूँ। (Main kha raha hoon.)",
+          "telugu": "నేను తింటున్నాను. (Nenu tintunnaanu.)"
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "rule_name": "Past Tense (First Person - 'I did')",
+      "explanation": "To talk about actions you completed in the past ('I did...'), verbs take past-tense suffixes like '-tēnu', '-ndēnu', or '-nēnu'.",
+      "examples": [
+        {
+          "irula": "Nānu vandēnu.",
+          "english": "I came.",
+          "tamil": "நான் வந்தேன். (Naan vanthen.)",
+          "hindi": "मैं आया। (Main aaya.)",
+          "telugu": "నేను వచ్చాను. (Nenu vachaanu.)"
+        },
+        {
+          "irula": "Nānu pōnēnu.",
+          "english": "I went.",
+          "tamil": "நான் போனேன். (Naan ponen.)",
+          "hindi": "मैं गया। (Main gaya.)",
+          "telugu": "నేను వెళ్ళాను. (Nenu vellaanu.)"
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "rule_name": "Yes/No Questions (The '-ā' Suffix)",
+      "explanation": "To turn a statement into a Yes/No question in Irula, simply add a long '-ā' sound to the very last word of the sentence.",
+      "examples": [
+        {
+          "irula": "Idu nalladā?",
+          "english": "Is this good? (from 'Idu nalladu' = This is good)",
+          "tamil": "இது நல்லதா? (Ithu nallathaa?)",
+          "hindi": "क्या यह अच्छा है? (Kya yah achchha hai?)",
+          "telugu": "ఇది మంచిదా? (Idi manchidaa?)"
+        },
+        {
+          "irula": "Male varudā?",
+          "english": "Is rain coming? (from 'Male varudu' = Rain is coming)",
+          "tamil": "மழை வருதா? (Mazhai varuthaa?)",
+          "hindi": "क्या बारिश आ रही है? (Kya baarish aa rahi hai?)",
+          "telugu": "వర్షం వస్తుందా? (Varsham vastundaa?)"
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "rule_name": "Negative Commands ('Don't do...')",
+      "explanation": "To tell someone NOT to do an action, add the suffix '-āde' to the root verb.",
+      "examples": [
+        {
+          "irula": "pō -> pōgāde",
+          "english": "go -> don't go",
+          "tamil": "போ -> போகாதே (Poo -> Pogaathae)",
+          "hindi": "जाओ -> मत जाओ (Jao -> Mat jao)",
+          "telugu": "వెళ్ళు -> వెళ్ళవద్దు (Vellu -> Vellavaddu)"
+        },
+        {
+          "irula": "sollu -> sollāde",
+          "english": "tell -> don't tell",
+          "tamil": "சொல்லு -> சொல்லாதே (Sollu -> Sollaathae)",
+          "hindi": "कहो -> मत कहो (Kaho -> Mat kaho)",
+          "telugu": "చెప్పు -> చెప్పవద్దు (Cheppu -> Cheppavaddu)"
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "rule_name": "Possession ('My' and 'Your')",
+      "explanation": "To show ownership, the pronouns 'nānu' (I) and 'nī' (you) change into 'en' (my) and 'un' (your) before a noun.",
+      "examples": [
+        {
+          "irula": "en vīdu",
+          "english": "my house",
+          "tamil": "என் வீடு (En veedu)",
+          "hindi": "मेरा घर (Mera ghar)",
+          "telugu": "నా ఇల్లు (Naa illu)"
+        },
+        {
+          "irula": "un pēru",
+          "english": "your name",
+          "tamil": "உன் பெயர் / பேரு (Un peyar / peru)",
+          "hindi": "तुम्हारा नाम (Tumhara naam)",
+          "telugu": "నీ పేరు (Nee peru)"
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "rule_name": "Direction / Destination ('To' a place)",
+      "explanation": "To say you are going TO a destination, attach the suffix '-kku' or '-ukku' to the noun (similar to the Dative case in other Dravidian languages).",
+      "examples": [
+        {
+          "irula": "vīdu -> vīṭṭukku",
+          "english": "house -> to the house",
+          "tamil": "வீடு -> வீட்டுக்கு (Veedu -> Veettukku)",
+          "hindi": "घर -> घर को / घर की ओर (Ghar -> Ghar ko)",
+          "telugu": "ఇల్లు -> ఇంటికి (Illu -> Intiki)"
+        },
+        {
+          "irula": "kādu -> kāṭṭukku",
+          "english": "forest -> to the forest",
+          "tamil": "காடு -> காட்டுக்கு (Kaadu -> Kaattukku)",
+          "hindi": "जंगल -> जंगल को (Jangal -> Jangal ko)",
+          "telugu": "అడవి -> అడవికి (Adavi -> Adaviki)"
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "rule_name": "Location ('In' or 'At' a place)",
+      "explanation": "To say something is located IN or AT a specific place, attach the locative suffix '-le' to the noun.",
+      "examples": [
+        {
+          "irula": "vīṭṭule",
+          "english": "in the house / at home",
+          "tamil": "வீட்டில் / வீட்டுல (Veettil / Veettula)",
+          "hindi": "घर में (Ghar mein)",
+          "telugu": "ఇంట్లో (Intlo)"
+        },
+        {
+          "irula": "kāṭṭule",
+          "english": "in the forest",
+          "tamil": "காட்டில் / காட்டுல (Kaattil / Kaattula)",
+          "hindi": "जंगल में (Jangal mein)",
+          "telugu": "అడవిలో (Adavilo)"
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "rule_name": "Future Tense (First Person - 'I will')",
+      "explanation": "To talk about actions you will do in the future, verbs take suffixes like '-vēnu' or '-pēnu' for the first person ('I').",
+      "examples": [
+        {
+          "irula": "Nānu varuvēnu.",
+          "english": "I will come.",
+          "tamil": "நான் வருவேன். (Naan varuven.)",
+          "hindi": "मैं आऊँगा। (Main aaunga.)",
+          "telugu": "నేను వస్తాను. (Nenu vastaanu.)"
+        },
+        {
+          "irula": "Nānu pōvēnu.",
+          "english": "I will go.",
+          "tamil": "நான் போவேன். (Naan poven.)",
+          "hindi": "मैं जाऊँगा। (Main jaunga.)",
+          "telugu": "నేను వెళ్తాను. (Nenu veltaanu.)"
+        }
+      ]
+    }
+  ]
+}
